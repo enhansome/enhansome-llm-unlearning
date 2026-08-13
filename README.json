@@ -1,0 +1,2638 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-07-11T00:38:08Z",
+                "owner": "smsnobin77",
+                "repo": "Awesome-Multimodal-Unlearning",
+                "stars": 7
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "CBD: API-Only LLM Black-Box Unlearning through Controlled Behavioral Divergence",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-12T21:43:56Z",
+                "owner": "DGL-codes",
+                "repo": "CBD",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "MLUBench: A Benchmark for Lifelong Unlearning Evaluation in MLLMs",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2025-05-11T14:15:26Z",
+                "owner": "lihe-maxsize",
+                "repo": "Lifelong_Unlearning_main",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "On the Robustness of Machine Unlearning for Vision-Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-05-27T03:44:28Z",
+                "owner": "XMUDeepLIT",
+                "repo": "VLM-UnL-Attack",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Measuring the Depth of LLM Unlearning via Activation Patching",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-05T11:19:13Z",
+                "owner": "gnueaj",
+                "repo": "unlearning-depth-score",
+                "stars": 9
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "DualOptim+: Bridging Shared and Decoupled Optimizer States for Better Machine Unlearning in Large Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-20T12:01:41Z",
+                "owner": "CityU-MLO",
+                "repo": "DualOptimPlus",
+                "stars": 3
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ZeroUnlearn: Few-Shot Knowledge Unlearning in Large Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-05-05T02:16:35Z",
+                "owner": "XMUDeepLIT",
+                "repo": "ZeroUnlearn",
+                "stars": 5
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Machine Unlearning for Masked Diffusion Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-05-25T05:38:26Z",
+                "owner": "leegeoru",
+                "repo": "MDU",
+                "stars": 3
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Distinguishable Deletion: Unifying Knowledge Erasure and Refusal for Large Language Model Unlearning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "BackFlush: Knowledge-Free Backdoor Detection and Elimination with Watermark Preservation in Large Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-26T09:57:01Z",
+                "owner": "JagadeeshAI",
+                "repo": "backFlush",
+                "stars": 1
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Object Hallucination-Free Reinforcement Unlearning for Vision-Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-05-08T07:29:59Z",
+                "owner": "XMUDeepLIT",
+                "repo": "HFRU",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Metric Unreliability in Multimodal Machine Unlearning: A Systematic Analysis and Principled Unified Score",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-05-01T08:32:15Z",
+                "owner": "neurips26",
+                "repo": "UnifiedUnl",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Subspace Control: Turning Constrained Model Steering into Controllable Spectral Optimization",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-04-05T16:19:34Z",
+                "owner": "OPTML-Group",
+                "repo": "SIFT",
+                "stars": 6
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Can VLMs Truly Forget? Benchmarking Training-Free Visual Concept Unlearning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-22T06:36:38Z",
+                "owner": "zhangyun04",
+                "repo": "ULBench",
+                "stars": 1
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "From Chaos to Clarity: A Knowledge Graph-Driven Audit Dataset Generation Framework for LLM Unlearning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-11-11T09:33:43Z",
+                "owner": "lenijwp",
+                "repo": "LUCID",
+                "stars": 3
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "MPU: Towards Secure and Privacy-Preserving Knowledge Unlearning for Large Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "REBEL: Hidden Knowledge Recovery via Evolutionary-Based Evaluation Loop",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-03-29T21:21:21Z",
+                "owner": "patryk-rybak",
+                "repo": "REBEL",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "AGT^AO: Robust and Stabilized LLM Unlearning via Adversarial Gating Training with Adaptive Orthogonality",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-05-28T11:53:49Z",
+                "owner": "TiezMind",
+                "repo": "AGT-unlearning",
+                "stars": 6
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Behemoth: Benchmarking Unlearning in LLMs Using Fully Synthetic Data",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-02-02T22:58:00Z",
+                "owner": "IST-DASLab",
+                "repo": "behemoth",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "LLMs Can Unlearn Refusal with Only 1,000 Benign Samples",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-28T03:06:08Z",
+                "owner": "guoyang9",
+                "repo": "refusal-unlearning",
+                "stars": 5
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Towards Fair Large Language Model-based Recommender Systems without Costly Retraining",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-28T06:17:10Z",
+                "owner": "JinLi-i",
+                "repo": "FUDLR",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ForgetMark: Stealthy Fingerprint Embedding via Targeted Unlearning in Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-09-18T15:49:57Z",
+                "owner": "Xuzhenhua55",
+                "repo": "ForgetMark",
+                "stars": 3
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Robust LLM Unlearning via Post Judgment and Multi-round Thinking",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-02-20T05:26:03Z",
+                "owner": "ChnIRuI",
+                "repo": "PoRT_LLM_Unlearning",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Can Prompts Rewind Time for LLMs? Evaluating the Effectiveness of Prompted Knowledge Cutoffs",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-15T20:21:19Z",
+                "owner": "gxx27",
+                "repo": "time_unlearn",
+                "stars": 2
+              }
+            }
+          ]
+        }
+      ],
+      "title": "2026"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "UMU-Bench: Closing the Modality Gap in Multimodal Unlearning Evaluation",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-05-10T08:49:40Z",
+                "owner": "QDRhhhh",
+                "repo": "UMU-bench",
+                "stars": 7
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Identifying Unlearned Data in LLMs via Membership Inference Attacks",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-09-20T02:23:31Z",
+                "owner": "AdvitDeepak",
+                "repo": "fuma",
+                "stars": 1
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Refusal Is Not an Option: Unlearning Safety Alignment of Large Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-17T08:44:37Z",
+                "owner": "minkyoo9",
+                "repo": "Unlearning-safety-alignment",
+                "stars": 3
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Geometric-disentangelment Unlearning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-02-04T18:53:47Z",
+                "owner": "Lemutisme",
+                "repo": "Geometric-Unlearning",
+                "stars": 6
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Deep Ignorance: Filtering Pretraining Data Builds Tamper-Resistant Safeguards into Open-Weight LLMs",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-07T10:05:11Z",
+                "owner": "EleutherAI",
+                "repo": "deep-ignorance",
+                "stars": 25
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Measuring Chain of Thought Faithfulness by Unlearning Reasoning Steps",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-08-30T10:37:45Z",
+                "owner": "technion-cs-nlp",
+                "repo": "parametric-faithfulness",
+                "stars": 23
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Reasoning Model Unlearning: Forgetting Traces, Not Just Answers, While Preserving Reasoning Skills",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-11-03T02:42:30Z",
+                "owner": "OPTML-Group",
+                "repo": "Unlearn-R2MU",
+                "stars": 11
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Lifting Data-Tracing Machine Unlearning to Knowledge-Tracing for Foundation Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-06-16T02:17:24Z",
+                "owner": "1yuwen",
+                "repo": "Knowledge-Tracing-MU",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "UniErase: Unlearning Token as a Universal Erasure Primitive for Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-14T15:01:41Z",
+                "owner": "Ymm-cll",
+                "repo": "UniErase",
+                "stars": 1
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Exploring Criteria of Loss Reweighting to Enhance LLM Unlearning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-05-07T04:43:44Z",
+                "owner": "Puning97",
+                "repo": "SatImp-for-LLM-Unlearning",
+                "stars": 1
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Layered Unlearning for Adversarial Relearning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-06-01T20:52:45Z",
+                "owner": "12tqian",
+                "repo": "layered-unlearning",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "WaterDrum: Watermarking for Data-centric Unlearning Metric",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-07-25T12:16:37Z",
+                "owner": "realXinyangLu",
+                "repo": "WaterDrum",
+                "stars": 4
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Unlearning vs. Obfuscation: Are We Truly Removing Knowledge?",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-09-08T07:46:23Z",
+                "owner": "potsawee",
+                "repo": "unlearning-dfmcq",
+                "stars": 3
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Unlearning Sensitive Information in Multimodal LLMs: Benchmark and Attack-Defense Evaluation",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-05-07T02:42:01Z",
+                "owner": "Vaidehi99",
+                "repo": "UnLOK-VQA",
+                "stars": 4
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "AegisLLM: Scaling Agentic Systems for Self-Reflective Defense in LLM Security",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-02-17T05:48:41Z",
+                "owner": "zikuicai",
+                "repo": "aegisllm",
+                "stars": 35
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ParaPO: Aligning Language Models to Reduce Verbatim Reproduction of Pre-training Data",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-05-06T21:32:59Z",
+                "owner": "chentong0",
+                "repo": "ParaPO",
+                "stars": 6
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "LLM Unlearning Reveals a Stronger-Than-Expected Coreset Effect in Current Benchmarks",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-04-22T16:26:06Z",
+                "owner": "OPTML-Group",
+                "repo": "MU-Coreset",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "SAEs $\\textit{Can}$ Improve Unlearning: Dynamic Sparse Autoencoder Guardrails for Precision Unlearning in LLMs",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-13T03:46:49Z",
+                "owner": "aashiqmuhamed",
+                "repo": "DynamicSAEGuardrails",
+                "stars": 8
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Not All Data Are Unlearned Equally",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-03T20:37:59Z",
+                "owner": "McGill-NLP",
+                "repo": "unequal-unlearning",
+                "stars": 8
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Gradual Negative Matching for LLM Unlearning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-09-21T15:01:45Z",
+                "owner": "Georgetown-IR-Lab",
+                "repo": "GNM",
+                "stars": 1
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Improving LLM Safety Alignment with Dual-Objective Optimization",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-04-07T23:57:31Z",
+                "owner": "wicai24",
+                "repo": "DOOR-Alignment",
+                "stars": 21
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "AILS-NTUA at SemEval-2025 Task 4: Parameter-Efficient Unlearning for Large Language Models using Data Chunking",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-04-10T19:22:09Z",
+                "owner": "iraklis07",
+                "repo": "llm-unlearning",
+                "stars": 4
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "A General Framework to Enhance Fine-tuning-based LLM Unlearning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-02-28T18:18:04Z",
+                "owner": "renjie3",
+                "repo": "GRUN",
+                "stars": 6
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Modality-Aware Neuron Pruning for Unlearning in Multimodal Large Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-05-22T05:56:39Z",
+                "owner": "franciscoliu",
+                "repo": "MANU",
+                "stars": 13
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "CoME: An Unlearning-based Approach to Conflict-free Model Editing",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-02-25T10:01:20Z",
+                "owner": "ekgus9",
+                "repo": "COME",
+                "stars": 3
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "UPCORE: Utility-Preserving Coreset Selection for Balanced Unlearning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-02-24T01:39:06Z",
+                "owner": "Vaidehi99",
+                "repo": "UPCORE",
+                "stars": 4
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Beyond Single-Value Metrics: Evaluating and Enhancing LLM Unlearning with Cognitive Diagnosis",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-03-23T06:19:33Z",
+                "owner": "lyicheng619",
+                "repo": "UNCD",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ReLearn: Unlearning via Learning for Large Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-09-18T09:49:17Z",
+                "owner": "zjunlp",
+                "repo": "unlearn",
+                "stars": 49
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware Minimization Perspective and Beyond",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-09-27T18:34:01Z",
+                "owner": "OPTML-Group",
+                "repo": "Unlearn-Smooth",
+                "stars": 24
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Tool Unlearning for Tool-Augmented LLMs",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-11T20:53:56Z",
+                "owner": "CLU-UML",
+                "repo": "MU-Bench",
+                "stars": 5
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Precise In-Parameter Concept Erasure in Large Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-28T02:31:59Z",
+                "owner": "yoavgur",
+                "repo": "PISCES",
+                "stars": 14
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Machine Unlearning of Personally Identifiable Information in Large Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-08-14T11:57:31Z",
+                "owner": "pariidanDKE",
+                "repo": "Toward-Practical-PII-Unlearning",
+                "stars": 3
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "LLM-Eraser: Optimizing Large Language Model Unlearning through Selective Pruning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-12-31T02:50:47Z",
+                "owner": "mmichaelzhang",
+                "repo": "LLM-Eraser",
+                "stars": 2
+              }
+            }
+          ]
+        }
+      ],
+      "title": "2025"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Investigating the Feasibility of Mitigating Potential Copyright Infringement via Large Language Model Unlearning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-01-29T16:52:21Z",
+                "owner": "guangyaodou",
+                "repo": "SSU_Unlearn",
+                "stars": 1
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Does Unlearning Truly Unlearn? A Black Box Evaluation of LLM Unlearning Methods",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-03-12T15:28:22Z",
+                "owner": "JaiDoshi",
+                "repo": "Knowledge-Erasure",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Benchmarking Vision Language Model Unlearning via Fictitious Facial Identity Dataset",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-04-06T22:05:08Z",
+                "owner": "SaFo-Lab",
+                "repo": "FIUBench",
+                "stars": 27
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "RESTOR: Knowledge Recovery through Machine Unlearning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-06-04T00:40:51Z",
+                "owner": "k1rezaei",
+                "repo": "restor",
+                "stars": 7
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-03-13T03:16:09Z",
+                "owner": "franciscoliu",
+                "repo": "MLLMU-Bench",
+                "stars": 56
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "WAGLE: Strategic Weight Attribution for Effective and Modular Unlearning in Large Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-12-16T18:44:50Z",
+                "owner": "OPTML-Group",
+                "repo": "WAGLE",
+                "stars": 19
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Does your LLM truly unlearn? An embarrassingly simple approach to recover unlearned knowledge",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-02-22T05:02:23Z",
+                "owner": "zzwjames",
+                "repo": "FailureLLMUnlearning",
+                "stars": 39
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Evaluating Deep Unlearning in Large Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-04-25T01:05:15Z",
+                "owner": "wrh14",
+                "repo": "deep_unlearning",
+                "stars": 14
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Unlearning Backdoor Attacks for LLMs with Weak-to-Strong Knowledge Distillation",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-05-18T06:03:02Z",
+                "owner": "shuaizhao95",
+                "repo": "w2sdefense",
+                "stars": 9
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Breaking Chains: Unraveling the Links in Multi-Hop Knowledge Unlearning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-10-17T06:52:05Z",
+                "owner": "brightjade",
+                "repo": "Munch",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Do Unlearning Methods Remove Information from Language Model Weights?",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-10-09T03:36:42Z",
+                "owner": "aghyad-deeb",
+                "repo": "unlearning_evaluation",
+                "stars": 12
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "A Closer Look at Machine Unlearning for Large Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-12-04T11:15:28Z",
+                "owner": "sail-sg",
+                "repo": "closer-look-LLM-unlearning",
+                "stars": 49
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Simplicity Prevails: Rethinking Negative Preference Optimization for LLM Unlearning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-10-03T17:39:54Z",
+                "owner": "OPTML-Group",
+                "repo": "Unlearn-Simple",
+                "stars": 46
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Dissecting Fine-Tuning Unlearning in Large Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-10-10T18:04:59Z",
+                "owner": "yihuaihong",
+                "repo": "Dissecting-FT-Unlearning",
+                "stars": 14
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "NegMerge: Consensual Weight Negation for Strong Machine Unlearning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-11-25T02:59:40Z",
+                "owner": "naver-ai",
+                "repo": "negmerge",
+                "stars": 16
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "An Adversarial Perspective on Machine Unlearning for AI Safety",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-10-06T23:34:00Z",
+                "owner": "ethz-spylab",
+                "repo": "unlearning-vs-safety",
+                "stars": 27
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Alternate Preference Optimization for Unlearning Factual Knowledge in Large Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-01-14T03:21:53Z",
+                "owner": "molereddy",
+                "repo": "Alternate-Preference-Optimization",
+                "stars": 13
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "MEOW: MEMOry Supervised LLM Unlearning Via Inverted Facts",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-05-16T06:20:00Z",
+                "owner": "Carol-gutianle",
+                "repo": "MEOW",
+                "stars": 16
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Tamper-Resistant Safeguards for Open-Weight LLMs",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-06-09T20:55:28Z",
+                "owner": "rishub-tamirisa",
+                "repo": "tamper-resistance",
+                "stars": 70
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Learn while Unlearn: An Iterative Unlearning Framework for Generative Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-08-28T14:28:33Z",
+                "owner": "himalalps",
+                "repo": "ICU",
+                "stars": 3
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Revisiting Who's Harry Potter: Towards Targeted Unlearning from a Causal Intervention Perspective",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-07-22T17:19:52Z",
+                "owner": "UCSB-NLP-Chang",
+                "repo": "causal_unlearn",
+                "stars": 35
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Targeted Latent Adversarial Training Improves Robustness to Persistent Harmful Behaviors in LLMs",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-09-29T02:41:05Z",
+                "owner": "aengusl",
+                "repo": "latent-adversarial-training",
+                "stars": 48
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Learning to Refuse: Towards Mitigating Privacy Risks in LLMs",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-12-13T09:17:55Z",
+                "owner": "zhliu0106",
+                "repo": "learning-to-refuse",
+                "stars": 10
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Composable Interventions for Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-02-27T21:35:52Z",
+                "owner": "hartvigsen-group",
+                "repo": "composable-interventions",
+                "stars": 29
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "If You Don't Understand It, Don't Use It: Eliminating Trojans with Filters Between Layers",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Safe Unlearning: A Surprisingly Effective and Generalizable Solution to Defend Against Jailbreak Attacks",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-07-09T03:42:52Z",
+                "owner": "thu-coai",
+                "repo": "SafeUnlearning",
+                "stars": 33
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-01-23T01:51:21Z",
+                "owner": "zjunlp",
+                "repo": "KnowUnDo",
+                "stars": 48
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "PISTOL: Dataset Compilation Pipeline for Structural Unlearning of LLMs",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-11-17T23:26:25Z",
+                "owner": "bill-shen-BS",
+                "repo": "PISTOL",
+                "stars": 13
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Every Language Counts: Learn and Unlearn in Multilingual LLMs",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-10-14T05:02:18Z",
+                "owner": "TaiMingLu",
+                "repo": "learn-unlearn",
+                "stars": 4
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Mitigating Social Biases in Language Models through Unlearning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Cross-Lingual Unlearning of Selective Knowledge in Multilingual Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-06-20T08:17:07Z",
+                "owner": "brightjade",
+                "repo": "LingTea",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "SNAP: Unlearning Selective Knowledge in Large Language Models with Negative Instructions",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-06-20T08:10:46Z",
+                "owner": "brightjade",
+                "repo": "Opt-Out",
+                "stars": 6
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Soft Prompting for Unlearning in Large Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-06-26T18:59:00Z",
+                "owner": "karuna-bhaila",
+                "repo": "llm_unlearning",
+                "stars": 11
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-08-20T17:37:20Z",
+                "owner": "yihuaihong",
+                "repo": "ConceptVectors",
+                "stars": 39
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Avoiding Copyright Infringement via Machine Unlearning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-09-30T13:26:32Z",
+                "owner": "jinzhuoran",
+                "repo": "RWKU",
+                "stars": 100
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-05-26T13:40:55Z",
+                "owner": "tomerashuach",
+                "repo": "REVS",
+                "stars": 8
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Reversing the Forget-Retain Objectives: An Efficient LLM Unlearning Framework from Logit Difference",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-06-14T21:00:16Z",
+                "owner": "UCSB-NLP-Chang",
+                "repo": "ULD",
+                "stars": 26
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Large Language Model Unlearning via Embedding-Corrupted Prompts",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-09-26T04:09:15Z",
+                "owner": "chrisliu298",
+                "repo": "llm-unlearn-eco",
+                "stars": 41
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Large Scale Knowledge Washing",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-06-12T04:35:47Z",
+                "owner": "wangyu-ustc",
+                "repo": "LargeScaleWashing",
+                "stars": 10
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-10-01T03:48:20Z",
+                "owner": "OPTML-Group",
+                "repo": "SOUL",
+                "stars": 30
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Offset Unlearning for Large Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-04-16T23:00:19Z",
+                "owner": "luka-group",
+                "repo": "Delta-Unlearning",
+                "stars": 5
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Negative Preference Optimization: From Catastrophic Collapse to Effective Unlearning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-07-15T18:10:37Z",
+                "owner": "licong-lin",
+                "repo": "negative-preference-optimization",
+                "stars": 76
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-05-29T21:02:53Z",
+                "owner": "centerforaisafety",
+                "repo": "wmdp",
+                "stars": 177
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Towards Efficient and Effective Unlearning of Large Language Models for Recommendation",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-07-19T08:43:43Z",
+                "owner": "justarter",
+                "repo": "E2URec",
+                "stars": 38
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Unmemorization in Large Language Models via Self-Distillation and Deliberate Imagination",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-01-10T08:43:50Z",
+                "owner": "dong-river",
+                "repo": "LLM_unlearning",
+                "stars": 11
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Towards Safer Large Language Models through Machine Unlearning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-12-18T02:09:40Z",
+                "owner": "franciscoliu",
+                "repo": "SKU",
+                "stars": 20
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Machine Unlearning of Pre-trained Large Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-09-30T01:22:07Z",
+                "owner": "yaojin17",
+                "repo": "Unlearning_LLM",
+                "stars": 68
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "EFUF: Efficient Fine-grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-04-09T08:17:02Z",
+                "owner": "starreeze",
+                "repo": "efuf",
+                "stars": 21
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "TOFU: A Task of Fictitious Unlearning for LLMs",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-02-25T17:35:32Z",
+                "owner": "locuslab",
+                "repo": "tofu",
+                "stars": 29
+              }
+            }
+          ]
+        }
+      ],
+      "title": "2024"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "DEPN: Detecting and Editing Privacy Neurons in Pretrained Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-04-20T15:24:11Z",
+                "owner": "flamewei123",
+                "repo": "DEPN",
+                "stars": 24
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Unlearn What You Want to Forget: Efficient Unlearning for LLMs",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-10-18T22:53:03Z",
+                "owner": "SALT-NLP",
+                "repo": "Efficient_Unlearning",
+                "stars": 38
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "In-Context Unlearning: Language Models as Few Shot Unlearners",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-10-18T09:46:30Z",
+                "owner": "MartinPawelczyk",
+                "repo": "In-Context-Unlearning",
+                "stars": 31
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Large Language Model Unlearning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-10-20T20:16:03Z",
+                "owner": "kevinyaobytedance",
+                "repo": "llm_unlearn",
+                "stars": 188
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-02-08T03:43:44Z",
+                "owner": "Vaidehi99",
+                "repo": "InfoDeletionAttacks",
+                "stars": 49
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Knowledge Sanitization of Large Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-02-29T10:52:40Z",
+                "owner": "yoichi1484",
+                "repo": "knowledge-sanitization",
+                "stars": 2
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-09-20T09:00:57Z",
+                "owner": "HITsz-TMG",
+                "repo": "Ext-Sub",
+                "stars": 12
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Unlearning Bias in Language Models by Partitioning Gradients",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-11-07T15:35:26Z",
+                "owner": "CharlesYu2000",
+                "repo": "PCGU-UnlearningBias",
+                "stars": 17
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "LEACE: Perfect linear concept erasure in closed form",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-01-27T01:06:54Z",
+                "owner": "EleutherAI",
+                "repo": "concept-erasure",
+                "stars": 263
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Composing Parameter-Efficient Modules with Arithmetic Operations",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-11-26T11:09:08Z",
+                "owner": "hkust-nlp",
+                "repo": "PEM_composition",
+                "stars": 61
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "KGA: A General Machine Unlearning Framework Based on Knowledge Gap Alignment",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-09-10T06:51:17Z",
+                "owner": "Lingzhi-WANG",
+                "repo": "KGAUnlearn",
+                "stars": 19
+              }
+            }
+          ]
+        }
+      ],
+      "title": "2023"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Editing Models with Task Arithmetic",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-01-11T17:11:00Z",
+                "owner": "mlfoundations",
+                "repo": "task_vectors",
+                "stars": 552
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Knowledge Unlearning for Mitigating Privacy Risks in Language Models",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-09-12T16:02:04Z",
+                "owner": "joeljang",
+                "repo": "knowledge-unlearning",
+                "stars": 89
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Quark: Controllable Text Generation with Reinforced Unlearning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-11-03T22:17:43Z",
+                "owner": "GXimingLu",
+                "repo": "Quark",
+                "stars": 75
+              }
+            }
+          ]
+        }
+      ],
+      "title": "2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open Unlearning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-03-18T15:31:54Z",
+                "owner": "locuslab",
+                "repo": "open-unlearning",
+                "stars": 584
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-18T15:31:54Z",
+            "owner": "locuslab",
+            "repo": "open-unlearning",
+            "stars": 584
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vision Unlearning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-13T11:59:39Z",
+                "owner": "LeonardoSanBenitez",
+                "repo": "vision-unlearning",
+                "stars": 4
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-13T11:59:39Z",
+            "owner": "LeonardoSanBenitez",
+            "repo": "vision-unlearning",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Machine Unlearning Comparator",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Code:",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-07-17T11:39:30Z",
+                "owner": "gnueaj",
+                "repo": "Machine-Unlearning-Comparator",
+                "stars": 101
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "If you find this repository useful, please consider citing it:",
+      "items": [],
+      "title": "Citation"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T15:42:09.078Z",
+    "original_repository": "chrisliu298/awesome-llm-unlearning",
+    "original_repository_sha": "d59da0049bcca716ac1090de994fe9d14f7d99e7",
+    "enhanced_repository": "enhansome/enhansome-llm-unlearning",
+    "enhanced_repository_description": null,
+    "title": "🧹 Awesome LLM Unlearning with stars"
+  }
+}
