@@ -1532,7 +1532,7 @@
                 "last_commit": "2024-10-06T23:34:00Z",
                 "owner": "ethz-spylab",
                 "repo": "unlearning-vs-safety",
-                "stars": 27
+                "stars": 28
               }
             }
           ]
@@ -2555,7 +2555,7 @@
                 "last_commit": "2026-03-18T15:31:54Z",
                 "owner": "locuslab",
                 "repo": "open-unlearning",
-                "stars": 584
+                "stars": 585
               }
             }
           ],
@@ -2565,7 +2565,7 @@
             "last_commit": "2026-03-18T15:31:54Z",
             "owner": "locuslab",
             "repo": "open-unlearning",
-            "stars": 584
+            "stars": 585
           }
         },
         {
@@ -2581,7 +2581,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-13T11:59:39Z",
+                "last_commit": "2026-08-14T11:48:09Z",
                 "owner": "LeonardoSanBenitez",
                 "repo": "vision-unlearning",
                 "stars": 4
@@ -2591,7 +2591,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-13T11:59:39Z",
+            "last_commit": "2026-08-14T11:48:09Z",
             "owner": "LeonardoSanBenitez",
             "repo": "vision-unlearning",
             "stars": 4
@@ -2628,7 +2628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T15:42:09.078Z",
+    "last_updated": "2026-08-14T15:36:31.375Z",
     "original_repository": "chrisliu298/awesome-llm-unlearning",
     "original_repository_sha": "d59da0049bcca716ac1090de994fe9d14f7d99e7",
     "enhanced_repository": "enhansome/enhansome-llm-unlearning",
