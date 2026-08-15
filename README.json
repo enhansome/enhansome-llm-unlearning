@@ -2486,7 +2486,7 @@
                 "last_commit": "2024-01-11T17:11:00Z",
                 "owner": "mlfoundations",
                 "repo": "task_vectors",
-                "stars": 552
+                "stars": 553
               }
             }
           ]
@@ -2628,7 +2628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T15:36:31.375Z",
+    "last_updated": "2026-08-15T15:00:56.754Z",
     "original_repository": "chrisliu298/awesome-llm-unlearning",
     "original_repository_sha": "d59da0049bcca716ac1090de994fe9d14f7d99e7",
     "enhanced_repository": "enhansome/enhansome-llm-unlearning",

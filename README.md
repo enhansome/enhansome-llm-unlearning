@@ -3360,7 +3360,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
 ### 2022
 
 * [Editing Models with Task Arithmetic](https://arxiv.org/abs/2212.04089)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/mlfoundations/task_vectors) ⭐ 552 | 🐛 9 | 🌐 Python | 📅 2024-01-11
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/mlfoundations/task_vectors) ⭐ 553 | 🐛 9 | 🌐 Python | 📅 2024-01-11
   * Author(s): Gabriel Ilharco, Marco Tulio Ribeiro, Mitchell Wortsman, Suchin Gururangan, Ludwig Schmidt, Hannaneh Hajishirzi, Ali Farhadi
   * Date: 2022-12
   * Venue: ICLR 2023
@@ -3553,4 +3553,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
