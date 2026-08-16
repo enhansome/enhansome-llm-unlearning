@@ -1280,7 +1280,7 @@
                 "last_commit": "2025-06-04T00:40:51Z",
                 "owner": "k1rezaei",
                 "repo": "restor",
-                "stars": 7
+                "stars": 8
               }
             }
           ]
@@ -2581,7 +2581,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-14T11:48:09Z",
+                "last_commit": "2026-08-15T18:10:06Z",
                 "owner": "LeonardoSanBenitez",
                 "repo": "vision-unlearning",
                 "stars": 4
@@ -2591,7 +2591,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-14T11:48:09Z",
+            "last_commit": "2026-08-15T18:10:06Z",
             "owner": "LeonardoSanBenitez",
             "repo": "vision-unlearning",
             "stars": 4
@@ -2628,7 +2628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T15:00:56.754Z",
+    "last_updated": "2026-08-16T15:01:39.188Z",
     "original_repository": "chrisliu298/awesome-llm-unlearning",
     "original_repository_sha": "d59da0049bcca716ac1090de994fe9d14f7d99e7",
     "enhanced_repository": "enhansome/enhansome-llm-unlearning",
