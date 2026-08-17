@@ -24,7 +24,7 @@
                 "last_commit": "2026-07-11T00:38:08Z",
                 "owner": "smsnobin77",
                 "repo": "Awesome-Multimodal-Unlearning",
-                "stars": 7
+                "stars": 8
               }
             }
           ]
@@ -1427,7 +1427,7 @@
                 "last_commit": "2024-10-09T03:36:42Z",
                 "owner": "aghyad-deeb",
                 "repo": "unlearning_evaluation",
-                "stars": 12
+                "stars": 13
               }
             }
           ]
@@ -2555,7 +2555,7 @@
                 "last_commit": "2026-03-18T15:31:54Z",
                 "owner": "locuslab",
                 "repo": "open-unlearning",
-                "stars": 585
+                "stars": 586
               }
             }
           ],
@@ -2565,7 +2565,7 @@
             "last_commit": "2026-03-18T15:31:54Z",
             "owner": "locuslab",
             "repo": "open-unlearning",
-            "stars": 585
+            "stars": 586
           }
         },
         {
@@ -2581,7 +2581,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-15T18:10:06Z",
+                "last_commit": "2026-08-17T01:44:10Z",
                 "owner": "LeonardoSanBenitez",
                 "repo": "vision-unlearning",
                 "stars": 4
@@ -2591,7 +2591,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-15T18:10:06Z",
+            "last_commit": "2026-08-17T01:44:10Z",
             "owner": "LeonardoSanBenitez",
             "repo": "vision-unlearning",
             "stars": 4
@@ -2628,7 +2628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:01:39.188Z",
+    "last_updated": "2026-08-17T15:08:00.690Z",
     "original_repository": "chrisliu298/awesome-llm-unlearning",
     "original_repository_sha": "d59da0049bcca716ac1090de994fe9d14f7d99e7",
     "enhanced_repository": "enhansome/enhansome-llm-unlearning",
