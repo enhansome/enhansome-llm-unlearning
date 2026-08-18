@@ -2417,7 +2417,7 @@
                 "last_commit": "2025-01-27T01:06:54Z",
                 "owner": "EleutherAI",
                 "repo": "concept-erasure",
-                "stars": 263
+                "stars": 264
               }
             }
           ]
@@ -2581,7 +2581,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-17T01:44:10Z",
+                "last_commit": "2026-08-18T12:27:25Z",
                 "owner": "LeonardoSanBenitez",
                 "repo": "vision-unlearning",
                 "stars": 4
@@ -2591,7 +2591,7 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-17T01:44:10Z",
+            "last_commit": "2026-08-18T12:27:25Z",
             "owner": "LeonardoSanBenitez",
             "repo": "vision-unlearning",
             "stars": 4
@@ -2628,7 +2628,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T15:08:00.690Z",
+    "last_updated": "2026-08-18T15:14:45.886Z",
     "original_repository": "chrisliu298/awesome-llm-unlearning",
     "original_repository_sha": "d59da0049bcca716ac1090de994fe9d14f7d99e7",
     "enhanced_repository": "enhansome/enhansome-llm-unlearning",
