@@ -1613,7 +1613,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Code: -
 
 * [Deep Ignorance: Filtering Pretraining Data Builds Tamper-Resistant Safeguards into Open-Weight LLMs](https://arxiv.org/abs/2508.06601)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/EleutherAI/deep-ignorance) ⭐ 25 | 🐛 2 | 🌐 Python | 📅 2026-01-07
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/EleutherAI/deep-ignorance) ⭐ 26 | 🐛 2 | 🌐 Python | 📅 2026-01-07
   * Author(s): Kyle O'Brien, Stephen Casper, Quentin Anthony, Tomek Korbak, Robert Kirk, Xander Davies, Ishan Mishra, Geoffrey Irving, Yarin Gal, Stella Biderman
   * Date: 2025-08
   * Venue: -
@@ -1775,7 +1775,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Code: -
 
 * [Measuring Chain of Thought Faithfulness by Unlearning Reasoning Steps](https://arxiv.org/pdf/2502.14829)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/technion-cs-nlp/parametric-faithfulness) ⭐ 23 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-08-30
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/technion-cs-nlp/parametric-faithfulness) ⭐ 24 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-08-30
   * Author(s): Martin Tutek, Fateme Hashemi Chaleshtori, Ana Marasovic
   * Date: 2025-06
   * Venue: -
@@ -3154,7 +3154,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Venue: -
   * Code: -
 * [Negative Preference Optimization: From Catastrophic Collapse to Effective Unlearning](https://arxiv.org/abs/2404.05868)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/licong-lin/negative-preference-optimization) ⭐ 76 | 🐛 8 | 🌐 Python | 📅 2024-07-15
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/licong-lin/negative-preference-optimization) ⭐ 77 | 🐛 8 | 🌐 Python | 📅 2024-07-15
   * Author(s): Ruiqi Zhang, Licong Lin, Yu Bai, Song Mei
   * Date: 2024-04
   * Venue: -
@@ -3337,7 +3337,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Venue: -
   * Code: -
 * [LEACE: Perfect linear concept erasure in closed form](https://arxiv.org/abs/2306.03819)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/EleutherAI/concept-erasure) ⭐ 264 | 🐛 5 | 🌐 Python | 📅 2025-01-27
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/EleutherAI/concept-erasure) ⭐ 265 | 🐛 5 | 🌐 Python | 📅 2025-01-27
   * Author(s): Nora Belrose, David Schneider-Joseph, Shauli Ravfogel, Ryan Cotterell, Edward Raff, Stella Biderman
   * Date: 2023-06
   * Venue: NeurIPS 2023
@@ -3502,8 +3502,8 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Author(s): Vineeth Dorna, Anmol Mekala, Wenlong Zhao, Andrew McCallum, J Zico Kolter, Pratyush Maini
   * Date: 2025-02
   * Venue: -
-* [Vision Unlearning](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-08-18
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-08-18
+* [Vision Unlearning](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-08-19
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-08-19
   * Author(s): Leonardo Benitez, Carolina Kelsch, Natnael Mola
   * Date: 2025-02
   * Venue: -
@@ -3553,4 +3553,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
