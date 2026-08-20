@@ -971,7 +971,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
 ### 2025
 
 * [UMU-Bench: Closing the Modality Gap in Multimodal Unlearning Evaluation](https://neurips.cc/virtual/2025/poster/121699)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/QDRhhhh/UMU-bench) ⭐ 7 | 🐛 3 | 🌐 Python | 📅 2026-05-10
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/QDRhhhh/UMU-bench) ⭐ 8 | 🐛 3 | 🌐 Python | 📅 2026-05-10
   * Author(s): Chengye Wang, Yuyuan Li, XiaoHua Feng, Chaochao Chen, Xiaolin Zheng, Jianwei Yin
   * Date: 2025-12
   * Venue: NeurIPS 2025
@@ -2914,7 +2914,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Venue: -
   * Code: -
 * [Revisiting Who's Harry Potter: Towards Targeted Unlearning from a Causal Intervention Perspective](https://aclanthology.org/2024.emnlp-main.495/)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/UCSB-NLP-Chang/causal_unlearn.git) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2024-07-22
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/UCSB-NLP-Chang/causal_unlearn.git) ⭐ 36 | 🐛 0 | 🌐 Python | 📅 2024-07-22
   * Author(s): Yujian Liu, Yang Zhang, Tommi Jaakkola, Shiyu Chang
   * Date: 2024-07
   * Venue: EMNLP 2024
@@ -3553,4 +3553,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

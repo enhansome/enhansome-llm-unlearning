@@ -513,7 +513,7 @@
                     "last_commit": "2026-05-10T08:49:40Z",
                     "owner": "QDRhhhh",
                     "repo": "UMU-bench",
-                    "stars": 7
+                    "stars": 8
                   }
                 }
               ]
@@ -1686,7 +1686,7 @@
                     "last_commit": "2024-07-22T17:19:52Z",
                     "owner": "UCSB-NLP-Chang",
                     "repo": "causal_unlearn",
-                    "stars": 35
+                    "stars": 36
                   }
                 }
               ]
@@ -2685,7 +2685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:14:38.271Z",
+    "last_updated": "2026-08-20T15:17:50.629Z",
     "original_repository": "chrisliu298/awesome-llm-unlearning",
     "original_repository_id": 778371641,
     "original_repository_sha": "d59da0049bcca716ac1090de994fe9d14f7d99e7",
