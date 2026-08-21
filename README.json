@@ -2016,7 +2016,7 @@
                     "last_commit": "2024-09-26T04:09:15Z",
                     "owner": "chrisliu298",
                     "repo": "llm-unlearn-eco",
-                    "stars": 41
+                    "stars": 42
                   }
                 }
               ]
@@ -2641,7 +2641,7 @@
                 "archived": false,
                 "id": 954931404,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-19T07:21:11Z",
+                "last_commit": "2026-08-21T01:56:47Z",
                 "owner": "LeonardoSanBenitez",
                 "repo": "vision-unlearning",
                 "stars": 4
@@ -2652,7 +2652,7 @@
             "archived": false,
             "id": 954931404,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-19T07:21:11Z",
+            "last_commit": "2026-08-21T01:56:47Z",
             "owner": "LeonardoSanBenitez",
             "repo": "vision-unlearning",
             "stars": 4
@@ -2685,7 +2685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T15:17:50.629Z",
+    "last_updated": "2026-08-21T15:16:22.990Z",
     "original_repository": "chrisliu298/awesome-llm-unlearning",
     "original_repository_id": 778371641,
     "original_repository_sha": "d59da0049bcca716ac1090de994fe9d14f7d99e7",
