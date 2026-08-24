@@ -110,7 +110,7 @@
                     "last_commit": "2026-07-05T11:19:13Z",
                     "owner": "gnueaj",
                     "repo": "unlearning-depth-score",
-                    "stars": 9
+                    "stars": 10
                   }
                 }
               ]
@@ -2589,6 +2589,35 @@
           "description": null,
           "node_type": "group",
           "title": "2022"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "DExperts: Decoding-Time Controlled Text Generation with Experts and Anti-Experts",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Code:",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 373678157,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2023-05-24T18:58:54Z",
+                    "owner": "alisawuffles",
+                    "repo": "DExperts",
+                    "stars": 119
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2021"
         }
       ],
       "title": "Papers"
@@ -2685,7 +2714,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:02:27.599Z",
+    "last_updated": "2026-08-24T14:23:09.900Z",
     "original_repository": "chrisliu298/awesome-llm-unlearning",
     "original_repository_id": 778371641,
     "original_repository_sha": "d59da0049bcca716ac1090de994fe9d14f7d99e7",

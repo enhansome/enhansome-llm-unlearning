@@ -333,7 +333,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Venue: -
   * Code: -
 * [Measuring the Depth of LLM Unlearning via Activation Patching](https://arxiv.org/abs/2605.24614)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/gnueaj/unlearning-depth-score) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2026-07-05
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/gnueaj/unlearning-depth-score) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2026-07-05
   * Author(s): Jaeung Lee, Dohyun Kim, Jaemin Jo
   * Date: 2026-05
   * Venue: -
@@ -971,7 +971,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
 ### 2025
 
 * [UMU-Bench: Closing the Modality Gap in Multimodal Unlearning Evaluation](https://neurips.cc/virtual/2025/poster/121699)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/QDRhhhh/UMU-bench) ⭐ 8 | 🐛 3 | 🌐 Python | 📅 2026-05-10
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/QDRhhhh/UMU-bench) ⭐ 8 | 🐛 4 | 🌐 Python | 📅 2026-05-10
   * Author(s): Chengye Wang, Yuyuan Li, XiaoHua Feng, Chaochao Chen, Xiaolin Zheng, Jianwei Yin
   * Date: 2025-12
   * Venue: NeurIPS 2025
@@ -3393,10 +3393,10 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
 ### 2021
 
 * [DExperts: Decoding-Time Controlled Text Generation with Experts and Anti-Experts](https://arxiv.org/abs/2105.03023)
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/alisawuffles/DExperts) ⭐ 119 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-05-24
   * Author(s): Alisa Liu, Maarten Sap, Ximing Lu, Swabha Swayamdipta, Chandra Bhagavatula, Noah A. Smith, Yejin Choi
   * Date: 2021-05
   * Venue: ACL 2021
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/alisawuffles/DExperts) ⭐ 119 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2023-05-24
 
 ## Surveys and Position Papers
 
@@ -3553,4 +3553,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
