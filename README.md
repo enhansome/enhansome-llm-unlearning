@@ -3189,7 +3189,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Venue: -
   * Code: -
 * [Towards Efficient and Effective Unlearning of Large Language Models for Recommendation](https://arxiv.org/abs/2403.03536)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/justarter/E2URec) ⭐ 38 | 🐛 4 | 🌐 Python | 📅 2024-07-19
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/justarter/E2URec) ⭐ 37 | 🐛 4 | 🌐 Python | 📅 2024-07-19
   * Author(s): Hangyu Wang, Jianghao Lin, Bo Chen, Yang Yang, Ruiming Tang, Weinan Zhang, Yong Yu
   * Date: 2024-03
   * Venue: -

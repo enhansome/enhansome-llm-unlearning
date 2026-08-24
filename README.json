@@ -2148,7 +2148,7 @@
                     "last_commit": "2024-07-19T08:43:43Z",
                     "owner": "justarter",
                     "repo": "E2URec",
-                    "stars": 38
+                    "stars": 37
                   }
                 }
               ]
@@ -2714,7 +2714,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:23:09.900Z",
+    "last_updated": "2026-08-24T15:24:10.464Z",
     "original_repository": "chrisliu298/awesome-llm-unlearning",
     "original_repository_id": 778371641,
     "original_repository_sha": "d59da0049bcca716ac1090de994fe9d14f7d99e7",
