@@ -1334,7 +1334,7 @@
                     "last_commit": "2025-03-13T03:16:09Z",
                     "owner": "franciscoliu",
                     "repo": "MLLMU-Bench",
-                    "stars": 56
+                    "stars": 55
                   }
                 }
               ]
@@ -1950,7 +1950,7 @@
                     "last_commit": "2024-09-30T13:26:32Z",
                     "owner": "jinzhuoran",
                     "repo": "RWKU",
-                    "stars": 100
+                    "stars": 101
                   }
                 }
               ]
@@ -2558,7 +2558,7 @@
                     "last_commit": "2024-09-12T16:02:04Z",
                     "owner": "joeljang",
                     "repo": "knowledge-unlearning",
-                    "stars": 89
+                    "stars": 88
                   }
                 }
               ]
@@ -2642,7 +2642,7 @@
                 "last_commit": "2026-03-18T15:31:54Z",
                 "owner": "locuslab",
                 "repo": "open-unlearning",
-                "stars": 588
+                "stars": 587
               }
             }
           ],
@@ -2653,7 +2653,7 @@
             "last_commit": "2026-03-18T15:31:54Z",
             "owner": "locuslab",
             "repo": "open-unlearning",
-            "stars": 588
+            "stars": 587
           }
         },
         {
@@ -2714,7 +2714,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:12:25.563Z",
+    "last_updated": "2026-08-25T15:28:27.548Z",
     "original_repository": "chrisliu298/awesome-llm-unlearning",
     "original_repository_id": 778371641,
     "original_repository_sha": "d59da0049bcca716ac1090de994fe9d14f7d99e7",
