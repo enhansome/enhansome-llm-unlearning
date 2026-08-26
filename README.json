@@ -22,7 +22,7 @@
                     "last_commit": "2026-07-11T00:38:08Z",
                     "owner": "smsnobin77",
                     "repo": "Awesome-Multimodal-Unlearning",
-                    "stars": 8
+                    "stars": 9
                   }
                 }
               ]
@@ -2714,7 +2714,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T15:28:27.548Z",
+    "last_updated": "2026-08-26T16:05:51.379Z",
     "original_repository": "chrisliu298/awesome-llm-unlearning",
     "original_repository_id": 778371641,
     "original_repository_sha": "d59da0049bcca716ac1090de994fe9d14f7d99e7",

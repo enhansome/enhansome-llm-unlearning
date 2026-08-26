@@ -118,7 +118,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Venue: -
   * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://amitpeleg.github.io/forget-narrowly-retain-broadly)
 * [Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks](https://arxiv.org/abs/2607.07907)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/smsnobin77/Awesome-Multimodal-Unlearning) ⭐ 8 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-07-11
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/smsnobin77/Awesome-Multimodal-Unlearning) ⭐ 9 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-07-11
   * Author(s): Nobin Sarwar, Shubhashis Roy Dipta, Zheyuan Liu, Vaidehi Patil
   * Date: 2026-07
   * Venue: -
@@ -3553,4 +3553,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
