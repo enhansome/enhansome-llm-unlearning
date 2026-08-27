@@ -2463,7 +2463,7 @@
                     "last_commit": "2025-01-27T01:06:54Z",
                     "owner": "EleutherAI",
                     "repo": "concept-erasure",
-                    "stars": 265
+                    "stars": 266
                   }
                 }
               ]
@@ -2642,7 +2642,7 @@
                 "last_commit": "2026-03-18T15:31:54Z",
                 "owner": "locuslab",
                 "repo": "open-unlearning",
-                "stars": 587
+                "stars": 588
               }
             }
           ],
@@ -2653,7 +2653,7 @@
             "last_commit": "2026-03-18T15:31:54Z",
             "owner": "locuslab",
             "repo": "open-unlearning",
-            "stars": 587
+            "stars": 588
           }
         },
         {
@@ -2714,9 +2714,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:05:51.379Z",
-    "original_repository": "chrisliu298/awesome-llm-unlearning",
-    "original_repository_id": 778371641,
+    "last_updated": "2026-08-27T11:50:22.852Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 778371641,
+      "language": null,
+      "last_commit": "2026-08-06T09:51:49Z",
+      "owner": "chrisliu298",
+      "repo": "awesome-llm-unlearning",
+      "stars": 623
+    },
     "original_repository_sha": "d59da0049bcca716ac1090de994fe9d14f7d99e7",
     "enhanced_repository": "enhansome/enhansome-llm-unlearning",
     "enhanced_repository_description": null,
