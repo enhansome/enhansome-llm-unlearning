@@ -145,7 +145,7 @@
                     "id": 1207816493,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-07-05T11:19:13Z",
+                    "last_commit": "2026-08-29T12:41:33Z",
                     "open_issues": 1,
                     "owner": "gnueaj",
                     "repo": "unlearning-depth-score",
@@ -3524,7 +3524,7 @@
                 "id": 954931404,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-27T15:13:24Z",
+                "last_commit": "2026-08-29T11:56:40Z",
                 "open_issues": 10,
                 "owner": "LeonardoSanBenitez",
                 "repo": "vision-unlearning",
@@ -3541,7 +3541,7 @@
             "id": 954931404,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-27T15:13:24Z",
+            "last_commit": "2026-08-29T11:56:40Z",
             "open_issues": 10,
             "owner": "LeonardoSanBenitez",
             "repo": "vision-unlearning",
@@ -3590,7 +3590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:40:40.939Z",
+    "last_updated": "2026-08-29T17:55:21.627Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",

@@ -333,7 +333,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Venue: -
   * Code: -
 * [Measuring the Depth of LLM Unlearning via Activation Patching](https://arxiv.org/abs/2605.24614)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/gnueaj/unlearning-depth-score) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2026-07-05
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/gnueaj/unlearning-depth-score) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2026-08-29
   * Author(s): Jaeung Lee, Dohyun Kim, Jaemin Jo
   * Date: 2026-05
   * Venue: -
@@ -3502,8 +3502,8 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Author(s): Vineeth Dorna, Anmol Mekala, Wenlong Zhao, Andrew McCallum, J Zico Kolter, Pratyush Maini
   * Date: 2025-02
   * Venue: -
-* [Vision Unlearning](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-08-27
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-08-27
+* [Vision Unlearning](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-08-29
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-08-29
   * Author(s): Leonardo Benitez, Carolina Kelsch, Natnael Mola
   * Date: 2025-02
   * Venue: -
