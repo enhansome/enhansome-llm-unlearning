@@ -2689,7 +2689,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Date: 2024-11
   * Venue: -
 * [Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench](https://arxiv.org/abs/2410.22108)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/franciscoliu/MLLMU-Bench) ⭐ 55 | 🐛 6 | 🌐 Python | 📅 2025-03-13
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/franciscoliu/MLLMU-Bench) ⭐ 56 | 🐛 6 | 🌐 Python | 📅 2025-03-13
   * Author(s): Zheyuan Liu, Guangyao Dou, Mengzhao Jia, Zhaoxuan Tan, Qingkai Zeng, Yongle Yuan, Meng Jiang
   * Date: 2024-10
   * Venue: -
@@ -3553,4 +3553,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

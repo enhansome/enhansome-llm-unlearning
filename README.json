@@ -17,12 +17,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repo presents a survey of multimodal unlearning across vision, language, video, and audio, covering papers, datasets, benchmarks, and open problems.",
+                    "homepage": "https://smsnobin77.github.io/Awesome-Multimodal-Unlearning/",
                     "id": 1157666430,
                     "language": "Jupyter Notebook",
+                    "license": "CC0-1.0",
                     "last_commit": "2026-07-11T00:38:08Z",
+                    "open_issues": 0,
                     "owner": "smsnobin77",
                     "repo": "Awesome-Multimodal-Unlearning",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": [
+                      "ai-safety",
+                      "diffusion-models",
+                      "foundation-models",
+                      "llm",
+                      "machine-unlearning",
+                      "multimodal-learning",
+                      "multimodal-unlearning",
+                      "survey-review",
+                      "trustworthy-ai",
+                      "vision-language-models"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -40,12 +56,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Black-box Unlearning for LLM",
+                    "homepage": null,
                     "id": 1266895741,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-12T21:43:56Z",
+                    "open_issues": 0,
                     "owner": "DGL-codes",
                     "repo": "CBD",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -63,12 +84,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 924466318,
                     "language": null,
+                    "license": null,
                     "last_commit": "2025-05-11T14:15:26Z",
+                    "open_issues": 1,
                     "owner": "lihe-maxsize",
                     "repo": "Lifelong_Unlearning_main",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -86,12 +112,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1250256387,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-05-27T03:44:28Z",
+                    "open_issues": 1,
                     "owner": "XMUDeepLIT",
                     "repo": "VLM-UnL-Attack",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -109,12 +140,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[EMNLP 2026] Measuring the Depth of LLM Unlearning via Activation Patching, See Project Page:",
+                    "homepage": "https://gnueaj.github.io/unlearning-depth-score/",
                     "id": 1207816493,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-05T11:19:13Z",
+                    "open_issues": 1,
                     "owner": "gnueaj",
                     "repo": "unlearning-depth-score",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": [
+                      "benchmark",
+                      "evaluation",
+                      "llm-unlearning",
+                      "machine-unlearning",
+                      "unlearning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -132,12 +174,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICML 2026] DualOptim+: Bridging Shared and Decoupled Optimizer States for Better Machine Unlearning in Large Language Models",
+                    "homepage": null,
                     "id": 1239569370,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-07-20T12:01:41Z",
+                    "open_issues": 0,
                     "owner": "CityU-MLO",
                     "repo": "DualOptimPlus",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -155,12 +202,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The code implementation for \"ZeroUnlearn: Few-Shot Knowledge Unlearning in Large Language Models\" (ICML 2026).",
+                    "homepage": null,
                     "id": 1229020981,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-05-05T02:16:35Z",
+                    "open_issues": 0,
                     "owner": "XMUDeepLIT",
                     "repo": "ZeroUnlearn",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -178,12 +230,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Machine Unlearning for Masked Diffusion Language Models",
+                    "homepage": null,
                     "id": 1239327026,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-05-25T05:38:26Z",
+                    "open_issues": 2,
                     "owner": "leegeoru",
                     "repo": "MDU",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -201,12 +258,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1126120866,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-01-26T09:57:01Z",
+                    "open_issues": 0,
                     "owner": "JagadeeshAI",
                     "repo": "backFlush",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -224,12 +286,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The code implementation for Object Hallucination-Free Reinforcement Unlearning for Vision-Language Models.",
+                    "homepage": null,
                     "id": 1232585196,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-08T07:29:59Z",
+                    "open_issues": 1,
                     "owner": "XMUDeepLIT",
                     "repo": "HFRU",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -247,12 +314,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1212289754,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-05-01T08:32:15Z",
+                    "open_issues": 1,
                     "owner": "neurips26",
                     "repo": "UnifiedUnl",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -270,12 +342,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[Arxiv] Official repo for \"Subspace Control: Turning Constrained Model Steering into Controllable Spectral Optimization\"",
+                    "homepage": null,
                     "id": 1200777280,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-04-05T16:19:34Z",
+                    "open_issues": 0,
                     "owner": "OPTML-Group",
                     "repo": "SIFT",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": [
+                      "hallucination",
+                      "machine-unlearning",
+                      "muon",
+                      "optimizer",
+                      "safety",
+                      "speech-to-text",
+                      "subspace-control"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -293,12 +378,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1179373230,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-22T06:36:38Z",
+                    "open_issues": 0,
                     "owner": "zhangyun04",
                     "repo": "ULBench",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -316,12 +406,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 933551120,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-11-11T09:33:43Z",
+                    "open_issues": 1,
                     "owner": "lenijwp",
                     "repo": "LUCID",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -339,12 +434,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official repository for the paper \"REBEL: Hidden Knowledge Recovery via Evolutionary-Based Evaluation Loop\".",
+                    "homepage": null,
                     "id": 1146307563,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-03-29T21:21:21Z",
+                    "open_issues": 0,
                     "owner": "patryk-rybak",
                     "repo": "REBEL",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -362,12 +462,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ACL2026] AGTAO : Robust and Stabilized LLM Unlearning via Adversarial Gating Training with Adaptive Orthogonality",
+                    "homepage": null,
                     "id": 1105125784,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-05-28T11:53:49Z",
+                    "open_issues": 0,
                     "owner": "TiezMind",
                     "repo": "AGT-unlearning",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -385,12 +490,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Library for creating synthetic tabular data and converting it to sentences, for training models.",
+                    "homepage": null,
                     "id": 1143343111,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-02-02T22:58:00Z",
+                    "open_issues": 0,
                     "owner": "IST-DASLab",
                     "repo": "behemoth",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -408,12 +518,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1088475849,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-01-28T03:06:08Z",
+                    "open_issues": 0,
                     "owner": "guoyang9",
                     "repo": "refusal-unlearning",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -431,12 +546,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The source code of [WWW 2026] FUDLR",
+                    "homepage": null,
                     "id": 1282735706,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-06-28T06:17:10Z",
+                    "open_issues": 0,
                     "owner": "JinLi-i",
                     "repo": "FUDLR",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -454,12 +574,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICASSP2026]ForgetMark — Stealthy fingerprinting for LLMs via targeted unlearning: build human‑readable key–value sets, embed probabilistic traces, and verify ownership with probability or sematic similarity..",
+                    "homepage": null,
                     "id": 1058745304,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-09-18T15:49:57Z",
+                    "open_issues": 1,
                     "owner": "Xuzhenhua55",
                     "repo": "ForgetMark",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -477,12 +602,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1162293113,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-02-20T05:26:03Z",
+                    "open_issues": 0,
                     "owner": "ChnIRuI",
                     "repo": "PoRT_LLM_Unlearning",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -500,12 +630,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[EMNLP 2025] Can Prompts Rewind Time for LLMs? Evaluating the Effectiveness of Prompted Knowledge Cutoffs",
+                    "homepage": "https://arxiv.org/abs/2510.02340",
                     "id": 1058390324,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-10-15T20:21:19Z",
+                    "open_issues": 0,
                     "owner": "gxx27",
                     "repo": "time_unlearn",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -530,12 +665,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 982129657,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-05-10T08:49:40Z",
+                    "open_issues": 4,
                     "owner": "QDRhhhh",
                     "repo": "UMU-bench",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -553,12 +693,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Forensic Unlearning Membership Attacks, as introduced in \"Identifying Unlearned Data in LLMs via Membership Inference Attacks\"",
+                    "homepage": null,
                     "id": 1060485286,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-09-20T02:23:31Z",
+                    "open_issues": 0,
                     "owner": "AdvitDeepak",
                     "repo": "fuma",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -576,12 +721,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 919259407,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-10-17T08:44:37Z",
+                    "open_issues": 0,
                     "owner": "minkyoo9",
                     "repo": "Unlearning-safety-alignment",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -599,12 +749,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1101162727,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2026-02-04T18:53:47Z",
+                    "open_issues": 1,
                     "owner": "Lemutisme",
                     "repo": "Geometric-Unlearning",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -622,12 +777,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1017477723,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-01-07T10:05:11Z",
+                    "open_issues": 2,
                     "owner": "EleutherAI",
                     "repo": "deep-ignorance",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -645,12 +805,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 935544132,
                     "language": "Jupyter Notebook",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2025-08-30T10:37:45Z",
+                    "open_issues": 0,
                     "owner": "technion-cs-nlp",
                     "repo": "parametric-faithfulness",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -668,12 +833,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[EMNLP 2025] Reasoning Model Unlearning: Forgetting Traces, Not Just Answers,  While Preserving Reasoning Skills",
+                    "homepage": null,
                     "id": 1002250628,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-11-03T02:42:30Z",
+                    "open_issues": 0,
                     "owner": "OPTML-Group",
                     "repo": "Unlearn-R2MU",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -691,12 +861,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for knowledge-tracing MU.",
+                    "homepage": null,
                     "id": 957115898,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-06-16T02:17:24Z",
+                    "open_issues": 0,
                     "owner": "1yuwen",
                     "repo": "Knowledge-Tracing-MU",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -714,12 +889,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1063923856,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-10-14T15:01:41Z",
+                    "open_issues": 0,
                     "owner": "Ymm-cll",
                     "repo": "UniErase",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -737,12 +917,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICML2025]\"Exploring Criteria of Loss Reweighting to Enhance LLM Unlearning\"",
+                    "homepage": null,
                     "id": 978461857,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-05-07T04:43:44Z",
+                    "open_issues": 0,
                     "owner": "Puning97",
                     "repo": "SatImp-for-LLM-Unlearning",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -760,12 +945,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 971643456,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2025-06-01T20:52:45Z",
+                    "open_issues": 0,
                     "owner": "12tqian",
                     "repo": "layered-unlearning",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -783,12 +973,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 951162925,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2025-07-25T12:16:37Z",
+                    "open_issues": 1,
                     "owner": "realXinyangLu",
                     "repo": "WaterDrum",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -806,12 +1001,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation of \"Unlearning vs Obfuscation\" and DF-MCQ @ EMNLP 2025",
+                    "homepage": null,
                     "id": 897215151,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-09-08T07:46:23Z",
+                    "open_issues": 0,
                     "owner": "potsawee",
                     "repo": "unlearning-dfmcq",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -829,12 +1029,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 905480438,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-05-07T02:42:01Z",
+                    "open_issues": 0,
                     "owner": "Vaidehi99",
                     "repo": "UnLOK-VQA",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -852,12 +1057,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 916423517,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-02-17T05:48:41Z",
+                    "open_issues": 0,
                     "owner": "zikuicai",
                     "repo": "aegisllm",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -875,12 +1085,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 966427123,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-05-06T21:32:59Z",
+                    "open_issues": 0,
                     "owner": "chentong0",
                     "repo": "ParaPO",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -898,12 +1113,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[COLM2025]\"LLM Unlearning Reveals a Stronger-Than-Expected Coreset Effect in Current Benchmarks\"",
+                    "homepage": "https://arxiv.org/abs/2504.10185",
                     "id": 965716974,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-04-22T16:26:06Z",
+                    "open_issues": 1,
                     "owner": "OPTML-Group",
                     "repo": "MU-Coreset",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -921,12 +1141,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the paper \"SAEs Can Improve Unlearning: Dynamic Sparse Autoencoder Guardrails for Precision Unlearning in LLMs\"",
+                    "homepage": null,
                     "id": 958094549,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-10-13T03:46:49Z",
+                    "open_issues": 2,
                     "owner": "aashiqmuhamed",
                     "repo": "DynamicSAEGuardrails",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -944,12 +1169,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 962705429,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-10-03T20:37:59Z",
+                    "open_issues": 1,
                     "owner": "McGill-NLP",
                     "repo": "unequal-unlearning",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -967,12 +1197,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Gradual Negative Matching for LLM Unlearning - ECIR 2025",
+                    "homepage": null,
                     "id": 909453481,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-09-21T15:01:45Z",
+                    "open_issues": 0,
                     "owner": "Georgetown-IR-Lab",
                     "repo": "GNM",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -990,12 +1225,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 930248554,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-04-07T23:57:31Z",
+                    "open_issues": 0,
                     "owner": "wicai24",
                     "repo": "DOOR-Alignment",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1013,12 +1253,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Parameter-Efficient Unlearning for Large Language Models using Data Chunking",
+                    "homepage": null,
                     "id": 940751848,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2025-04-10T19:22:09Z",
+                    "open_issues": 1,
                     "owner": "iraklis07",
                     "repo": "llm-unlearning",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1036,12 +1281,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 937677336,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-02-28T18:18:04Z",
+                    "open_issues": 0,
                     "owner": "renjie3",
                     "repo": "GRUN",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1059,12 +1309,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ACL 2025 Main] Official Repo for Modality-Aware Neuron Pruning for Unlearning in Multimodal Large Language Models",
+                    "homepage": "https://www.arxiv.org/abs/2502.15910",
                     "id": 936254132,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-05-22T05:56:39Z",
+                    "open_issues": 1,
                     "owner": "franciscoliu",
                     "repo": "MANU",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1082,12 +1337,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 926721574,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-02-25T10:01:20Z",
+                    "open_issues": 0,
                     "owner": "ekgus9",
                     "repo": "COME",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1105,12 +1365,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 935029445,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-02-24T01:39:06Z",
+                    "open_issues": 1,
                     "owner": "Vaidehi99",
                     "repo": "UPCORE",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1128,12 +1393,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 903699146,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-03-23T06:19:33Z",
+                    "open_issues": 0,
                     "owner": "lyicheng619",
                     "repo": "UNCD",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1151,12 +1421,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ACL 2025] Knowledge Unlearning for Large Language Models",
+                    "homepage": null,
                     "id": 633779841,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-09-18T09:49:17Z",
+                    "open_issues": 0,
                     "owner": "zjunlp",
                     "repo": "unlearn",
-                    "stars": 49
+                    "stars": 49,
+                    "topics": [
+                      "artificial-intelligence",
+                      "copyright",
+                      "knowledge-editing",
+                      "knowledge-unlearning",
+                      "large-language-models",
+                      "machine-unlearning",
+                      "natural-language-processing",
+                      "privacy",
+                      "semeval-2025",
+                      "unlearning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1174,12 +1460,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICML25] Official repo for \"Towards LLM Unlearning Resilient to Relearning Attacks: A Sharpness-Aware Minimization Perspective and Beyond\"",
+                    "homepage": null,
                     "id": 926325447,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-09-27T18:34:01Z",
+                    "open_issues": 0,
                     "owner": "OPTML-Group",
                     "repo": "Unlearn-Smooth",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1197,12 +1488,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Machine Unlearning Benchmark",
+                    "homepage": "https://arxiv.org/abs/2406.14796",
                     "id": 901486590,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-01-11T20:53:56Z",
+                    "open_issues": 1,
                     "owner": "CLU-UML",
                     "repo": "MU-Bench",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1220,12 +1516,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🪝PISCES - Precise In-Parameter Suppression for Concept EraSure in Large Language Models",
+                    "homepage": null,
                     "id": 982735608,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-06-28T02:31:59Z",
+                    "open_issues": 0,
                     "owner": "yoavgur",
                     "repo": "PISCES",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1243,12 +1544,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Codebase for \"Machine Unlearning of Personally Identifiable Information in Large Language Models\" and the thesis that it built upon : \"Toward Practical and Reliable PII Unlearning in Large Language Models\". It includes the dataset and code of creation for the UnlearnPII Benchmark",
+                    "homepage": "https://aclanthology.org/2025.nllp-1.6/",
                     "id": 944543947,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2025-08-14T11:57:31Z",
+                    "open_issues": 0,
                     "owner": "pariidanDKE",
                     "repo": "Toward-Practical-PII-Unlearning",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1266,12 +1572,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 839224613,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-12-31T02:50:47Z",
+                    "open_issues": 1,
                     "owner": "mmichaelzhang",
                     "repo": "LLM-Eraser",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1296,12 +1607,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Avoiding Copyright Infringement via Large Language Model Unlearning",
+                    "homepage": "https://arxiv.org/pdf/2406.10952",
                     "id": 872174965,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-01-29T16:52:21Z",
+                    "open_issues": 2,
                     "owner": "guangyaodou",
                     "repo": "SSU_Unlearn",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1319,12 +1635,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 861814369,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-03-12T15:28:22Z",
+                    "open_issues": 2,
                     "owner": "JaiDoshi",
                     "repo": "Knowledge-Erasure",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1342,12 +1663,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Task of Fictitious Unlearning for VLMs",
+                    "homepage": null,
                     "id": 804194333,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2025-04-06T22:05:08Z",
+                    "open_issues": 7,
                     "owner": "SaFo-Lab",
                     "repo": "FIUBench",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1365,12 +1691,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 877978652,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-06-04T00:40:51Z",
+                    "open_issues": 0,
                     "owner": "k1rezaei",
                     "repo": "restor",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1388,12 +1719,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NAACL 2025 Main] Official Implementation of MLLMU-Bench",
+                    "homepage": null,
                     "id": 874275570,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-03-13T03:16:09Z",
+                    "open_issues": 6,
                     "owner": "franciscoliu",
                     "repo": "MLLMU-Bench",
-                    "stars": 55
+                    "stars": 56,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1411,12 +1747,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official repo for NeurIPS'24 paper \"WAGLE: Strategic Weight Attribution for Effective and Modular Unlearning in Large Language Models\"",
+                    "homepage": null,
                     "id": 875703481,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-12-16T18:44:50Z",
+                    "open_issues": 1,
                     "owner": "OPTML-Group",
                     "repo": "WAGLE",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1434,12 +1775,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An official implementation of \"Catastrophic Failure of LLM Unlearning via Quantization\" (ICLR 2025)",
+                    "homepage": null,
                     "id": 875089846,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-02-22T05:02:23Z",
+                    "open_issues": 0,
                     "owner": "zzwjames",
                     "repo": "FailureLLMUnlearning",
-                    "stars": 39
+                    "stars": 39,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1457,12 +1803,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official github page for the paper \"Evaluating Deep Unlearning in Large Language Model\"",
+                    "homepage": null,
                     "id": 874566313,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2025-04-25T01:05:15Z",
+                    "open_issues": 1,
                     "owner": "wrh14",
                     "repo": "deep_unlearning",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1480,12 +1831,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Unlearning backdoor",
+                    "homepage": null,
                     "id": 871616810,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-05-18T06:03:02Z",
+                    "open_issues": 0,
                     "owner": "shuaizhao95",
                     "repo": "w2sdefense",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1503,12 +1859,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 874044490,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-10-17T06:52:05Z",
+                    "open_issues": 0,
                     "owner": "brightjade",
                     "repo": "Munch",
-                    "stars": 0
+                    "stars": 0,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1526,12 +1887,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the paper \"Do Unlearning Methods Remove Information from Language Model Weights?\"",
+                    "homepage": null,
                     "id": 868124224,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-10-09T03:36:42Z",
+                    "open_issues": 0,
                     "owner": "aghyad-deeb",
                     "repo": "unlearning_evaluation",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1549,12 +1915,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR 2025] A Closer Look at Machine Unlearning for Large Language Models",
+                    "homepage": "https://arxiv.org/abs/2410.08109",
                     "id": 870767504,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-12-04T11:15:28Z",
+                    "open_issues": 2,
                     "owner": "sail-sg",
                     "repo": "closer-look-LLM-unlearning",
-                    "stars": 49
+                    "stars": 49,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1572,12 +1943,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS25] Official repo for \"Simplicity Prevails: Rethinking Negative Preference Optimization for LLM Unlearning\"",
+                    "homepage": null,
                     "id": 858329897,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-10-03T17:39:54Z",
+                    "open_issues": 2,
                     "owner": "OPTML-Group",
                     "repo": "Unlearn-Simple",
-                    "stars": 46
+                    "stars": 46,
+                    "topics": [
+                      "data-privacy",
+                      "language-model",
+                      "large-language-models",
+                      "llm-unlearning",
+                      "machine-unlearning",
+                      "trustworthy-ai",
+                      "trustworthy-machine-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1595,12 +1979,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[EMNLP 2024 Main] Code for the paper \"Dissecting Fine-Tuning Unlearning in Large Language Models\"",
+                    "homepage": null,
                     "id": 866715053,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2024-10-10T18:04:59Z",
+                    "open_issues": 0,
                     "owner": "yihuaihong",
                     "repo": "Dissecting-FT-Unlearning",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1618,12 +2007,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICML 2025] Official PyTorch implementation of \"NegMerge: Sign-Consensual Weight Merging for Machine Unlearning\"",
+                    "homepage": null,
                     "id": 868490844,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-11-25T02:59:40Z",
+                    "open_issues": 1,
                     "owner": "naver-ai",
                     "repo": "negmerge",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1641,12 +2035,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 856842303,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-10-06T23:34:00Z",
+                    "open_issues": 0,
                     "owner": "ethz-spylab",
                     "repo": "unlearning-vs-safety",
-                    "stars": 28
+                    "stars": 28,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1664,12 +2063,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[COLING 2025] code for \"Alternate Preference Optimization for Unlearning Factual Knowledge in Large Language Models\". ",
+                    "homepage": "https://arxiv.org/abs/2409.13474",
                     "id": 902571619,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-01-14T03:21:53Z",
+                    "open_issues": 0,
                     "owner": "molereddy",
                     "repo": "Alternate-Preference-Optimization",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": [
+                      "large-language-models",
+                      "unlearning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1687,12 +2094,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 856734170,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-05-16T06:20:00Z",
+                    "open_issues": 2,
                     "owner": "Carol-gutianle",
                     "repo": "MEOW",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1710,12 +2122,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR 2025] Official Repository for \"Tamper-Resistant Safeguards for Open-Weight LLMs\"",
+                    "homepage": "https://arxiv.org/abs/2408.00761",
                     "id": 836911411,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-06-09T20:55:28Z",
+                    "open_issues": 2,
                     "owner": "rishub-tamirisa",
                     "repo": "tamper-resistance",
-                    "stars": 70
+                    "stars": 70,
+                    "topics": [
+                      "llm",
+                      "meta-learning",
+                      "open-weight",
+                      "safeguards",
+                      "tamper-resistance"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1733,12 +2156,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICDM 2025] Learn while Unlearn: An Iterative Unlearning Framework for Generative Language Models",
+                    "homepage": null,
                     "id": 769777851,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-08-28T14:28:33Z",
+                    "open_issues": 0,
                     "owner": "himalalps",
                     "repo": "ICU",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1756,12 +2184,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[EMNLP 2024] \"Revisiting Who's Harry Potter: Towards Targeted Unlearning from a Causal Intervention Perspective\"",
+                    "homepage": null,
                     "id": 832274468,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-07-22T17:19:52Z",
+                    "open_issues": 0,
                     "owner": "UCSB-NLP-Chang",
                     "repo": "causal_unlearn",
-                    "stars": 36
+                    "stars": 36,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1779,12 +2212,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 816824690,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2024-09-29T02:41:05Z",
+                    "open_issues": 3,
                     "owner": "aengusl",
                     "repo": "latent-adversarial-training",
-                    "stars": 48
+                    "stars": 48,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1802,12 +2240,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Implementation of \"Learning to Refuse: Towards Mitigating Privacy Risks in LLMs\"",
+                    "homepage": null,
                     "id": 828395457,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-12-13T09:17:55Z",
+                    "open_issues": 0,
                     "owner": "zhliu0106",
                     "repo": "learning-to-refuse",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1825,12 +2268,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 819578445,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2025-02-27T21:35:52Z",
+                    "open_issues": 4,
                     "owner": "hartvigsen-group",
                     "repo": "composable-interventions",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1848,12 +2296,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Safe Unlearning: A Surprisingly Effective and Generalizable Solution to Defend Against Jailbreak Attacks",
+                    "homepage": null,
                     "id": 823498342,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-07-09T03:42:52Z",
+                    "open_issues": 3,
                     "owner": "thu-coai",
                     "repo": "SafeUnlearning",
-                    "stars": 33
+                    "stars": 33,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1871,12 +2324,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[EMNLP 2024] To Forget or Not? Towards Practical Knowledge Unlearning for Large Language Models",
+                    "homepage": null,
                     "id": 816652282,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-01-23T01:51:21Z",
+                    "open_issues": 1,
                     "owner": "zjunlp",
                     "repo": "KnowUnDo",
-                    "stars": 48
+                    "stars": 48,
+                    "topics": [
+                      "artificial-intelligence",
+                      "benchmark",
+                      "dataset",
+                      "knowledge-editing",
+                      "knowledge-unlearning",
+                      "knowundo",
+                      "large-language-models",
+                      "localization",
+                      "memflex",
+                      "model-editing",
+                      "natural-language-processing",
+                      "unlearning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1894,12 +2365,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 810504704,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-11-17T23:26:25Z",
+                    "open_issues": 0,
                     "owner": "bill-shen-BS",
                     "repo": "PISTOL",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1917,12 +2393,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 817034612,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-10-14T05:02:18Z",
+                    "open_issues": 0,
                     "owner": "TaiMingLu",
                     "repo": "learn-unlearn",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1940,12 +2421,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Source code for \"Cross-Lingual Unlearning of Selective Knowledge in Multilingual Language Models\", Findings of EMNLP 2024",
+                    "homepage": null,
                     "id": 816662626,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-06-20T08:17:07Z",
+                    "open_issues": 0,
                     "owner": "brightjade",
                     "repo": "LingTea",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": [
+                      "knowledge-unlearning",
+                      "machine-unlearning",
+                      "multilingual",
+                      "unlearning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1963,12 +2454,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Source code for \"Opt-Out: Investigating Entity-Level Unlearning for Large Language Models via Optimal Transport\", ACL 2025",
+                    "homepage": null,
                     "id": 816640715,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-06-20T08:10:46Z",
+                    "open_issues": 0,
                     "owner": "brightjade",
                     "repo": "Opt-Out",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": [
+                      "entity",
+                      "entity-level-unlearning",
+                      "llm-safety",
+                      "machine-learning",
+                      "privacy",
+                      "unlearning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -1986,12 +2489,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 816440259,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-06-26T18:59:00Z",
+                    "open_issues": 2,
                     "owner": "karuna-bhaila",
                     "repo": "llm_unlearning",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2009,12 +2517,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[EMNLP 2025 Main] ConceptVectors Benchmark and Code for the paper \"Intrinsic Evaluation of Unlearning Using Parametric Knowledge Traces\"",
+                    "homepage": null,
                     "id": 811209712,
                     "language": "Jupyter Notebook",
+                    "license": "CC-BY-4.0",
                     "last_commit": "2025-08-20T17:37:20Z",
+                    "open_issues": 1,
                     "owner": "yihuaihong",
                     "repo": "ConceptVectors",
-                    "stars": 39
+                    "stars": 39,
+                    "topics": [
+                      "interpretability",
+                      "large-language-models",
+                      "natural-language-processing",
+                      "unlearning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2032,12 +2550,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language Models. NeurIPS 2024",
+                    "homepage": "https://rwku-bench.github.io",
                     "id": 806978404,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-09-30T13:26:32Z",
+                    "open_issues": 8,
                     "owner": "jinzhuoran",
                     "repo": "RWKU",
-                    "stars": 101
+                    "stars": 101,
+                    "topics": [
+                      "adversarial-attacks",
+                      "benchmark",
+                      "evaluation-framework",
+                      "forgetting",
+                      "large-language-models",
+                      "membership-inference-attack",
+                      "natural-language-processing",
+                      "privacy-protection",
+                      "right-to-be-forgotten",
+                      "unlearning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2055,12 +2589,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "REVS: Unlearning Sensitive Information in LLMs",
+                    "homepage": null,
                     "id": 797693381,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2025-05-26T13:40:55Z",
+                    "open_issues": 0,
                     "owner": "tomerashuach",
                     "repo": "REVS",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2078,12 +2617,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation of paper 'Reversing the Forget-Retain Objectives: An Efficient LLM Unlearning Framework from Logit Difference' [NeurIPS'24]",
+                    "homepage": null,
                     "id": 810877844,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-06-14T21:00:16Z",
+                    "open_issues": 1,
                     "owner": "UCSB-NLP-Chang",
                     "repo": "ULD",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": [
+                      "large-language-models",
+                      "nlp",
+                      "pytorch",
+                      "transformers",
+                      "unlearning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2101,12 +2651,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2024] Large Language Model Unlearning via Embedding-Corrupted Prompts",
+                    "homepage": "https://chrisliu298.ai/llm-unlearn-eco-project-page/",
                     "id": 821214730,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-09-26T04:09:15Z",
+                    "open_issues": 0,
                     "owner": "chrisliu298",
                     "repo": "llm-unlearn-eco",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": [
+                      "alignment",
+                      "large-language-models",
+                      "llm-unlearning",
+                      "machine-unlearning",
+                      "unlearning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2124,12 +2685,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The official implementation of the paper \"Large Scale Knowledge Washing\"",
+                    "homepage": "https://arxiv.org/abs/2405.16720",
                     "id": 804499070,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-06-12T04:35:47Z",
+                    "open_issues": 2,
                     "owner": "wangyu-ustc",
                     "repo": "LargeScaleWashing",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2147,12 +2713,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official repo for EMNLP'24 paper \"SOUL: Unlocking the Power of Second-Order Optimization for LLM Unlearning\"",
+                    "homepage": null,
                     "id": 789186366,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-10-01T03:48:20Z",
+                    "open_issues": 1,
                     "owner": "OPTML-Group",
                     "repo": "SOUL",
-                    "stars": 30
+                    "stars": 30,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2170,12 +2741,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 787643040,
                     "language": null,
+                    "license": "Apache-2.0",
                     "last_commit": "2024-04-16T23:00:19Z",
+                    "open_issues": 1,
                     "owner": "luka-group",
                     "repo": "Delta-Unlearning",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2193,12 +2769,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 783507470,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-07-15T18:10:37Z",
+                    "open_issues": 8,
                     "owner": "licong-lin",
                     "repo": "negative-preference-optimization",
-                    "stars": 77
+                    "stars": 77,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2216,12 +2797,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "WMDP is a LLM proxy benchmark for hazardous knowledge in bio, cyber, and chemical security. We also release code for RMU, an unlearning method which reduces LLM performance on WMDP while retaining general capabilities.",
+                    "homepage": "https://www.wmdp.ai/",
                     "id": 764348239,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2025-05-29T21:02:53Z",
+                    "open_issues": 15,
                     "owner": "centerforaisafety",
                     "repo": "wmdp",
-                    "stars": 177
+                    "stars": 177,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2239,12 +2825,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Code for paper \"Towards Efficient and Effective Unlearning of Large Language Models for Recommendation\" (Frontiers of Computer Science 2024)",
+                    "homepage": null,
                     "id": 767934771,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-07-19T08:43:43Z",
+                    "open_issues": 4,
                     "owner": "justarter",
                     "repo": "E2URec",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2262,12 +2853,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 693001324,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-01-10T08:43:50Z",
+                    "open_issues": 0,
                     "owner": "dong-river",
                     "repo": "LLM_unlearning",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2285,12 +2881,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official code implementation of SKU, Accepted by ACL 2024 Findings",
+                    "homepage": "https://arxiv.org/abs/2402.10058",
                     "id": 757192697,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-12-18T02:09:40Z",
+                    "open_issues": 2,
                     "owner": "franciscoliu",
                     "repo": "SKU",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2308,12 +2909,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ACL 2024] Code and data for \"Machine Unlearning of Pre-trained Large Language Models\"",
+                    "homepage": null,
                     "id": 763297529,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-09-30T01:22:07Z",
+                    "open_issues": 3,
                     "owner": "yaojin17",
                     "repo": "Unlearning_LLM",
-                    "stars": 68
+                    "stars": 68,
+                    "topics": [
+                      "copyright-protection",
+                      "data-privacy",
+                      "llm",
+                      "llm-unlearning",
+                      "machine-unlearning",
+                      "unlearning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2331,12 +2944,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "the official repo for EMNLP 2024 (main) paper \"EFUF: Efficient Fine-grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models\"",
+                    "homepage": null,
                     "id": 710192686,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-04-09T08:17:02Z",
+                    "open_issues": 0,
                     "owner": "starreeze",
                     "repo": "efuf",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2354,12 +2972,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 938886036,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-02-25T17:35:32Z",
+                    "open_issues": 2,
                     "owner": "locuslab",
                     "repo": "tofu",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2384,12 +3007,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 708282070,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-04-20T15:24:11Z",
+                    "open_issues": 0,
                     "owner": "flamewei123",
                     "repo": "DEPN",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2407,12 +3035,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 706839844,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-10-18T22:53:03Z",
+                    "open_issues": 5,
                     "owner": "SALT-NLP",
                     "repo": "Efficient_Unlearning",
-                    "stars": 38
+                    "stars": 38,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2430,12 +3063,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "\"In-Context Unlearning: Language Models as Few Shot Unlearners\". Martin Pawelczyk, Seth Neel* and Himabindu Lakkaraju*; ICML 2024.",
+                    "homepage": "https://arxiv.org/abs/2310.07579",
                     "id": 706278187,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2023-10-18T09:46:30Z",
+                    "open_issues": 1,
                     "owner": "MartinPawelczyk",
                     "repo": "In-Context-Unlearning",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2453,12 +3091,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LLM Unlearning",
+                    "homepage": null,
                     "id": 704715397,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-10-20T20:16:03Z",
+                    "open_issues": 10,
                     "owner": "kevinyaobytedance",
                     "repo": "llm_unlearn",
-                    "stars": 188
+                    "stars": 188,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2476,12 +3119,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 699093767,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-02-08T03:43:44Z",
+                    "open_issues": 4,
                     "owner": "Vaidehi99",
                     "repo": "InfoDeletionAttacks",
-                    "stars": 49
+                    "stars": 49,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2499,12 +3147,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of \"Knowledge Sanitization of Large Language Models\"",
+                    "homepage": null,
                     "id": 764503547,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-02-29T10:52:40Z",
+                    "open_issues": 0,
                     "owner": "yoichi1484",
                     "repo": "knowledge-sanitization",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2522,12 +3175,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of our paper \"Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation\". A model merge method for deficiency unlearning, compitable with huggingface peft (LoRA).",
+                    "homepage": "https://arxiv.org/abs/2308.08090",
                     "id": 730025985,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-09-20T09:00:57Z",
+                    "open_issues": 1,
                     "owner": "HITsz-TMG",
                     "repo": "Ext-Sub",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2545,12 +3203,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 645693967,
                     "language": "Python",
+                    "license": "CC-BY-SA-4.0",
                     "last_commit": "2023-11-07T15:35:26Z",
+                    "open_issues": 0,
                     "owner": "CharlesYu2000",
                     "repo": "PCGU-UnlearningBias",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2568,12 +3231,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Erasing concepts from neural representations with provable guarantees",
+                    "homepage": null,
                     "id": 636982911,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-01-27T01:06:54Z",
+                    "open_issues": 5,
                     "owner": "EleutherAI",
                     "repo": "concept-erasure",
-                    "stars": 266
+                    "stars": 266,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2591,12 +3259,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2023] Github repository for \"Composing Parameter-Efficient Modules with Arithmetic Operations\"",
+                    "homepage": "https://arxiv.org/abs/2306.14870",
                     "id": 653727781,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-11-26T11:09:08Z",
+                    "open_issues": 5,
                     "owner": "hkust-nlp",
                     "repo": "PEM_composition",
-                    "stars": 61
+                    "stars": 61,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2614,12 +3287,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 638081378,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-09-10T06:51:17Z",
+                    "open_issues": 3,
                     "owner": "Lingzhi-WANG",
                     "repo": "KGAUnlearn",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2644,12 +3322,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Editing Models with Task Arithmetic",
+                    "homepage": null,
                     "id": 575546094,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-01-11T17:11:00Z",
+                    "open_issues": 9,
                     "owner": "mlfoundations",
                     "repo": "task_vectors",
-                    "stars": 553
+                    "stars": 553,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2667,12 +3350,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ACL 2023] Knowledge Unlearning for Mitigating Privacy Risks in Language Models",
+                    "homepage": null,
                     "id": 543923708,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-09-12T16:02:04Z",
+                    "open_issues": 4,
                     "owner": "joeljang",
                     "repo": "knowledge-unlearning",
-                    "stars": 88
+                    "stars": 88,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2690,12 +3378,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 550440686,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-11-03T22:17:43Z",
+                    "open_issues": 3,
                     "owner": "GXimingLu",
                     "repo": "Quark",
-                    "stars": 75
+                    "stars": 75,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2720,12 +3413,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "code associated with ACL 2021 DExperts paper",
+                    "homepage": null,
                     "id": 373678157,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2023-05-24T18:58:54Z",
+                    "open_issues": 2,
                     "owner": "alisawuffles",
                     "repo": "DExperts",
-                    "stars": 119
+                    "stars": 119,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
                 }
@@ -2754,24 +3452,58 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS D&B '25] The one-stop repository for LLM unlearning",
+                "homepage": null,
                 "id": 741543947,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-18T15:31:54Z",
+                "open_issues": 21,
                 "owner": "locuslab",
                 "repo": "open-unlearning",
-                "stars": 588
+                "stars": 588,
+                "topics": [
+                  "benchmarks",
+                  "llm-evaluation-metrics",
+                  "llm-privacy",
+                  "llm-unlearning",
+                  "llms",
+                  "membership-inference",
+                  "membership-inference-attacks",
+                  "open-source",
+                  "privacy-protection",
+                  "right-to-be-forgotten",
+                  "unlearning"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.438Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS D&B '25] The one-stop repository for LLM unlearning",
+            "homepage": null,
             "id": 741543947,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-18T15:31:54Z",
+            "open_issues": 21,
             "owner": "locuslab",
             "repo": "open-unlearning",
-            "stars": 588
+            "stars": 588,
+            "topics": [
+              "benchmarks",
+              "llm-evaluation-metrics",
+              "llm-privacy",
+              "llm-unlearning",
+              "llms",
+              "membership-inference",
+              "membership-inference-attacks",
+              "open-source",
+              "privacy-protection",
+              "right-to-be-forgotten",
+              "unlearning"
+            ]
           },
           "first_seen": "2026-08-28T23:43:12.438Z"
         },
@@ -2787,24 +3519,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 954931404,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T15:13:24Z",
+                "open_issues": 10,
                 "owner": "LeonardoSanBenitez",
                 "repo": "vision-unlearning",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:43:12.438Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 954931404,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T15:13:24Z",
+            "open_issues": 10,
             "owner": "LeonardoSanBenitez",
             "repo": "vision-unlearning",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:43:12.438Z"
         },
@@ -2820,12 +3562,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Visual Analytics System for Comparative Evaluation of Machine Unlearning Methods (TVCG 2026)",
+                "homepage": "https://gnueaj.github.io/Machine-Unlearning-Comparator/",
                 "id": 820875181,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-07-17T11:39:30Z",
+                "open_issues": 1,
                 "owner": "gnueaj",
                 "repo": "Machine-Unlearning-Comparator",
-                "stars": 101
+                "stars": 101,
+                "topics": [
+                  "benchmark",
+                  "evaluation",
+                  "machine-unlearning",
+                  "unlearning",
+                  "visual-analytics",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-28T23:43:12.438Z"
             }
@@ -2836,15 +3590,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:43:12.438Z",
+    "last_updated": "2026-08-29T04:40:40.939Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A resource repository for machine unlearning in large language models",
+      "homepage": null,
       "id": 778371641,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2026-08-06T09:51:49Z",
+      "open_issues": 0,
       "owner": "chrisliu298",
       "repo": "awesome-llm-unlearning",
-      "stars": 623
+      "stars": 623,
+      "topics": [
+        "ai-safety",
+        "alignment",
+        "awesome",
+        "awesome-list",
+        "evaluation",
+        "knowledge-erasure",
+        "large-language-model",
+        "llm",
+        "llm-safety",
+        "llm-unlearning",
+        "machine-learning",
+        "machine-unlearning",
+        "model-editing",
+        "nlp",
+        "paper-list",
+        "privacy",
+        "responsible-ai",
+        "right-to-be-forgotten",
+        "selective-forgetting",
+        "unlearning"
+      ]
     },
     "original_repository_sha": "d59da0049bcca716ac1090de994fe9d14f7d99e7",
     "enhanced_repository": "enhansome/enhansome-llm-unlearning",
