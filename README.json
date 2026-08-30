@@ -2806,7 +2806,7 @@
                     "open_issues": 15,
                     "owner": "centerforaisafety",
                     "repo": "wmdp",
-                    "stars": 177,
+                    "stars": 179,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3590,7 +3590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:55:21.627Z",
+    "last_updated": "2026-08-30T18:11:52.051Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
@@ -3602,7 +3602,7 @@
       "open_issues": 0,
       "owner": "chrisliu298",
       "repo": "awesome-llm-unlearning",
-      "stars": 623,
+      "stars": 624,
       "topics": [
         "ai-safety",
         "alignment",
