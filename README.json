@@ -3013,7 +3013,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2024-04-20T15:24:11Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "flamewei123",
                     "repo": "DEPN",
                     "stars": 24,
@@ -3387,7 +3387,7 @@
                     "open_issues": 3,
                     "owner": "GXimingLu",
                     "repo": "Quark",
-                    "stars": 75,
+                    "stars": 76,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3461,7 +3461,7 @@
                 "open_issues": 21,
                 "owner": "locuslab",
                 "repo": "open-unlearning",
-                "stars": 588,
+                "stars": 589,
                 "topics": [
                   "benchmarks",
                   "llm-evaluation-metrics",
@@ -3490,7 +3490,7 @@
             "open_issues": 21,
             "owner": "locuslab",
             "repo": "open-unlearning",
-            "stars": 588,
+            "stars": 589,
             "topics": [
               "benchmarks",
               "llm-evaluation-metrics",
@@ -3524,7 +3524,7 @@
                 "id": 954931404,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T11:56:40Z",
+                "last_commit": "2026-08-31T12:36:41Z",
                 "open_issues": 10,
                 "owner": "LeonardoSanBenitez",
                 "repo": "vision-unlearning",
@@ -3541,7 +3541,7 @@
             "id": 954931404,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T11:56:40Z",
+            "last_commit": "2026-08-31T12:36:41Z",
             "open_issues": 10,
             "owner": "LeonardoSanBenitez",
             "repo": "vision-unlearning",
@@ -3590,7 +3590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:11:52.051Z",
+    "last_updated": "2026-08-31T20:25:07.107Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
@@ -3602,7 +3602,7 @@
       "open_issues": 0,
       "owner": "chrisliu298",
       "repo": "awesome-llm-unlearning",
-      "stars": 624,
+      "stars": 623,
       "topics": [
         "ai-safety",
         "alignment",
