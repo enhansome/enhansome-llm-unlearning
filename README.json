@@ -2981,7 +2981,7 @@
                     "open_issues": 2,
                     "owner": "locuslab",
                     "repo": "tofu",
-                    "stars": 29,
+                    "stars": 30,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3013,7 +3013,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2024-04-20T15:24:11Z",
-                    "open_issues": 1,
+                    "open_issues": 0,
                     "owner": "flamewei123",
                     "repo": "DEPN",
                     "stars": 24,
@@ -3328,7 +3328,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2024-01-11T17:11:00Z",
-                    "open_issues": 9,
+                    "open_issues": 10,
                     "owner": "mlfoundations",
                     "repo": "task_vectors",
                     "stars": 553,
@@ -3461,7 +3461,7 @@
                 "open_issues": 21,
                 "owner": "locuslab",
                 "repo": "open-unlearning",
-                "stars": 589,
+                "stars": 590,
                 "topics": [
                   "benchmarks",
                   "llm-evaluation-metrics",
@@ -3490,7 +3490,7 @@
             "open_issues": 21,
             "owner": "locuslab",
             "repo": "open-unlearning",
-            "stars": 589,
+            "stars": 590,
             "topics": [
               "benchmarks",
               "llm-evaluation-metrics",
@@ -3590,7 +3590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T20:25:07.107Z",
+    "last_updated": "2026-09-01T17:59:25.030Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
