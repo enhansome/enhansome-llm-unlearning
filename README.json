@@ -3013,7 +3013,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2024-04-20T15:24:11Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "flamewei123",
                     "repo": "DEPN",
                     "stars": 24,
@@ -3461,7 +3461,7 @@
                 "open_issues": 21,
                 "owner": "locuslab",
                 "repo": "open-unlearning",
-                "stars": 590,
+                "stars": 592,
                 "topics": [
                   "benchmarks",
                   "llm-evaluation-metrics",
@@ -3490,7 +3490,7 @@
             "open_issues": 21,
             "owner": "locuslab",
             "repo": "open-unlearning",
-            "stars": 590,
+            "stars": 592,
             "topics": [
               "benchmarks",
               "llm-evaluation-metrics",
@@ -3590,7 +3590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T17:59:25.030Z",
+    "last_updated": "2026-09-02T18:07:14.286Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
