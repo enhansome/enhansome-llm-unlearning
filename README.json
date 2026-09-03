@@ -26,7 +26,7 @@
                     "open_issues": 0,
                     "owner": "smsnobin77",
                     "repo": "Awesome-Multimodal-Unlearning",
-                    "stars": 9,
+                    "stars": 10,
                     "topics": [
                       "ai-safety",
                       "diffusion-models",
@@ -2559,7 +2559,7 @@
                     "open_issues": 8,
                     "owner": "jinzhuoran",
                     "repo": "RWKU",
-                    "stars": 101,
+                    "stars": 102,
                     "topics": [
                       "adversarial-attacks",
                       "benchmark",
@@ -3240,7 +3240,7 @@
                     "open_issues": 5,
                     "owner": "EleutherAI",
                     "repo": "concept-erasure",
-                    "stars": 266,
+                    "stars": 267,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3458,10 +3458,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-03-18T15:31:54Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "locuslab",
                 "repo": "open-unlearning",
-                "stars": 592,
+                "stars": 593,
                 "topics": [
                   "benchmarks",
                   "llm-evaluation-metrics",
@@ -3487,10 +3487,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-03-18T15:31:54Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "locuslab",
             "repo": "open-unlearning",
-            "stars": 592,
+            "stars": 593,
             "topics": [
               "benchmarks",
               "llm-evaluation-metrics",
@@ -3590,7 +3590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T18:07:14.286Z",
+    "last_updated": "2026-09-03T18:06:38.843Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
