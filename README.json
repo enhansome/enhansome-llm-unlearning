@@ -1178,7 +1178,7 @@
                     "open_issues": 1,
                     "owner": "McGill-NLP",
                     "repo": "unequal-unlearning",
-                    "stars": 8,
+                    "stars": 9,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -1318,7 +1318,7 @@
                     "open_issues": 1,
                     "owner": "franciscoliu",
                     "repo": "MANU",
-                    "stars": 13,
+                    "stars": 14,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -2221,7 +2221,7 @@
                     "open_issues": 3,
                     "owner": "aengusl",
                     "repo": "latent-adversarial-training",
-                    "stars": 48,
+                    "stars": 49,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3590,7 +3590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T18:06:38.843Z",
+    "last_updated": "2026-09-04T17:50:32.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",

@@ -2153,7 +2153,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Code: -
 
 * [Not All Data Are Unlearned Equally](https://arxiv.org/abs/2504.05058)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/McGill-NLP/unequal-unlearning) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2025-10-03
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/McGill-NLP/unequal-unlearning) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2025-10-03
   * Author(s): Aravind Krishnan, Siva Reddy, Marius Mosbach
   * Date: 2025-04
   * Venue: -
@@ -2321,7 +2321,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Venue: -
 
 * [Modality-Aware Neuron Pruning for Unlearning in Multimodal Large Language Models](https://arxiv.org/abs/2502.15910)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/franciscoliu/MANU) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2025-05-22
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/franciscoliu/MANU) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2025-05-22
   * Author(s): Zheyuan Liu, Guangyao Dou, Xiangchi Yuan, Chunhui Zhang, Zhaoxuan Tan, Meng Jiang
   * Date: 2025-02
   * Venue: -
@@ -2924,7 +2924,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Venue: -
   * Code: -
 * [Targeted Latent Adversarial Training Improves Robustness to Persistent Harmful Behaviors in LLMs](https://arxiv.org/abs/2407.15549)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/aengusl/latent-adversarial-training) ⭐ 48 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2024-09-29
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/aengusl/latent-adversarial-training) ⭐ 49 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2024-09-29
   * Author(s): Abhay Sheshadri, Aidan Ewart, Phillip Guo, Aengus Lynch, Cindy Wu, Vivek Hebbar, Henry Sleight, Asa Cooper Stickland, Ethan Perez, Dylan Hadfield-Menell, Stephen Casper
   * Date: 2024-07
   * Venue: -
@@ -3553,4 +3553,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
