@@ -1469,7 +1469,7 @@
                     "open_issues": 0,
                     "owner": "OPTML-Group",
                     "repo": "Unlearn-Smooth",
-                    "stars": 24,
+                    "stars": 25,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -1952,7 +1952,7 @@
                     "open_issues": 2,
                     "owner": "OPTML-Group",
                     "repo": "Unlearn-Simple",
-                    "stars": 46,
+                    "stars": 47,
                     "topics": [
                       "data-privacy",
                       "language-model",
@@ -3461,7 +3461,7 @@
                 "open_issues": 22,
                 "owner": "locuslab",
                 "repo": "open-unlearning",
-                "stars": 593,
+                "stars": 594,
                 "topics": [
                   "benchmarks",
                   "llm-evaluation-metrics",
@@ -3490,7 +3490,7 @@
             "open_issues": 22,
             "owner": "locuslab",
             "repo": "open-unlearning",
-            "stars": 593,
+            "stars": 594,
             "topics": [
               "benchmarks",
               "llm-evaluation-metrics",
@@ -3590,7 +3590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T17:50:32.448Z",
+    "last_updated": "2026-09-05T16:57:33.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
