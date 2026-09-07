@@ -3164,7 +3164,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Venue: -
   * Code: -
 * [The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning](https://arxiv.org/abs/2403.03218)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/centerforaisafety/wmdp) ⭐ 179 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2025-05-29
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/centerforaisafety/wmdp) ⭐ 180 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2025-05-29
   * Author(s): Nathaniel Li, Alexander Pan, Anjali Gopal, Summer Yue, Daniel Berrios, Alice Gatti, Justin D. Li, Ann-Kathrin Dombrowski, Shashwat Goel, Long Phan, Gabriel Mukobi, Nathan Helm-Burger, Rassin Lababidi, Lennart Justen, Andrew B. Liu, Michael Chen, Isabelle Barrass, Oliver Zhang, Xiaoyuan Zhu, Rishub Tamirisa, Bhrugu Bharathi, Adam Khoja, Zhenqi Zhao, Ariel Herbert-Voss, Cort B. Breuer, Samuel Marks, Oam Patel, Andy Zou, Mantas Mazeika, Zifan Wang, Palash Oswal, Weiran Lin, Adam A. Hunt, Justin Tienken-Harder, Kevin Y. Shih, Kemper Talley, John Guan, Russell Kaplan, Ian Steneker, David Campbell, Brad Jokubaitis, Alex Levinson, Jean Wang, William Qian, Kallol Krishna Karmakar, Steven Basart, Stephen Fitz, Mindy Levine, Ponnurangam Kumaraguru, Uday Tupakula, Vijay Varadharajan, Ruoyu Wang, Yan Shoshitaishvili, Jimmy Ba, Kevin M. Esvelt, Alexandr Wang, Dan Hendrycks
   * Date: 2024-03
   * Venue: -
@@ -3360,7 +3360,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
 ### 2022
 
 * [Editing Models with Task Arithmetic](https://arxiv.org/abs/2212.04089)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/mlfoundations/task_vectors) ⭐ 553 | 🐛 10 | 🌐 Python | 📅 2024-01-11
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/mlfoundations/task_vectors) ⭐ 554 | 🐛 10 | 🌐 Python | 📅 2024-01-11
   * Author(s): Gabriel Ilharco, Marco Tulio Ribeiro, Mitchell Wortsman, Suchin Gururangan, Ludwig Schmidt, Hannaneh Hajishirzi, Ali Farhadi
   * Date: 2022-12
   * Venue: ICLR 2023
@@ -3497,8 +3497,8 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
 
 ## Frameworks
 
-* [Open Unlearning](https://github.com/locuslab/open-unlearning) ⭐ 594 | 🐛 22 | 🌐 Python | 📅 2026-03-18
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/locuslab/open-unlearning) ⭐ 594 | 🐛 22 | 🌐 Python | 📅 2026-03-18
+* [Open Unlearning](https://github.com/locuslab/open-unlearning) ⭐ 595 | 🐛 22 | 🌐 Python | 📅 2026-03-18
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/locuslab/open-unlearning) ⭐ 595 | 🐛 22 | 🌐 Python | 📅 2026-03-18
   * Author(s): Vineeth Dorna, Anmol Mekala, Wenlong Zhao, Andrew McCallum, J Zico Kolter, Pratyush Maini
   * Date: 2025-02
   * Venue: -
@@ -3553,4 +3553,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
