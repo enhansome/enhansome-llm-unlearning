@@ -1147,7 +1147,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2025-10-13T03:46:49Z",
-                    "open_issues": 2,
+                    "open_issues": 1,
                     "owner": "aashiqmuhamed",
                     "repo": "DynamicSAEGuardrails",
                     "stars": 8,
@@ -2044,7 +2044,7 @@
                     "open_issues": 0,
                     "owner": "ethz-spylab",
                     "repo": "unlearning-vs-safety",
-                    "stars": 28,
+                    "stars": 29,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -2806,7 +2806,7 @@
                     "open_issues": 15,
                     "owner": "centerforaisafety",
                     "repo": "wmdp",
-                    "stars": 180,
+                    "stars": 181,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3240,7 +3240,7 @@
                     "open_issues": 5,
                     "owner": "EleutherAI",
                     "repo": "concept-erasure",
-                    "stars": 267,
+                    "stars": 268,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3461,7 +3461,7 @@
                 "open_issues": 22,
                 "owner": "locuslab",
                 "repo": "open-unlearning",
-                "stars": 596,
+                "stars": 597,
                 "topics": [
                   "benchmarks",
                   "llm-evaluation-metrics",
@@ -3490,7 +3490,7 @@
             "open_issues": 22,
             "owner": "locuslab",
             "repo": "open-unlearning",
-            "stars": 596,
+            "stars": 597,
             "topics": [
               "benchmarks",
               "llm-evaluation-metrics",
@@ -3524,7 +3524,7 @@
                 "id": 954931404,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T02:03:37Z",
+                "last_commit": "2026-09-09T11:14:33Z",
                 "open_issues": 10,
                 "owner": "LeonardoSanBenitez",
                 "repo": "vision-unlearning",
@@ -3541,7 +3541,7 @@
             "id": 954931404,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T02:03:37Z",
+            "last_commit": "2026-09-09T11:14:33Z",
             "open_issues": 10,
             "owner": "LeonardoSanBenitez",
             "repo": "vision-unlearning",
@@ -3590,7 +3590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T18:07:49.429Z",
+    "last_updated": "2026-09-09T18:01:36.107Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
