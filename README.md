@@ -2744,7 +2744,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Date: 2024-10
   * Venue: -
 * [Unlearning Backdoor Attacks for LLMs with Weak-to-Strong Knowledge Distillation](https://arxiv.org/abs/2410.14425)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/shuaizhao95/Unlearning) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2025-05-18
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/shuaizhao95/Unlearning) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2025-05-18
   * Author(s): Shuai Zhao, Xiaobao Wu, Cong-Duy Nguyen, Meihuizi Jia, Yichao Feng, Luu Anh Tuan
   * Date: 2024-10
   * Venue: -
@@ -3502,8 +3502,8 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Author(s): Vineeth Dorna, Anmol Mekala, Wenlong Zhao, Andrew McCallum, J Zico Kolter, Pratyush Maini
   * Date: 2025-02
   * Venue: -
-* [Vision Unlearning](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-09-09
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-09-09
+* [Vision Unlearning](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-09-10
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2026-09-10
   * Author(s): Leonardo Benitez, Carolina Kelsch, Natnael Mola
   * Date: 2025-02
   * Venue: -
@@ -3553,4 +3553,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
