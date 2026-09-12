@@ -1178,7 +1178,7 @@
                     "open_issues": 1,
                     "owner": "McGill-NLP",
                     "repo": "unequal-unlearning",
-                    "stars": 9,
+                    "stars": 10,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3567,7 +3567,7 @@
                 "id": 820875181,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-07-17T11:39:30Z",
+                "last_commit": "2026-09-12T05:26:11Z",
                 "open_issues": 1,
                 "owner": "gnueaj",
                 "repo": "Machine-Unlearning-Comparator",
@@ -3590,7 +3590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T17:56:46.225Z",
+    "last_updated": "2026-09-12T17:27:27.473Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",

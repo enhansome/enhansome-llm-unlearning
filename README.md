@@ -2153,7 +2153,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Code: -
 
 * [Not All Data Are Unlearned Equally](https://arxiv.org/abs/2504.05058)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/McGill-NLP/unequal-unlearning) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2025-10-03
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/McGill-NLP/unequal-unlearning) ⭐ 10 | 🐛 1 | 🌐 Python | 📅 2025-10-03
   * Author(s): Aravind Krishnan, Siva Reddy, Marius Mosbach
   * Date: 2025-04
   * Venue: -
@@ -3508,7 +3508,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Date: 2025-02
   * Venue: -
 * [Machine Unlearning Comparator](https://arxiv.org/abs/2508.12730)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/gnueaj/Machine-Unlearning-Comparator) ⭐ 101 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-17
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/gnueaj/Machine-Unlearning-Comparator) ⭐ 101 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-12
   * Author(s): Jaeung Lee, Suhyeon Yu, Yurim Jang, Simon S. Woo, Jaemin Jo
   * Date: 2025-08
   * Venue: -
@@ -3553,4 +3553,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
