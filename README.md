@@ -971,7 +971,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
 ### 2025
 
 * [UMU-Bench: Closing the Modality Gap in Multimodal Unlearning Evaluation](https://neurips.cc/virtual/2025/poster/121699)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/QDRhhhh/UMU-bench) ⭐ 8 | 🐛 4 | 🌐 Python | 📅 2026-05-10
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/QDRhhhh/UMU-bench) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2026-05-10
   * Author(s): Chengye Wang, Yuyuan Li, XiaoHua Feng, Chaochao Chen, Xiaolin Zheng, Jianwei Yin
   * Date: 2025-12
   * Venue: NeurIPS 2025
@@ -3497,8 +3497,8 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
 
 ## Frameworks
 
-* [Open Unlearning](https://github.com/locuslab/open-unlearning) ⭐ 597 | 🐛 22 | 🌐 Python | 📅 2026-03-18
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/locuslab/open-unlearning) ⭐ 597 | 🐛 22 | 🌐 Python | 📅 2026-03-18
+* [Open Unlearning](https://github.com/locuslab/open-unlearning) ⭐ 598 | 🐛 22 | 🌐 Python | 📅 2026-03-18
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/locuslab/open-unlearning) ⭐ 598 | 🐛 22 | 🌐 Python | 📅 2026-03-18
   * Author(s): Vineeth Dorna, Anmol Mekala, Wenlong Zhao, Andrew McCallum, J Zico Kolter, Pratyush Maini
   * Date: 2025-02
   * Venue: -
@@ -3553,4 +3553,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
