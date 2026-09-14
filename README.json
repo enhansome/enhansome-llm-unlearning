@@ -814,7 +814,7 @@
                     "open_issues": 0,
                     "owner": "technion-cs-nlp",
                     "repo": "parametric-faithfulness",
-                    "stars": 24,
+                    "stars": 23,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -2193,7 +2193,7 @@
                     "open_issues": 0,
                     "owner": "UCSB-NLP-Chang",
                     "repo": "causal_unlearn",
-                    "stars": 36,
+                    "stars": 35,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3461,7 +3461,7 @@
                 "open_issues": 22,
                 "owner": "locuslab",
                 "repo": "open-unlearning",
-                "stars": 598,
+                "stars": 599,
                 "topics": [
                   "benchmarks",
                   "llm-evaluation-metrics",
@@ -3490,7 +3490,7 @@
             "open_issues": 22,
             "owner": "locuslab",
             "repo": "open-unlearning",
-            "stars": 598,
+            "stars": 599,
             "topics": [
               "benchmarks",
               "llm-evaluation-metrics",
@@ -3590,7 +3590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T17:42:56.578Z",
+    "last_updated": "2026-09-14T19:37:09.352Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
