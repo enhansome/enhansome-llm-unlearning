@@ -814,7 +814,7 @@
                     "open_issues": 0,
                     "owner": "technion-cs-nlp",
                     "repo": "parametric-faithfulness",
-                    "stars": 23,
+                    "stars": 24,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -1728,7 +1728,7 @@
                     "open_issues": 6,
                     "owner": "franciscoliu",
                     "repo": "MLLMU-Bench",
-                    "stars": 56,
+                    "stars": 57,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -2806,7 +2806,7 @@
                     "open_issues": 15,
                     "owner": "centerforaisafety",
                     "repo": "wmdp",
-                    "stars": 181,
+                    "stars": 182,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3522,10 +3522,10 @@
                 "description": null,
                 "homepage": null,
                 "id": 954931404,
-                "language": "Jupyter Notebook",
+                "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T14:38:24Z",
-                "open_issues": 10,
+                "last_commit": "2026-09-14T20:08:49Z",
+                "open_issues": 9,
                 "owner": "LeonardoSanBenitez",
                 "repo": "vision-unlearning",
                 "stars": 4,
@@ -3539,10 +3539,10 @@
             "description": null,
             "homepage": null,
             "id": 954931404,
-            "language": "Jupyter Notebook",
+            "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T14:38:24Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-14T20:08:49Z",
+            "open_issues": 9,
             "owner": "LeonardoSanBenitez",
             "repo": "vision-unlearning",
             "stars": 4,
@@ -3590,7 +3590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T19:37:09.352Z",
+    "last_updated": "2026-09-15T18:30:42.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
