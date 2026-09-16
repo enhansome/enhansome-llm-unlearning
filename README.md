@@ -2081,7 +2081,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Code: -
 
 * [AegisLLM: Scaling Agentic Systems for Self-Reflective Defense in LLM Security](https://arxiv.org/abs/2504.20965)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/zikuicai/aegisllm) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2026-02-17
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/zikuicai/aegisllm) ⭐ 36 | 🐛 0 | 🌐 Python | 📅 2026-02-17
   * Author(s): Zikui Cai, Shayan Shabihi, Bang An, Zora Che, Brian R. Bartoldson, Bhavya Kailkhura, Tom Goldstein, Furong Huang
   * Date: 2025-04
   * Venue: -
@@ -3553,4 +3553,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._

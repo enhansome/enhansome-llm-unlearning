@@ -1066,7 +1066,7 @@
                     "open_issues": 0,
                     "owner": "zikuicai",
                     "repo": "aegisllm",
-                    "stars": 35,
+                    "stars": 36,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3590,7 +3590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T18:30:42.045Z",
+    "last_updated": "2026-09-16T18:28:19.493Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
