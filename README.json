@@ -183,7 +183,7 @@
                     "open_issues": 0,
                     "owner": "CityU-MLO",
                     "repo": "DualOptimPlus",
-                    "stars": 3,
+                    "stars": 4,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -786,7 +786,7 @@
                     "open_issues": 2,
                     "owner": "EleutherAI",
                     "repo": "deep-ignorance",
-                    "stars": 27,
+                    "stars": 28,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -2806,7 +2806,7 @@
                     "open_issues": 15,
                     "owner": "centerforaisafety",
                     "repo": "wmdp",
-                    "stars": 182,
+                    "stars": 183,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3461,7 +3461,7 @@
                 "open_issues": 22,
                 "owner": "locuslab",
                 "repo": "open-unlearning",
-                "stars": 599,
+                "stars": 601,
                 "topics": [
                   "benchmarks",
                   "llm-evaluation-metrics",
@@ -3490,7 +3490,7 @@
             "open_issues": 22,
             "owner": "locuslab",
             "repo": "open-unlearning",
-            "stars": 599,
+            "stars": 601,
             "topics": [
               "benchmarks",
               "llm-evaluation-metrics",
@@ -3590,7 +3590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T18:28:19.493Z",
+    "last_updated": "2026-09-17T18:36:28.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
@@ -3599,7 +3599,7 @@
       "language": null,
       "license": "Apache-2.0",
       "last_commit": "2026-08-06T09:51:49Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "chrisliu298",
       "repo": "awesome-llm-unlearning",
       "stars": 625,

@@ -338,7 +338,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Date: 2026-05
   * Venue: -
 * [DualOptim+: Bridging Shared and Decoupled Optimizer States for Better Machine Unlearning in Large Language Models](https://arxiv.org/abs/2605.21539)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/CityU-MLO/DualOptimPlus) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-07-20
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/CityU-MLO/DualOptimPlus) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-07-20
   * Author(s): Xuyang Zhong, Qizhang Li, Yiwen Guo, Chen Liu
   * Date: 2026-05
   * Venue: -
@@ -1613,7 +1613,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Code: -
 
 * [Deep Ignorance: Filtering Pretraining Data Builds Tamper-Resistant Safeguards into Open-Weight LLMs](https://arxiv.org/abs/2508.06601)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/EleutherAI/deep-ignorance) ⭐ 27 | 🐛 2 | 🌐 Python | 📅 2026-01-07
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/EleutherAI/deep-ignorance) ⭐ 28 | 🐛 2 | 🌐 Python | 📅 2026-01-07
   * Author(s): Kyle O'Brien, Stephen Casper, Quentin Anthony, Tomek Korbak, Robert Kirk, Xander Davies, Ishan Mishra, Geoffrey Irving, Yarin Gal, Stella Biderman
   * Date: 2025-08
   * Venue: -
@@ -3164,7 +3164,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Venue: -
   * Code: -
 * [The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning](https://arxiv.org/abs/2403.03218)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/centerforaisafety/wmdp) ⭐ 182 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2025-05-29
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/centerforaisafety/wmdp) ⭐ 183 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2025-05-29
   * Author(s): Nathaniel Li, Alexander Pan, Anjali Gopal, Summer Yue, Daniel Berrios, Alice Gatti, Justin D. Li, Ann-Kathrin Dombrowski, Shashwat Goel, Long Phan, Gabriel Mukobi, Nathan Helm-Burger, Rassin Lababidi, Lennart Justen, Andrew B. Liu, Michael Chen, Isabelle Barrass, Oliver Zhang, Xiaoyuan Zhu, Rishub Tamirisa, Bhrugu Bharathi, Adam Khoja, Zhenqi Zhao, Ariel Herbert-Voss, Cort B. Breuer, Samuel Marks, Oam Patel, Andy Zou, Mantas Mazeika, Zifan Wang, Palash Oswal, Weiran Lin, Adam A. Hunt, Justin Tienken-Harder, Kevin Y. Shih, Kemper Talley, John Guan, Russell Kaplan, Ian Steneker, David Campbell, Brad Jokubaitis, Alex Levinson, Jean Wang, William Qian, Kallol Krishna Karmakar, Steven Basart, Stephen Fitz, Mindy Levine, Ponnurangam Kumaraguru, Uday Tupakula, Vijay Varadharajan, Ruoyu Wang, Yan Shoshitaishvili, Jimmy Ba, Kevin M. Esvelt, Alexandr Wang, Dan Hendrycks
   * Date: 2024-03
   * Venue: -
@@ -3497,8 +3497,8 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
 
 ## Frameworks
 
-* [Open Unlearning](https://github.com/locuslab/open-unlearning) ⭐ 599 | 🐛 22 | 🌐 Python | 📅 2026-03-18
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/locuslab/open-unlearning) ⭐ 599 | 🐛 22 | 🌐 Python | 📅 2026-03-18
+* [Open Unlearning](https://github.com/locuslab/open-unlearning) ⭐ 601 | 🐛 22 | 🌐 Python | 📅 2026-03-18
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/locuslab/open-unlearning) ⭐ 601 | 🐛 22 | 🌐 Python | 📅 2026-03-18
   * Author(s): Vineeth Dorna, Anmol Mekala, Wenlong Zhao, Andrew McCallum, J Zico Kolter, Pratyush Maini
   * Date: 2025-02
   * Venue: -
@@ -3553,4 +3553,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
