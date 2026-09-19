@@ -3524,7 +3524,7 @@
                 "id": 954931404,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T20:08:49Z",
+                "last_commit": "2026-09-19T17:22:54Z",
                 "open_issues": 9,
                 "owner": "LeonardoSanBenitez",
                 "repo": "vision-unlearning",
@@ -3541,7 +3541,7 @@
             "id": 954931404,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T20:08:49Z",
+            "last_commit": "2026-09-19T17:22:54Z",
             "open_issues": 9,
             "owner": "LeonardoSanBenitez",
             "repo": "vision-unlearning",
@@ -3590,7 +3590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:54:43.026Z",
+    "last_updated": "2026-09-19T17:28:27.297Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
@@ -3602,7 +3602,7 @@
       "open_issues": 1,
       "owner": "chrisliu298",
       "repo": "awesome-llm-unlearning",
-      "stars": 625,
+      "stars": 626,
       "topics": [
         "ai-safety",
         "alignment",
