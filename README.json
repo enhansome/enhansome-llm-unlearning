@@ -3461,7 +3461,7 @@
                 "open_issues": 22,
                 "owner": "locuslab",
                 "repo": "open-unlearning",
-                "stars": 603,
+                "stars": 605,
                 "topics": [
                   "benchmarks",
                   "llm-evaluation-metrics",
@@ -3490,7 +3490,7 @@
             "open_issues": 22,
             "owner": "locuslab",
             "repo": "open-unlearning",
-            "stars": 603,
+            "stars": 605,
             "topics": [
               "benchmarks",
               "llm-evaluation-metrics",
@@ -3524,7 +3524,7 @@
                 "id": 954931404,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T14:30:20Z",
+                "last_commit": "2026-09-21T02:13:32Z",
                 "open_issues": 9,
                 "owner": "LeonardoSanBenitez",
                 "repo": "vision-unlearning",
@@ -3541,7 +3541,7 @@
             "id": 954931404,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T14:30:20Z",
+            "last_commit": "2026-09-21T02:13:32Z",
             "open_issues": 9,
             "owner": "LeonardoSanBenitez",
             "repo": "vision-unlearning",
@@ -3590,7 +3590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T17:41:57.529Z",
+    "last_updated": "2026-09-21T19:45:04.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
@@ -3602,7 +3602,7 @@
       "open_issues": 1,
       "owner": "chrisliu298",
       "repo": "awesome-llm-unlearning",
-      "stars": 626,
+      "stars": 627,
       "topics": [
         "ai-safety",
         "alignment",
