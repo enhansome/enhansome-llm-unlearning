@@ -380,17 +380,17 @@
                     "archived": false,
                     "description": null,
                     "homepage": null,
-                    "id": 1179373230,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-07-22T06:36:38Z",
+                    "id": 1384708673,
+                    "language": null,
+                    "license": null,
+                    "last_commit": "2026-09-24T05:04:00Z",
                     "open_issues": 0,
                     "owner": "zhangyun04",
                     "repo": "ULBench",
-                    "stars": 1,
+                    "stars": 0,
                     "topics": []
                   },
-                  "first_seen": "2026-08-28T23:43:12.438Z"
+                  "first_seen": "2026-09-24T18:41:53.730Z"
                 }
               ]
             },
@@ -3331,7 +3331,7 @@
                     "open_issues": 10,
                     "owner": "mlfoundations",
                     "repo": "task_vectors",
-                    "stars": 554,
+                    "stars": 555,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3461,7 +3461,7 @@
                 "open_issues": 22,
                 "owner": "locuslab",
                 "repo": "open-unlearning",
-                "stars": 605,
+                "stars": 606,
                 "topics": [
                   "benchmarks",
                   "llm-evaluation-metrics",
@@ -3490,7 +3490,7 @@
             "open_issues": 22,
             "owner": "locuslab",
             "repo": "open-unlearning",
-            "stars": 605,
+            "stars": 606,
             "topics": [
               "benchmarks",
               "llm-evaluation-metrics",
@@ -3524,7 +3524,7 @@
                 "id": 954931404,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T16:29:36Z",
+                "last_commit": "2026-09-24T02:28:44Z",
                 "open_issues": 9,
                 "owner": "LeonardoSanBenitez",
                 "repo": "vision-unlearning",
@@ -3541,7 +3541,7 @@
             "id": 954931404,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T16:29:36Z",
+            "last_commit": "2026-09-24T02:28:44Z",
             "open_issues": 9,
             "owner": "LeonardoSanBenitez",
             "repo": "vision-unlearning",
@@ -3590,7 +3590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T18:40:08.476Z",
+    "last_updated": "2026-09-24T18:41:53.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",

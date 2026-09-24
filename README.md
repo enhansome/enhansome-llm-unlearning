@@ -618,7 +618,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Venue: -
   * Code: -
 * [Can VLMs Truly Forget? Benchmarking Training-Free Visual Concept Unlearning](https://arxiv.org/abs/2604.03114)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/zhangyun04/ULBench) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-07-22
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/zhangyun04/ULBench) ⭐ 0 | 🐛 0 | 📅 2026-09-24
   * Author(s): Zhangyun Tan, Zeliang Zhang, Susan Liang, Yolo Yunlong Tang, Lisha Chen, Chenliang Xu
   * Date: 2026-04
   * Venue: -
@@ -3360,7 +3360,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
 ### 2022
 
 * [Editing Models with Task Arithmetic](https://arxiv.org/abs/2212.04089)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/mlfoundations/task_vectors) ⭐ 554 | 🐛 10 | 🌐 Python | 📅 2024-01-11
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/mlfoundations/task_vectors) ⭐ 555 | 🐛 10 | 🌐 Python | 📅 2024-01-11
   * Author(s): Gabriel Ilharco, Marco Tulio Ribeiro, Mitchell Wortsman, Suchin Gururangan, Ludwig Schmidt, Hannaneh Hajishirzi, Ali Farhadi
   * Date: 2022-12
   * Venue: ICLR 2023
@@ -3497,13 +3497,13 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
 
 ## Frameworks
 
-* [Open Unlearning](https://github.com/locuslab/open-unlearning) ⭐ 605 | 🐛 22 | 🌐 Python | 📅 2026-03-18
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/locuslab/open-unlearning) ⭐ 605 | 🐛 22 | 🌐 Python | 📅 2026-03-18
+* [Open Unlearning](https://github.com/locuslab/open-unlearning) ⭐ 606 | 🐛 22 | 🌐 Python | 📅 2026-03-18
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/locuslab/open-unlearning) ⭐ 606 | 🐛 22 | 🌐 Python | 📅 2026-03-18
   * Author(s): Vineeth Dorna, Anmol Mekala, Wenlong Zhao, Andrew McCallum, J Zico Kolter, Pratyush Maini
   * Date: 2025-02
   * Venue: -
-* [Vision Unlearning](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 9 | 🌐 Python | 📅 2026-09-23
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 9 | 🌐 Python | 📅 2026-09-23
+* [Vision Unlearning](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 9 | 🌐 Python | 📅 2026-09-24
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 9 | 🌐 Python | 📅 2026-09-24
   * Author(s): Leonardo Benitez, Carolina Kelsch, Natnael Mola
   * Date: 2025-02
   * Venue: -
@@ -3553,4 +3553,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
