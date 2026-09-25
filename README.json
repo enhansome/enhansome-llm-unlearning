@@ -140,12 +140,12 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "[EMNLP 2026] Measuring the Depth of LLM Unlearning via Activation Patching, See Project Page:",
+                    "description": "[EMNLP 2026 Oral] Measuring the Depth of LLM Unlearning via Activation Patching, See Project Page:",
                     "homepage": "https://gnueaj.github.io/unlearning-depth-score/",
                     "id": 1207816493,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-08T16:01:12Z",
+                    "last_commit": "2026-09-25T18:29:34Z",
                     "open_issues": 1,
                     "owner": "gnueaj",
                     "repo": "unlearning-depth-score",
@@ -3240,7 +3240,7 @@
                     "open_issues": 5,
                     "owner": "EleutherAI",
                     "repo": "concept-erasure",
-                    "stars": 268,
+                    "stars": 269,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3524,7 +3524,7 @@
                 "id": 954931404,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T02:28:44Z",
+                "last_commit": "2026-09-25T02:38:49Z",
                 "open_issues": 9,
                 "owner": "LeonardoSanBenitez",
                 "repo": "vision-unlearning",
@@ -3541,7 +3541,7 @@
             "id": 954931404,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T02:28:44Z",
+            "last_commit": "2026-09-25T02:38:49Z",
             "open_issues": 9,
             "owner": "LeonardoSanBenitez",
             "repo": "vision-unlearning",
@@ -3590,7 +3590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T18:41:53.730Z",
+    "last_updated": "2026-09-25T18:55:48.944Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
@@ -3602,7 +3602,7 @@
       "open_issues": 1,
       "owner": "chrisliu298",
       "repo": "awesome-llm-unlearning",
-      "stars": 626,
+      "stars": 627,
       "topics": [
         "ai-safety",
         "alignment",
