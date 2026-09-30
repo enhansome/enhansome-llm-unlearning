@@ -338,7 +338,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Date: 2026-05
   * Venue: -
 * [DualOptim+: Bridging Shared and Decoupled Optimizer States for Better Machine Unlearning in Large Language Models](https://arxiv.org/abs/2605.21539)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/CityU-MLO/DualOptimPlus) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-07-20
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/CityU-MLO/DualOptimPlus) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-09-30
   * Author(s): Xuyang Zhong, Qizhang Li, Yiwen Guo, Chen Liu
   * Date: 2026-05
   * Venue: -
@@ -3244,7 +3244,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Venue: -
   * Code: -
 * [TOFU: A Task of Fictitious Unlearning for LLMs](https://arxiv.org/abs/2401.06121)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/locuslab/tofu) ⭐ 30 | 🐛 2 | 🌐 Python | 📅 2025-02-25
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/locuslab/tofu) ⭐ 29 | 🐛 2 | 🌐 Python | 📅 2025-02-25
   * Author(s): Pratyush Maini, Zhili Feng, Avi Schwarzschild, Zachary C. Lipton, J. Zico Kolter
   * Date: 2024-01
   * Venue: -
@@ -3502,8 +3502,8 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Author(s): Vineeth Dorna, Anmol Mekala, Wenlong Zhao, Andrew McCallum, J Zico Kolter, Pratyush Maini
   * Date: 2025-02
   * Venue: -
-* [Vision Unlearning](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 9 | 🌐 Python | 📅 2026-09-28
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 9 | 🌐 Python | 📅 2026-09-28
+* [Vision Unlearning](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 9 | 🌐 Python | 📅 2026-09-30
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 9 | 🌐 Python | 📅 2026-09-30
   * Author(s): Leonardo Benitez, Carolina Kelsch, Natnael Mola
   * Date: 2025-02
   * Venue: -
@@ -3553,4 +3553,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._

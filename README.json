@@ -179,7 +179,7 @@
                     "id": 1239569370,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-07-20T12:01:41Z",
+                    "last_commit": "2026-09-30T13:20:18Z",
                     "open_issues": 0,
                     "owner": "CityU-MLO",
                     "repo": "DualOptimPlus",
@@ -2981,7 +2981,7 @@
                     "open_issues": 2,
                     "owner": "locuslab",
                     "repo": "tofu",
-                    "stars": 30,
+                    "stars": 29,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3524,7 +3524,7 @@
                 "id": 954931404,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T08:54:14Z",
+                "last_commit": "2026-09-30T17:18:25Z",
                 "open_issues": 9,
                 "owner": "LeonardoSanBenitez",
                 "repo": "vision-unlearning",
@@ -3541,7 +3541,7 @@
             "id": 954931404,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T08:54:14Z",
+            "last_commit": "2026-09-30T17:18:25Z",
             "open_issues": 9,
             "owner": "LeonardoSanBenitez",
             "repo": "vision-unlearning",
@@ -3590,7 +3590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T19:40:27.897Z",
+    "last_updated": "2026-09-30T19:39:44.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
