@@ -603,7 +603,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Venue: -
   * Code: -
 * [Subspace Control: Turning Constrained Model Steering into Controllable Spectral Optimization](https://arxiv.org/abs/2604.04231)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/OPTML-Group/SIFT) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-04-05
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/OPTML-Group/SIFT) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-04-05
   * Author(s): Yancheng Huang, Changsheng Wang, Chongyu Fan, Yicheng Lang, Bingqi Shang, Yang Zhang, Mingyi Hong, Qing Qu, Alvaro Velasquez, Sijia Liu
   * Date: 2026-04
   * Venue: -
@@ -3282,17 +3282,17 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Date: 2023-10
   * Venue: EMNLP 2023
 * [Unlearn What You Want to Forget: Efficient Unlearning for LLMs](https://aclanthology.org/2023.emnlp-main.738/)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/SALT-NLP/Efficient_Unlearning/) ⭐ 38 | 🐛 5 | 🌐 Python | 📅 2023-10-18
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/SALT-NLP/Efficient_Unlearning/) ⭐ 37 | 🐛 5 | 🌐 Python | 📅 2023-10-18
   * Author(s): Jiaao Chen, Diyi Yang
   * Date: 2023-10
   * Venue: EMNLP 2023
 * [In-Context Unlearning: Language Models as Few Shot Unlearners](https://arxiv.org/abs/2310.07579)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/MartinPawel/In-Context-Unlearning) ⭐ 31 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-10-18
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/MartinPawel/In-Context-Unlearning) ⭐ 30 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-10-18
   * Author(s): Martin Pawelczyk, Seth Neel, Himabindu Lakkaraju
   * Date: 2023-10
   * Venue: ICML 2024
 * [Large Language Model Unlearning](https://arxiv.org/abs/2310.10683)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/kevinyaobytedance/llm_unlearn) ⭐ 189 | 🐛 10 | 🌐 Python | 📅 2023-10-20
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/kevinyaobytedance/llm_unlearn) ⭐ 188 | 🐛 10 | 🌐 Python | 📅 2023-10-20
   * Author(s): Yuanshun Yao, Xiaojun Xu, Yang Liu
   * Date: 2023-10
   * Venue: NeurIPS 2023 SoLaR Workshop
@@ -3307,7 +3307,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Venue: -
   * Code: -
 * [Can Sensitive Information Be Deleted From LLMs? Objectives for Defending Against Extraction Attacks](https://arxiv.org/abs/2309.17410)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/Vaidehi99/InfoDeletionAttacks) ⭐ 49 | 🐛 4 | 🌐 Python | 📅 2025-02-08
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/Vaidehi99/InfoDeletionAttacks) ⭐ 48 | 🐛 4 | 🌐 Python | 📅 2025-02-08
   * Author(s): Vaidehi Patil, Peter Hase, Mohit Bansal
   * Date: 2023-09
   * Venue: -
@@ -3322,7 +3322,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Date: 2023-08
   * Venue: AAAI 2024
 * [Unlearning Bias in Language Models by Partitioning Gradients](https://aclanthology.org/2023.findings-acl.375/)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/CharlesYu2000/PCGU-UnlearningBias) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2023-11-07
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/CharlesYu2000/PCGU-UnlearningBias) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2023-11-07
   * Author(s): Charles Yu, Sullam Jeoung, Anish Kasi, Pengfei Yu, Heng Ji
   * Date: 2023-07
   * Venue: ACL (Findings) 2023
@@ -3337,12 +3337,12 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Venue: -
   * Code: -
 * [LEACE: Perfect linear concept erasure in closed form](https://arxiv.org/abs/2306.03819)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/EleutherAI/concept-erasure) ⭐ 269 | 🐛 5 | 🌐 Python | 📅 2025-01-27
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/EleutherAI/concept-erasure) ⭐ 268 | 🐛 5 | 🌐 Python | 📅 2025-01-27
   * Author(s): Nora Belrose, David Schneider-Joseph, Shauli Ravfogel, Ryan Cotterell, Edward Raff, Stella Biderman
   * Date: 2023-06
   * Venue: NeurIPS 2023
 * [Composing Parameter-Efficient Modules with Arithmetic Operations](https://arxiv.org/abs/2306.14870)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/hkust-nlp/PEM_composition) ⭐ 61 | 🐛 5 | 🌐 Python | 📅 2023-11-26
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/hkust-nlp/PEM_composition) ⭐ 62 | 🐛 5 | 🌐 Python | 📅 2023-11-26
   * Author(s): Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He
   * Date: 2023-06
   * Venue: NeurIPS 2023
@@ -3375,7 +3375,7 @@ As of the last commit, there are **616** papers, **18** surveys and position pap
   * Venue: -
   * Code: -
 * [Knowledge Unlearning for Mitigating Privacy Risks in Language Models](https://arxiv.org/abs/2210.01504)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/joeljang/knowledge-unlearning) ⭐ 88 | 🐛 4 | 🌐 Python | 📅 2024-09-12
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/joeljang/knowledge-unlearning) ⭐ 87 | 🐛 4 | 🌐 Python | 📅 2024-09-12
   * Author(s): Joel Jang, Dongkeun Yoon, Sohee Yang, Sungmin Cha, Moontae Lee, Lajanugen Logeswaran, Minjoon Seo
   * Date: 2022-10
   * Venue: -
@@ -3553,4 +3553,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._

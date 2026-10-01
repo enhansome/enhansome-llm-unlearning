@@ -140,7 +140,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "[EMNLP 2026 Oral] Measuring the Depth of LLM Unlearning via Activation Patching, See Project Page:",
+                    "description": "[EMNLP 2026 Oral] Measuring the Depth of LLM Unlearning via Activation Patching",
                     "homepage": "https://gnueaj.github.io/unlearning-depth-score/",
                     "id": 1207816493,
                     "language": "Python",
@@ -351,7 +351,7 @@
                     "open_issues": 0,
                     "owner": "OPTML-Group",
                     "repo": "SIFT",
-                    "stars": 6,
+                    "stars": 7,
                     "topics": [
                       "hallucination",
                       "machine-unlearning",
@@ -3044,7 +3044,7 @@
                     "open_issues": 5,
                     "owner": "SALT-NLP",
                     "repo": "Efficient_Unlearning",
-                    "stars": 38,
+                    "stars": 37,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3072,7 +3072,7 @@
                     "open_issues": 1,
                     "owner": "MartinPawelczyk",
                     "repo": "In-Context-Unlearning",
-                    "stars": 31,
+                    "stars": 30,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3100,7 +3100,7 @@
                     "open_issues": 10,
                     "owner": "kevinyaobytedance",
                     "repo": "llm_unlearn",
-                    "stars": 189,
+                    "stars": 188,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3128,7 +3128,7 @@
                     "open_issues": 4,
                     "owner": "Vaidehi99",
                     "repo": "InfoDeletionAttacks",
-                    "stars": 49,
+                    "stars": 48,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3212,7 +3212,7 @@
                     "open_issues": 0,
                     "owner": "CharlesYu2000",
                     "repo": "PCGU-UnlearningBias",
-                    "stars": 17,
+                    "stars": 16,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3240,7 +3240,7 @@
                     "open_issues": 5,
                     "owner": "EleutherAI",
                     "repo": "concept-erasure",
-                    "stars": 269,
+                    "stars": 268,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3268,7 +3268,7 @@
                     "open_issues": 5,
                     "owner": "hkust-nlp",
                     "repo": "PEM_composition",
-                    "stars": 61,
+                    "stars": 62,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3359,7 +3359,7 @@
                     "open_issues": 4,
                     "owner": "joeljang",
                     "repo": "knowledge-unlearning",
-                    "stars": 88,
+                    "stars": 87,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3590,7 +3590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T19:39:44.309Z",
+    "last_updated": "2026-10-01T19:52:54.192Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
