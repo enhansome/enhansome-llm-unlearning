@@ -13,7 +13,7 @@
                 {
                   "node_type": "item",
                   "title": "smsnobin77/Awesome-Multimodal-Unlearning",
-                  "description": null,
+                  "description": "smsnobin77/Awesome-Multimodal-Unlearning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -52,7 +52,7 @@
                 {
                   "node_type": "item",
                   "title": "DGL-codes/CBD",
-                  "description": null,
+                  "description": "DGL-codes/CBD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -80,7 +80,7 @@
                 {
                   "node_type": "item",
                   "title": "lihe-maxsize/Lifelong_Unlearning_main",
-                  "description": null,
+                  "description": "lihe-maxsize/Lifelong_Unlearning_main",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -108,7 +108,7 @@
                 {
                   "node_type": "item",
                   "title": "XMUDeepLIT/VLM-UnL-Attack",
-                  "description": null,
+                  "description": "XMUDeepLIT/VLM-UnL-Attack",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -136,7 +136,7 @@
                 {
                   "node_type": "item",
                   "title": "gnueaj/unlearning-depth-score",
-                  "description": null,
+                  "description": "gnueaj/unlearning-depth-score",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -170,7 +170,7 @@
                 {
                   "node_type": "item",
                   "title": "CityU-MLO/DualOptimPlus",
-                  "description": null,
+                  "description": "CityU-MLO/DualOptimPlus",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -198,7 +198,7 @@
                 {
                   "node_type": "item",
                   "title": "XMUDeepLIT/ZeroUnlearn",
-                  "description": null,
+                  "description": "XMUDeepLIT/ZeroUnlearn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -226,7 +226,7 @@
                 {
                   "node_type": "item",
                   "title": "leegeoru/MDU",
-                  "description": null,
+                  "description": "leegeoru/MDU",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -254,7 +254,7 @@
                 {
                   "node_type": "item",
                   "title": "JagadeeshAI/backFlush",
-                  "description": null,
+                  "description": "JagadeeshAI/backFlush",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -282,7 +282,7 @@
                 {
                   "node_type": "item",
                   "title": "XMUDeepLIT/HFRU",
-                  "description": null,
+                  "description": "XMUDeepLIT/HFRU",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -310,7 +310,7 @@
                 {
                   "node_type": "item",
                   "title": "abdullahak07/UnifiedUnl",
-                  "description": null,
+                  "description": "abdullahak07/UnifiedUnl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -338,7 +338,7 @@
                 {
                   "node_type": "item",
                   "title": "OPTML-Group/SIFT",
-                  "description": null,
+                  "description": "OPTML-Group/SIFT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -374,7 +374,7 @@
                 {
                   "node_type": "item",
                   "title": "zhangyun04/ULBench",
-                  "description": null,
+                  "description": "zhangyun04/ULBench",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -402,7 +402,7 @@
                 {
                   "node_type": "item",
                   "title": "lenijwp/LUCID",
-                  "description": null,
+                  "description": "lenijwp/LUCID",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -430,7 +430,7 @@
                 {
                   "node_type": "item",
                   "title": "patryk-rybak/REBEL",
-                  "description": null,
+                  "description": "patryk-rybak/REBEL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -458,7 +458,7 @@
                 {
                   "node_type": "item",
                   "title": "TiezMind/AGT-unlearning",
-                  "description": null,
+                  "description": "TiezMind/AGT-unlearning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -486,7 +486,7 @@
                 {
                   "node_type": "item",
                   "title": "IST-DASLab/behemoth",
-                  "description": null,
+                  "description": "IST-DASLab/behemoth",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -514,7 +514,7 @@
                 {
                   "node_type": "item",
                   "title": "guoyang9/refusal-unlearning",
-                  "description": null,
+                  "description": "guoyang9/refusal-unlearning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -542,7 +542,7 @@
                 {
                   "node_type": "item",
                   "title": "JinLi-i/FUDLR",
-                  "description": null,
+                  "description": "JinLi-i/FUDLR",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -570,7 +570,7 @@
                 {
                   "node_type": "item",
                   "title": "Xuzhenhua55/ForgetMark",
-                  "description": null,
+                  "description": "Xuzhenhua55/ForgetMark",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -598,7 +598,7 @@
                 {
                   "node_type": "item",
                   "title": "ChnIRuI/PoRT_LLM_Unlearning",
-                  "description": null,
+                  "description": "ChnIRuI/PoRT_LLM_Unlearning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -626,7 +626,7 @@
                 {
                   "node_type": "item",
                   "title": "gxx27/time_unlearn",
-                  "description": null,
+                  "description": "gxx27/time_unlearn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -661,7 +661,7 @@
                 {
                   "node_type": "item",
                   "title": "QDRhhhh/UMU-bench",
-                  "description": null,
+                  "description": "QDRhhhh/UMU-bench",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -689,7 +689,7 @@
                 {
                   "node_type": "item",
                   "title": "AdvitDeepak/fuma",
-                  "description": null,
+                  "description": "AdvitDeepak/fuma",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -717,7 +717,7 @@
                 {
                   "node_type": "item",
                   "title": "minkyoo9/Unlearning-safety-alignment",
-                  "description": null,
+                  "description": "minkyoo9/Unlearning-safety-alignment",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -745,7 +745,7 @@
                 {
                   "node_type": "item",
                   "title": "Lemutisme/Geometric-Unlearning",
-                  "description": null,
+                  "description": "Lemutisme/Geometric-Unlearning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -773,7 +773,7 @@
                 {
                   "node_type": "item",
                   "title": "EleutherAI/deep-ignorance",
-                  "description": null,
+                  "description": "EleutherAI/deep-ignorance",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -801,7 +801,7 @@
                 {
                   "node_type": "item",
                   "title": "technion-cs-nlp/parametric-faithfulness",
-                  "description": null,
+                  "description": "technion-cs-nlp/parametric-faithfulness",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -829,7 +829,7 @@
                 {
                   "node_type": "item",
                   "title": "OPTML-Group/Unlearn-R2MU",
-                  "description": null,
+                  "description": "OPTML-Group/Unlearn-R2MU",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -857,7 +857,7 @@
                 {
                   "node_type": "item",
                   "title": "1yuwen/Knowledge-Tracing-MU",
-                  "description": null,
+                  "description": "1yuwen/Knowledge-Tracing-MU",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -885,7 +885,7 @@
                 {
                   "node_type": "item",
                   "title": "Ymm-cll/UniErase",
-                  "description": null,
+                  "description": "Ymm-cll/UniErase",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -913,7 +913,7 @@
                 {
                   "node_type": "item",
                   "title": "Puning97/SatImp-for-LLM-Unlearning",
-                  "description": null,
+                  "description": "Puning97/SatImp-for-LLM-Unlearning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -941,7 +941,7 @@
                 {
                   "node_type": "item",
                   "title": "12tqian/layered-unlearning",
-                  "description": null,
+                  "description": "12tqian/layered-unlearning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -969,7 +969,7 @@
                 {
                   "node_type": "item",
                   "title": "realXinyangLu/WaterDrum",
-                  "description": null,
+                  "description": "realXinyangLu/WaterDrum",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -997,7 +997,7 @@
                 {
                   "node_type": "item",
                   "title": "potsawee/unlearning-dfmcq",
-                  "description": null,
+                  "description": "potsawee/unlearning-dfmcq",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1025,7 +1025,7 @@
                 {
                   "node_type": "item",
                   "title": "Vaidehi99/UnLOK-VQA",
-                  "description": null,
+                  "description": "Vaidehi99/UnLOK-VQA",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1053,7 +1053,7 @@
                 {
                   "node_type": "item",
                   "title": "zikuicai/aegisllm",
-                  "description": null,
+                  "description": "zikuicai/aegisllm",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1081,7 +1081,7 @@
                 {
                   "node_type": "item",
                   "title": "chentong0/ParaPO",
-                  "description": null,
+                  "description": "chentong0/ParaPO",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1109,7 +1109,7 @@
                 {
                   "node_type": "item",
                   "title": "OPTML-Group/MU-Coreset",
-                  "description": null,
+                  "description": "OPTML-Group/MU-Coreset",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1137,7 +1137,7 @@
                 {
                   "node_type": "item",
                   "title": "aashiqmuhamed/DynamicSAEGuardrails",
-                  "description": null,
+                  "description": "aashiqmuhamed/DynamicSAEGuardrails",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1165,7 +1165,7 @@
                 {
                   "node_type": "item",
                   "title": "McGill-NLP/unequal-unlearning",
-                  "description": null,
+                  "description": "McGill-NLP/unequal-unlearning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1193,7 +1193,7 @@
                 {
                   "node_type": "item",
                   "title": "Georgetown-IR-Lab/GNM",
-                  "description": null,
+                  "description": "Georgetown-IR-Lab/GNM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1221,7 +1221,7 @@
                 {
                   "node_type": "item",
                   "title": "wicai24/DOOR-Alignment",
-                  "description": null,
+                  "description": "wicai24/DOOR-Alignment",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1249,7 +1249,7 @@
                 {
                   "node_type": "item",
                   "title": "iraklis07/llm-unlearning",
-                  "description": null,
+                  "description": "iraklis07/llm-unlearning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1277,7 +1277,7 @@
                 {
                   "node_type": "item",
                   "title": "renjie3/GRUN",
-                  "description": null,
+                  "description": "renjie3/GRUN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1305,7 +1305,7 @@
                 {
                   "node_type": "item",
                   "title": "franciscoliu/MANU",
-                  "description": null,
+                  "description": "franciscoliu/MANU",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1333,7 +1333,7 @@
                 {
                   "node_type": "item",
                   "title": "ekgus9/COME",
-                  "description": null,
+                  "description": "ekgus9/COME",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1361,7 +1361,7 @@
                 {
                   "node_type": "item",
                   "title": "Vaidehi99/UPCORE",
-                  "description": null,
+                  "description": "Vaidehi99/UPCORE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1389,7 +1389,7 @@
                 {
                   "node_type": "item",
                   "title": "lyicheng619/UNCD",
-                  "description": null,
+                  "description": "lyicheng619/UNCD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1417,7 +1417,7 @@
                 {
                   "node_type": "item",
                   "title": "zjunlp/unlearn",
-                  "description": null,
+                  "description": "zjunlp/unlearn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1456,7 +1456,7 @@
                 {
                   "node_type": "item",
                   "title": "OPTML-Group/Unlearn-Smooth",
-                  "description": null,
+                  "description": "OPTML-Group/Unlearn-Smooth",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1484,7 +1484,7 @@
                 {
                   "node_type": "item",
                   "title": "CLU-UML/MU-Bench",
-                  "description": null,
+                  "description": "CLU-UML/MU-Bench",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1512,7 +1512,7 @@
                 {
                   "node_type": "item",
                   "title": "yoavgur/PISCES",
-                  "description": null,
+                  "description": "yoavgur/PISCES",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1540,7 +1540,7 @@
                 {
                   "node_type": "item",
                   "title": "pariidanDKE/Toward-Practical-PII-Unlearning",
-                  "description": null,
+                  "description": "pariidanDKE/Toward-Practical-PII-Unlearning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1568,7 +1568,7 @@
                 {
                   "node_type": "item",
                   "title": "mmichaelzhang/LLM-Eraser",
-                  "description": null,
+                  "description": "mmichaelzhang/LLM-Eraser",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1603,7 +1603,7 @@
                 {
                   "node_type": "item",
                   "title": "guangyaodou/SSU_Unlearn",
-                  "description": null,
+                  "description": "guangyaodou/SSU_Unlearn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1631,7 +1631,7 @@
                 {
                   "node_type": "item",
                   "title": "JaiDoshi/Knowledge-Erasure",
-                  "description": null,
+                  "description": "JaiDoshi/Knowledge-Erasure",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1659,7 +1659,7 @@
                 {
                   "node_type": "item",
                   "title": "SaFo-Lab/FIUBench",
-                  "description": null,
+                  "description": "SaFo-Lab/FIUBench",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1687,7 +1687,7 @@
                 {
                   "node_type": "item",
                   "title": "k1rezaei/restor",
-                  "description": null,
+                  "description": "k1rezaei/restor",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1715,7 +1715,7 @@
                 {
                   "node_type": "item",
                   "title": "franciscoliu/MLLMU-Bench",
-                  "description": null,
+                  "description": "franciscoliu/MLLMU-Bench",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1743,7 +1743,7 @@
                 {
                   "node_type": "item",
                   "title": "OPTML-Group/WAGLE",
-                  "description": null,
+                  "description": "OPTML-Group/WAGLE",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1771,7 +1771,7 @@
                 {
                   "node_type": "item",
                   "title": "zzwjames/FailureLLMUnlearning",
-                  "description": null,
+                  "description": "zzwjames/FailureLLMUnlearning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1799,7 +1799,7 @@
                 {
                   "node_type": "item",
                   "title": "wrh14/deep_unlearning",
-                  "description": null,
+                  "description": "wrh14/deep_unlearning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1827,7 +1827,7 @@
                 {
                   "node_type": "item",
                   "title": "shuaizhao95/w2sdefense",
-                  "description": null,
+                  "description": "shuaizhao95/w2sdefense",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1855,7 +1855,7 @@
                 {
                   "node_type": "item",
                   "title": "brightjade/Munch",
-                  "description": null,
+                  "description": "brightjade/Munch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1883,7 +1883,7 @@
                 {
                   "node_type": "item",
                   "title": "aghyad-deeb/unlearning_evaluation",
-                  "description": null,
+                  "description": "aghyad-deeb/unlearning_evaluation",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1911,7 +1911,7 @@
                 {
                   "node_type": "item",
                   "title": "sail-sg/closer-look-LLM-unlearning",
-                  "description": null,
+                  "description": "sail-sg/closer-look-LLM-unlearning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1939,7 +1939,7 @@
                 {
                   "node_type": "item",
                   "title": "OPTML-Group/Unlearn-Simple",
-                  "description": null,
+                  "description": "OPTML-Group/Unlearn-Simple",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1975,7 +1975,7 @@
                 {
                   "node_type": "item",
                   "title": "yihuaihong/Dissecting-FT-Unlearning",
-                  "description": null,
+                  "description": "yihuaihong/Dissecting-FT-Unlearning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2003,7 +2003,7 @@
                 {
                   "node_type": "item",
                   "title": "naver-ai/negmerge",
-                  "description": null,
+                  "description": "naver-ai/negmerge",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2031,7 +2031,7 @@
                 {
                   "node_type": "item",
                   "title": "ethz-spylab/unlearning-vs-safety",
-                  "description": null,
+                  "description": "ethz-spylab/unlearning-vs-safety",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2059,7 +2059,7 @@
                 {
                   "node_type": "item",
                   "title": "molereddy/Alternate-Preference-Optimization",
-                  "description": null,
+                  "description": "molereddy/Alternate-Preference-Optimization",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2090,7 +2090,7 @@
                 {
                   "node_type": "item",
                   "title": "Carol-gutianle/MEOW",
-                  "description": null,
+                  "description": "Carol-gutianle/MEOW",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2118,7 +2118,7 @@
                 {
                   "node_type": "item",
                   "title": "rishub-tamirisa/tamper-resistance",
-                  "description": null,
+                  "description": "rishub-tamirisa/tamper-resistance",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2152,7 +2152,7 @@
                 {
                   "node_type": "item",
                   "title": "himalalps/ICU",
-                  "description": null,
+                  "description": "himalalps/ICU",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2180,7 +2180,7 @@
                 {
                   "node_type": "item",
                   "title": "UCSB-NLP-Chang/causal_unlearn",
-                  "description": null,
+                  "description": "UCSB-NLP-Chang/causal_unlearn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2208,7 +2208,7 @@
                 {
                   "node_type": "item",
                   "title": "aengusl/latent-adversarial-training",
-                  "description": null,
+                  "description": "aengusl/latent-adversarial-training",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2236,7 +2236,7 @@
                 {
                   "node_type": "item",
                   "title": "zhliu0106/learning-to-refuse",
-                  "description": null,
+                  "description": "zhliu0106/learning-to-refuse",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2264,7 +2264,7 @@
                 {
                   "node_type": "item",
                   "title": "hartvigsen-group/composable-interventions",
-                  "description": null,
+                  "description": "hartvigsen-group/composable-interventions",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2292,7 +2292,7 @@
                 {
                   "node_type": "item",
                   "title": "thu-coai/SafeUnlearning",
-                  "description": null,
+                  "description": "thu-coai/SafeUnlearning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2320,7 +2320,7 @@
                 {
                   "node_type": "item",
                   "title": "zjunlp/KnowUnDo",
-                  "description": null,
+                  "description": "zjunlp/KnowUnDo",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2361,7 +2361,7 @@
                 {
                   "node_type": "item",
                   "title": "bill-shen-BS/PISTOL",
-                  "description": null,
+                  "description": "bill-shen-BS/PISTOL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2389,7 +2389,7 @@
                 {
                   "node_type": "item",
                   "title": "TaiMingLu/learn-unlearn",
-                  "description": null,
+                  "description": "TaiMingLu/learn-unlearn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2417,7 +2417,7 @@
                 {
                   "node_type": "item",
                   "title": "brightjade/LingTea",
-                  "description": null,
+                  "description": "brightjade/LingTea",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2450,7 +2450,7 @@
                 {
                   "node_type": "item",
                   "title": "brightjade/Opt-Out",
-                  "description": null,
+                  "description": "brightjade/Opt-Out",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2485,7 +2485,7 @@
                 {
                   "node_type": "item",
                   "title": "karuna-bhaila/llm_unlearning",
-                  "description": null,
+                  "description": "karuna-bhaila/llm_unlearning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2513,7 +2513,7 @@
                 {
                   "node_type": "item",
                   "title": "yihuaihong/ConceptVectors",
-                  "description": null,
+                  "description": "yihuaihong/ConceptVectors",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2546,7 +2546,7 @@
                 {
                   "node_type": "item",
                   "title": "jinzhuoran/RWKU",
-                  "description": null,
+                  "description": "jinzhuoran/RWKU",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2585,7 +2585,7 @@
                 {
                   "node_type": "item",
                   "title": "tomerashuach/REVS",
-                  "description": null,
+                  "description": "tomerashuach/REVS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2613,7 +2613,7 @@
                 {
                   "node_type": "item",
                   "title": "UCSB-NLP-Chang/ULD",
-                  "description": null,
+                  "description": "UCSB-NLP-Chang/ULD",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2647,7 +2647,7 @@
                 {
                   "node_type": "item",
                   "title": "chrisliu298/llm-unlearn-eco",
-                  "description": null,
+                  "description": "chrisliu298/llm-unlearn-eco",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2681,7 +2681,7 @@
                 {
                   "node_type": "item",
                   "title": "wangyu-ustc/LargeScaleWashing",
-                  "description": null,
+                  "description": "wangyu-ustc/LargeScaleWashing",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2709,7 +2709,7 @@
                 {
                   "node_type": "item",
                   "title": "OPTML-Group/SOUL",
-                  "description": null,
+                  "description": "OPTML-Group/SOUL",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2737,7 +2737,7 @@
                 {
                   "node_type": "item",
                   "title": "luka-group/Delta-Unlearning",
-                  "description": null,
+                  "description": "luka-group/Delta-Unlearning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2765,7 +2765,7 @@
                 {
                   "node_type": "item",
                   "title": "licong-lin/negative-preference-optimization",
-                  "description": null,
+                  "description": "licong-lin/negative-preference-optimization",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2793,7 +2793,7 @@
                 {
                   "node_type": "item",
                   "title": "centerforaisafety/wmdp",
-                  "description": null,
+                  "description": "centerforaisafety/wmdp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2821,7 +2821,7 @@
                 {
                   "node_type": "item",
                   "title": "justarter/E2URec",
-                  "description": null,
+                  "description": "justarter/E2URec",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2849,7 +2849,7 @@
                 {
                   "node_type": "item",
                   "title": "dong-river/LLM_unlearning",
-                  "description": null,
+                  "description": "dong-river/LLM_unlearning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2877,7 +2877,7 @@
                 {
                   "node_type": "item",
                   "title": "franciscoliu/SKU",
-                  "description": null,
+                  "description": "franciscoliu/SKU",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2905,7 +2905,7 @@
                 {
                   "node_type": "item",
                   "title": "yaojin17/Unlearning_LLM",
-                  "description": null,
+                  "description": "yaojin17/Unlearning_LLM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2940,7 +2940,7 @@
                 {
                   "node_type": "item",
                   "title": "starreeze/efuf",
-                  "description": null,
+                  "description": "starreeze/efuf",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2968,7 +2968,7 @@
                 {
                   "node_type": "item",
                   "title": "locuslab/tofu",
-                  "description": null,
+                  "description": "locuslab/tofu",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3003,7 +3003,7 @@
                 {
                   "node_type": "item",
                   "title": "flamewei123/DEPN",
-                  "description": null,
+                  "description": "flamewei123/DEPN",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3031,7 +3031,7 @@
                 {
                   "node_type": "item",
                   "title": "SALT-NLP/Efficient_Unlearning",
-                  "description": null,
+                  "description": "SALT-NLP/Efficient_Unlearning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3059,7 +3059,7 @@
                 {
                   "node_type": "item",
                   "title": "MartinPawelczyk/In-Context-Unlearning",
-                  "description": null,
+                  "description": "MartinPawelczyk/In-Context-Unlearning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3087,7 +3087,7 @@
                 {
                   "node_type": "item",
                   "title": "kevinyaobytedance/llm_unlearn",
-                  "description": null,
+                  "description": "kevinyaobytedance/llm_unlearn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3115,7 +3115,7 @@
                 {
                   "node_type": "item",
                   "title": "Vaidehi99/InfoDeletionAttacks",
-                  "description": null,
+                  "description": "Vaidehi99/InfoDeletionAttacks",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3143,7 +3143,7 @@
                 {
                   "node_type": "item",
                   "title": "yoichi1484/knowledge-sanitization",
-                  "description": null,
+                  "description": "yoichi1484/knowledge-sanitization",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3171,7 +3171,7 @@
                 {
                   "node_type": "item",
                   "title": "HITsz-TMG/Ext-Sub",
-                  "description": null,
+                  "description": "HITsz-TMG/Ext-Sub",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3199,7 +3199,7 @@
                 {
                   "node_type": "item",
                   "title": "CharlesYu2000/PCGU-UnlearningBias",
-                  "description": null,
+                  "description": "CharlesYu2000/PCGU-UnlearningBias",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3227,7 +3227,7 @@
                 {
                   "node_type": "item",
                   "title": "EleutherAI/concept-erasure",
-                  "description": null,
+                  "description": "EleutherAI/concept-erasure",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3255,7 +3255,7 @@
                 {
                   "node_type": "item",
                   "title": "hkust-nlp/PEM_composition",
-                  "description": null,
+                  "description": "hkust-nlp/PEM_composition",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3283,7 +3283,7 @@
                 {
                   "node_type": "item",
                   "title": "Lingzhi-WANG/KGAUnlearn",
-                  "description": null,
+                  "description": "Lingzhi-WANG/KGAUnlearn",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3318,7 +3318,7 @@
                 {
                   "node_type": "item",
                   "title": "mlfoundations/task_vectors",
-                  "description": null,
+                  "description": "mlfoundations/task_vectors",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3346,7 +3346,7 @@
                 {
                   "node_type": "item",
                   "title": "joeljang/knowledge-unlearning",
-                  "description": null,
+                  "description": "joeljang/knowledge-unlearning",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3374,7 +3374,7 @@
                 {
                   "node_type": "item",
                   "title": "GXimingLu/Quark",
-                  "description": null,
+                  "description": "GXimingLu/Quark",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3409,7 +3409,7 @@
                 {
                   "node_type": "item",
                   "title": "alisawuffles/DExperts",
-                  "description": null,
+                  "description": "alisawuffles/DExperts",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -3443,12 +3443,12 @@
         {
           "node_type": "item",
           "title": "Open Unlearning",
-          "description": null,
+          "description": "locuslab/open-unlearning",
           "children": [
             {
               "node_type": "item",
               "title": "locuslab/open-unlearning",
-              "description": null,
+              "description": "locuslab/open-unlearning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3510,12 +3510,12 @@
         {
           "node_type": "item",
           "title": "Vision Unlearning",
-          "description": null,
+          "description": "LeonardoSanBenitez/vision-unlearning",
           "children": [
             {
               "node_type": "item",
               "title": "LeonardoSanBenitez/vision-unlearning",
-              "description": null,
+              "description": "LeonardoSanBenitez/vision-unlearning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3558,7 +3558,7 @@
             {
               "node_type": "item",
               "title": "gnueaj/Machine-Unlearning-Comparator",
-              "description": null,
+              "description": "gnueaj/Machine-Unlearning-Comparator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3590,7 +3590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:33:16.613Z",
+    "last_updated": "2026-10-03T04:57:02.883Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
@@ -3602,7 +3602,7 @@
       "open_issues": 1,
       "owner": "chrisliu298",
       "repo": "awesome-llm-unlearning",
-      "stars": 627,
+      "stars": 628,
       "topics": [
         "ai-safety",
         "alignment",
