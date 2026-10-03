@@ -140,7 +140,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "[EMNLP 2026 Oral] Measuring the Depth of LLM Unlearning via Activation Patching",
+                    "description": "[EMNLP 2026 (Oral)] Measuring the Depth of LLM Unlearning via Activation Patching",
                     "homepage": "https://gnueaj.github.io/unlearning-depth-score/",
                     "id": 1207816493,
                     "language": "Python",
@@ -3461,7 +3461,7 @@
                 "open_issues": 21,
                 "owner": "locuslab",
                 "repo": "open-unlearning",
-                "stars": 607,
+                "stars": 608,
                 "topics": [
                   "benchmarks",
                   "llm-evaluation-metrics",
@@ -3490,7 +3490,7 @@
             "open_issues": 21,
             "owner": "locuslab",
             "repo": "open-unlearning",
-            "stars": 607,
+            "stars": 608,
             "topics": [
               "benchmarks",
               "llm-evaluation-metrics",
@@ -3524,7 +3524,7 @@
                 "id": 954931404,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T05:12:14Z",
+                "last_commit": "2026-10-03T11:21:31Z",
                 "open_issues": 9,
                 "owner": "LeonardoSanBenitez",
                 "repo": "vision-unlearning",
@@ -3541,7 +3541,7 @@
             "id": 954931404,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T05:12:14Z",
+            "last_commit": "2026-10-03T11:21:31Z",
             "open_issues": 9,
             "owner": "LeonardoSanBenitez",
             "repo": "vision-unlearning",
@@ -3590,7 +3590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:57:02.883Z",
+    "last_updated": "2026-10-03T18:18:25.707Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
