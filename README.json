@@ -351,7 +351,7 @@
                     "open_issues": 0,
                     "owner": "OPTML-Group",
                     "repo": "SIFT",
-                    "stars": 7,
+                    "stars": 8,
                     "topics": [
                       "hallucination",
                       "machine-unlearning",
@@ -443,7 +443,7 @@
                     "open_issues": 0,
                     "owner": "patryk-rybak",
                     "repo": "REBEL",
-                    "stars": 2,
+                    "stars": 3,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -2803,7 +2803,7 @@
                     "language": "Jupyter Notebook",
                     "license": "MIT",
                     "last_commit": "2025-05-29T21:02:53Z",
-                    "open_issues": 15,
+                    "open_issues": 14,
                     "owner": "centerforaisafety",
                     "repo": "wmdp",
                     "stars": 184,
@@ -3524,7 +3524,7 @@
                 "id": 954931404,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T11:21:31Z",
+                "last_commit": "2026-10-04T14:41:33Z",
                 "open_issues": 9,
                 "owner": "LeonardoSanBenitez",
                 "repo": "vision-unlearning",
@@ -3541,7 +3541,7 @@
             "id": 954931404,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T11:21:31Z",
+            "last_commit": "2026-10-04T14:41:33Z",
             "open_issues": 9,
             "owner": "LeonardoSanBenitez",
             "repo": "vision-unlearning",
@@ -3590,7 +3590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T18:18:25.707Z",
+    "last_updated": "2026-10-04T18:24:53.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
@@ -3602,7 +3602,7 @@
       "open_issues": 1,
       "owner": "chrisliu298",
       "repo": "awesome-llm-unlearning",
-      "stars": 628,
+      "stars": 627,
       "topics": [
         "ai-safety",
         "alignment",
