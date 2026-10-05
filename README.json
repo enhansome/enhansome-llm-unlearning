@@ -2806,7 +2806,7 @@
                     "open_issues": 14,
                     "owner": "centerforaisafety",
                     "repo": "wmdp",
-                    "stars": 184,
+                    "stars": 186,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3458,10 +3458,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-29T09:18:25Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "locuslab",
                 "repo": "open-unlearning",
-                "stars": 608,
+                "stars": 609,
                 "topics": [
                   "benchmarks",
                   "llm-evaluation-metrics",
@@ -3487,10 +3487,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-29T09:18:25Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "locuslab",
             "repo": "open-unlearning",
-            "stars": 608,
+            "stars": 609,
             "topics": [
               "benchmarks",
               "llm-evaluation-metrics",
@@ -3590,7 +3590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:24:53.918Z",
+    "last_updated": "2026-10-05T21:40:58.103Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
