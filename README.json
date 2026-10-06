@@ -7,6 +7,146 @@
           "children": [
             {
               "node_type": "group",
+              "title": "Do LLMs Really Forget? Hidden-State Leakage in Model Unlearning and How to Fix it",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "OptimAI-Lab/HiddenStateUnlearning",
+                  "description": "OptimAI-Lab/HiddenStateUnlearning",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Do LLMs Really Forget? Hidden-State Leakage in Model Unlearning and How to Fix it",
+                    "homepage": null,
+                    "id": 1394014399,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-09-29T16:01:43Z",
+                    "open_issues": 0,
+                    "owner": "OptimAI-Lab",
+                    "repo": "HiddenStateUnlearning",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:51:51.249Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "GUARD: Natural Forgetting in Large Reasoning Models via Guided Answer-Reasoning Distillation",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "zeyu-Yan/GUARD",
+                  "description": "zeyu-Yan/GUARD",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1249038030,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-05-25T10:36:02Z",
+                    "open_issues": 0,
+                    "owner": "zeyu-Yan",
+                    "repo": "GUARD",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:51:51.249Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Forgetting Only What Matters: Layer-Selective Unlearning toward Robust LLMs",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "raviranjan-ai/FOMUL-AACL-2026",
+                  "description": "raviranjan-ai/FOMUL-AACL-2026",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1362698163,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-09-09T13:18:51Z",
+                    "open_issues": 0,
+                    "owner": "raviranjan-ai",
+                    "repo": "FOMUL-AACL-2026",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:51:51.249Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Beyond Cross-Lingual Transfer: Benchmarking Propagation Boundaries in Multilingual LLM Unlearning",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "CLLPU/CLLPU-bench",
+                  "description": "CLLPU/CLLPU-bench",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1312053533,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-08-10T10:12:32Z",
+                    "open_issues": 0,
+                    "owner": "CLLPU",
+                    "repo": "CLLPU-bench",
+                    "stars": 4,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:51:51.249Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "On the Recoverability of Private Information Unlearning in Large Language Models",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "rzTian/LLM-Unlearning-Recovery",
+                  "description": "rzTian/LLM-Unlearning-Recovery",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 963639605,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-09-01T16:05:54Z",
+                    "open_issues": 0,
+                    "owner": "rzTian",
+                    "repo": "LLM-Unlearning-Recovery",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-06T10:51:51.249Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
               "title": "Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks",
               "description": null,
               "children": [
@@ -2778,7 +2918,7 @@
                     "open_issues": 8,
                     "owner": "licong-lin",
                     "repo": "negative-preference-optimization",
-                    "stars": 77,
+                    "stars": 78,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3524,7 +3664,7 @@
                 "id": 954931404,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-04T14:41:33Z",
+                "last_commit": "2026-10-06T01:36:46Z",
                 "open_issues": 9,
                 "owner": "LeonardoSanBenitez",
                 "repo": "vision-unlearning",
@@ -3541,7 +3681,7 @@
             "id": 954931404,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T14:41:33Z",
+            "last_commit": "2026-10-06T01:36:46Z",
             "open_issues": 9,
             "owner": "LeonardoSanBenitez",
             "repo": "vision-unlearning",
@@ -3590,7 +3730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T21:40:58.103Z",
+    "last_updated": "2026-10-06T10:51:51.249Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
@@ -3598,7 +3738,7 @@
       "id": 778371641,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-08-06T09:51:49Z",
+      "last_commit": "2026-10-06T07:46:22Z",
       "open_issues": 1,
       "owner": "chrisliu298",
       "repo": "awesome-llm-unlearning",
@@ -3626,7 +3766,7 @@
         "unlearning"
       ]
     },
-    "original_repository_sha": "d59da0049bcca716ac1090de994fe9d14f7d99e7",
+    "original_repository_sha": "733b1f9e2a4e9cb9ccf1b8ec4b5398c150074585",
     "enhanced_repository": "enhansome/enhansome-llm-unlearning",
     "enhanced_repository_description": null,
     "title": "🧹 Awesome LLM Unlearning with stars"
