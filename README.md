@@ -2178,7 +2178,7 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
   * Code: -
 
 * [UniErase: Unlearning Token as a Universal Erasure Primitive for Language Models](https://arxiv.org/abs/2505.15674)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/Ymm-cll/UniErase) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-10-14
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/Ymm-cll/UniErase) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2025-10-14
   * Author(s): Miao Yu, Liang Lin, Guibin Zhang, Xinfeng Li, Junfeng Fang, Ningyu Zhang, Kun Wang, Yang Wang
   * Date: 2025-05
   * Venue: -
@@ -3678,8 +3678,8 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
 
 ## Frameworks
 
-* [Open Unlearning](https://github.com/locuslab/open-unlearning) ⭐ 609 | 🐛 22 | 🌐 Python | 📅 2026-09-29
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/locuslab/open-unlearning) ⭐ 609 | 🐛 22 | 🌐 Python | 📅 2026-09-29
+* [Open Unlearning](https://github.com/locuslab/open-unlearning) ⭐ 610 | 🐛 22 | 🌐 Python | 📅 2026-09-29
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/locuslab/open-unlearning) ⭐ 610 | 🐛 22 | 🌐 Python | 📅 2026-09-29
   * Author(s): Vineeth Dorna, Anmol Mekala, Wenlong Zhao, Andrew McCallum, J Zico Kolter, Pratyush Maini
   * Date: 2025-02
   * Venue: -
@@ -3734,4 +3734,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._

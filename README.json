@@ -1038,7 +1038,7 @@
                     "open_issues": 0,
                     "owner": "Ymm-cll",
                     "repo": "UniErase",
-                    "stars": 1,
+                    "stars": 2,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3601,7 +3601,7 @@
                 "open_issues": 22,
                 "owner": "locuslab",
                 "repo": "open-unlearning",
-                "stars": 609,
+                "stars": 610,
                 "topics": [
                   "benchmarks",
                   "llm-evaluation-metrics",
@@ -3630,7 +3630,7 @@
             "open_issues": 22,
             "owner": "locuslab",
             "repo": "open-unlearning",
-            "stars": 609,
+            "stars": 610,
             "topics": [
               "benchmarks",
               "llm-evaluation-metrics",
@@ -3730,7 +3730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T19:51:45.991Z",
+    "last_updated": "2026-10-07T20:12:57.971Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
@@ -3742,7 +3742,7 @@
       "open_issues": 1,
       "owner": "chrisliu298",
       "repo": "awesome-llm-unlearning",
-      "stars": 627,
+      "stars": 628,
       "topics": [
         "ai-safety",
         "alignment",
