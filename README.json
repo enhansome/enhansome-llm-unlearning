@@ -106,7 +106,7 @@
                     "id": 1312053533,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-08-10T10:12:32Z",
+                    "last_commit": "2026-10-08T04:06:50Z",
                     "open_issues": 0,
                     "owner": "CLLPU",
                     "repo": "CLLPU-bench",
@@ -3380,7 +3380,7 @@
                     "open_issues": 5,
                     "owner": "EleutherAI",
                     "repo": "concept-erasure",
-                    "stars": 268,
+                    "stars": 269,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3598,7 +3598,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-29T09:18:25Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "locuslab",
                 "repo": "open-unlearning",
                 "stars": 610,
@@ -3627,7 +3627,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-29T09:18:25Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "locuslab",
             "repo": "open-unlearning",
             "stars": 610,
@@ -3730,7 +3730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T20:12:57.971Z",
+    "last_updated": "2026-10-08T20:12:58.335Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
@@ -3742,7 +3742,7 @@
       "open_issues": 1,
       "owner": "chrisliu298",
       "repo": "awesome-llm-unlearning",
-      "stars": 628,
+      "stars": 629,
       "topics": [
         "ai-safety",
         "alignment",
