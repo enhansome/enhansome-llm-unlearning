@@ -293,7 +293,7 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
   * Venue: -
   * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://amitpeleg.github.io/forget-narrowly-retain-broadly)
 * [Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks](https://arxiv.org/abs/2607.07907)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/smsnobin77/Awesome-Multimodal-Unlearning) ⭐ 10 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-07-11
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/smsnobin77/Awesome-Multimodal-Unlearning) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-10-12
   * Author(s): Nobin Sarwar, Shubhashis Roy Dipta, Zheyuan Liu, Vaidehi Patil
   * Date: 2026-07
   * Venue: -
@@ -3099,7 +3099,7 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
   * Venue: -
   * Code: -
 * [Targeted Latent Adversarial Training Improves Robustness to Persistent Harmful Behaviors in LLMs](https://arxiv.org/abs/2407.15549)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/aengusl/latent-adversarial-training) ⭐ 49 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2024-09-29
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/aengusl/latent-adversarial-training) ⭐ 50 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2024-09-29
   * Author(s): Abhay Sheshadri, Aidan Ewart, Phillip Guo, Aengus Lynch, Cindy Wu, Vivek Hebbar, Henry Sleight, Asa Cooper Stickland, Ethan Perez, Dylan Hadfield-Menell, Stephen Casper
   * Date: 2024-07
   * Venue: -
@@ -3234,7 +3234,7 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
   * Venue: -
   * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/guangyaodou/SSU/tree/main)
 * [RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language Models](https://arxiv.org/abs/2406.10890)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/jinzhuoran/RWKU) ⭐ 102 | 🐛 8 | 🌐 Python | 📅 2024-09-30
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/jinzhuoran/RWKU) ⭐ 103 | 🐛 8 | 🌐 Python | 📅 2024-09-30
   * Author(s): Zhuoran Jin, Pengfei Cao, Chenhao Wang, Zhitao He, Hongbang Yuan, Jiachun Li, Yubo Chen, Kang Liu, Jun Zhao
   * Date: 2024-06
   * Venue: -
@@ -3678,8 +3678,8 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
 
 ## Frameworks
 
-* [Open Unlearning](https://github.com/locuslab/open-unlearning) ⭐ 611 | 🐛 23 | 🌐 Python | 📅 2026-09-29
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/locuslab/open-unlearning) ⭐ 611 | 🐛 23 | 🌐 Python | 📅 2026-09-29
+* [Open Unlearning](https://github.com/locuslab/open-unlearning) ⭐ 611 | 🐛 25 | 🌐 Python | 📅 2026-09-29
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/locuslab/open-unlearning) ⭐ 611 | 🐛 25 | 🌐 Python | 📅 2026-09-29
   * Author(s): Vineeth Dorna, Anmol Mekala, Wenlong Zhao, Andrew McCallum, J Zico Kolter, Pratyush Maini
   * Date: 2025-02
   * Venue: -
@@ -3734,4 +3734,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._

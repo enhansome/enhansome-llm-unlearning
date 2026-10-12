@@ -160,9 +160,9 @@
                     "description": "This repo presents a survey of multimodal unlearning across vision, language, video, and audio, covering papers, datasets, benchmarks, and open problems.",
                     "homepage": "https://smsnobin77.github.io/Awesome-Multimodal-Unlearning/",
                     "id": 1157666430,
-                    "language": "Jupyter Notebook",
+                    "language": "Python",
                     "license": "CC0-1.0",
-                    "last_commit": "2026-07-11T00:38:08Z",
+                    "last_commit": "2026-10-12T04:17:10Z",
                     "open_issues": 0,
                     "owner": "smsnobin77",
                     "repo": "Awesome-Multimodal-Unlearning",
@@ -2361,7 +2361,7 @@
                     "open_issues": 3,
                     "owner": "aengusl",
                     "repo": "latent-adversarial-training",
-                    "stars": 49,
+                    "stars": 50,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -2699,7 +2699,7 @@
                     "open_issues": 8,
                     "owner": "jinzhuoran",
                     "repo": "RWKU",
-                    "stars": 102,
+                    "stars": 103,
                     "topics": [
                       "adversarial-attacks",
                       "benchmark",
@@ -3598,7 +3598,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-29T09:18:25Z",
-                "open_issues": 23,
+                "open_issues": 25,
                 "owner": "locuslab",
                 "repo": "open-unlearning",
                 "stars": 611,
@@ -3627,7 +3627,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-29T09:18:25Z",
-            "open_issues": 23,
+            "open_issues": 25,
             "owner": "locuslab",
             "repo": "open-unlearning",
             "stars": 611,
@@ -3730,7 +3730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T19:12:20.394Z",
+    "last_updated": "2026-10-12T22:16:02.162Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
@@ -3742,7 +3742,7 @@
       "open_issues": 1,
       "owner": "chrisliu298",
       "repo": "awesome-llm-unlearning",
-      "stars": 629,
+      "stars": 630,
       "topics": [
         "ai-safety",
         "alignment",
