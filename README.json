@@ -106,8 +106,8 @@
                     "id": 1312053533,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-10-08T04:06:50Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-10-13T15:11:13Z",
+                    "open_issues": 1,
                     "owner": "CLLPU",
                     "repo": "CLLPU-bench",
                     "stars": 4,
@@ -1868,7 +1868,7 @@
                     "open_issues": 6,
                     "owner": "franciscoliu",
                     "repo": "MLLMU-Bench",
-                    "stars": 57,
+                    "stars": 56,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3664,7 +3664,7 @@
                 "id": 954931404,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T01:58:31Z",
+                "last_commit": "2026-10-13T06:49:57Z",
                 "open_issues": 9,
                 "owner": "LeonardoSanBenitez",
                 "repo": "vision-unlearning",
@@ -3681,7 +3681,7 @@
             "id": 954931404,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T01:58:31Z",
+            "last_commit": "2026-10-13T06:49:57Z",
             "open_issues": 9,
             "owner": "LeonardoSanBenitez",
             "repo": "vision-unlearning",
@@ -3730,7 +3730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:16:02.162Z",
+    "last_updated": "2026-10-13T20:22:58.368Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
