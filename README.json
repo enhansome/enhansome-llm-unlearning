@@ -106,8 +106,8 @@
                     "id": 1312053533,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-10-13T15:11:13Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-10-14T02:58:45Z",
+                    "open_issues": 0,
                     "owner": "CLLPU",
                     "repo": "CLLPU-bench",
                     "stars": 4,
@@ -521,9 +521,9 @@
                     "description": null,
                     "homepage": null,
                     "id": 1384708673,
-                    "language": null,
-                    "license": null,
-                    "last_commit": "2026-09-24T05:04:00Z",
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-13T23:15:46Z",
                     "open_issues": 0,
                     "owner": "zhangyun04",
                     "repo": "ULBench",
@@ -3601,7 +3601,7 @@
                 "open_issues": 25,
                 "owner": "locuslab",
                 "repo": "open-unlearning",
-                "stars": 611,
+                "stars": 613,
                 "topics": [
                   "benchmarks",
                   "llm-evaluation-metrics",
@@ -3630,7 +3630,7 @@
             "open_issues": 25,
             "owner": "locuslab",
             "repo": "open-unlearning",
-            "stars": 611,
+            "stars": 613,
             "topics": [
               "benchmarks",
               "llm-evaluation-metrics",
@@ -3730,7 +3730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T20:22:58.368Z",
+    "last_updated": "2026-10-14T18:57:47.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
@@ -3742,7 +3742,7 @@
       "open_issues": 1,
       "owner": "chrisliu298",
       "repo": "awesome-llm-unlearning",
-      "stars": 630,
+      "stars": 631,
       "topics": [
         "ai-safety",
         "alignment",
