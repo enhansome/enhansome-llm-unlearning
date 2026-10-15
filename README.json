@@ -22,7 +22,7 @@
                     "id": 1394014399,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-09-29T16:01:43Z",
+                    "last_commit": "2026-10-14T20:00:16Z",
                     "open_issues": 0,
                     "owner": "OptimAI-Lab",
                     "repo": "HiddenStateUnlearning",
@@ -2212,7 +2212,7 @@
                     "open_issues": 0,
                     "owner": "molereddy",
                     "repo": "Alternate-Preference-Optimization",
-                    "stars": 13,
+                    "stars": 12,
                     "topics": [
                       "large-language-models",
                       "unlearning"
@@ -2946,7 +2946,7 @@
                     "open_issues": 14,
                     "owner": "centerforaisafety",
                     "repo": "wmdp",
-                    "stars": 186,
+                    "stars": 187,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3471,7 +3471,7 @@
                     "open_issues": 10,
                     "owner": "mlfoundations",
                     "repo": "task_vectors",
-                    "stars": 554,
+                    "stars": 553,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3601,7 +3601,7 @@
                 "open_issues": 25,
                 "owner": "locuslab",
                 "repo": "open-unlearning",
-                "stars": 613,
+                "stars": 612,
                 "topics": [
                   "benchmarks",
                   "llm-evaluation-metrics",
@@ -3630,7 +3630,7 @@
             "open_issues": 25,
             "owner": "locuslab",
             "repo": "open-unlearning",
-            "stars": 613,
+            "stars": 612,
             "topics": [
               "benchmarks",
               "llm-evaluation-metrics",
@@ -3730,7 +3730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T18:57:47.414Z",
+    "last_updated": "2026-10-15T18:41:38.675Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
@@ -3742,7 +3742,7 @@
       "open_issues": 1,
       "owner": "chrisliu298",
       "repo": "awesome-llm-unlearning",
-      "stars": 631,
+      "stars": 630,
       "topics": [
         "ai-safety",
         "alignment",
