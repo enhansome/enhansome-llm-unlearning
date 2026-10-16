@@ -2946,7 +2946,7 @@
                     "open_issues": 14,
                     "owner": "centerforaisafety",
                     "repo": "wmdp",
-                    "stars": 187,
+                    "stars": 188,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3730,7 +3730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T18:41:38.675Z",
+    "last_updated": "2026-10-16T18:25:55.753Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
