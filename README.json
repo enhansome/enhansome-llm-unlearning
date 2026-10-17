@@ -3471,7 +3471,7 @@
                     "open_issues": 10,
                     "owner": "mlfoundations",
                     "repo": "task_vectors",
-                    "stars": 553,
+                    "stars": 552,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3730,7 +3730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T18:25:55.753Z",
+    "last_updated": "2026-10-17T17:33:35.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
