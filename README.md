@@ -513,7 +513,7 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
   * Date: 2026-05
   * Venue: -
 * [DualOptim+: Bridging Shared and Decoupled Optimizer States for Better Machine Unlearning in Large Language Models](https://arxiv.org/abs/2605.21539)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/CityU-MLO/DualOptimPlus) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-09-30
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/CityU-MLO/DualOptimPlus) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-09-30
   * Author(s): Xuyang Zhong, Qizhang Li, Yiwen Guo, Chen Liu
   * Date: 2026-05
   * Venue: -
@@ -2949,7 +2949,7 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
   * Date: 2024-10
   * Venue: -
 * [A Closer Look at Machine Unlearning for Large Language Models](https://arxiv.org/abs/2410.08109)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/sail-sg/closer-look-LLM-unlearning) ⭐ 50 | 🐛 2 | 🌐 Python | 📅 2024-12-04
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/sail-sg/closer-look-LLM-unlearning) ⭐ 51 | 🐛 2 | 🌐 Python | 📅 2024-12-04
   * Author(s): Xiaojian Yuan, Tianyu Pang, Chao Du, Kejiang Chen, Weiming Zhang, Min Lin
   * Date: 2024-10
   * Venue: -
@@ -3678,13 +3678,13 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
 
 ## Frameworks
 
-* [Open Unlearning](https://github.com/locuslab/open-unlearning) ⭐ 612 | 🐛 25 | 🌐 Python | 📅 2026-09-29
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/locuslab/open-unlearning) ⭐ 612 | 🐛 25 | 🌐 Python | 📅 2026-09-29
+* [Open Unlearning](https://github.com/locuslab/open-unlearning) ⭐ 613 | 🐛 22 | 🌐 Python | 📅 2026-10-17
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/locuslab/open-unlearning) ⭐ 613 | 🐛 22 | 🌐 Python | 📅 2026-10-17
   * Author(s): Vineeth Dorna, Anmol Mekala, Wenlong Zhao, Andrew McCallum, J Zico Kolter, Pratyush Maini
   * Date: 2025-02
   * Venue: -
-* [Vision Unlearning](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 9 | 🌐 Python | 📅 2026-10-13
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 9 | 🌐 Python | 📅 2026-10-13
+* [Vision Unlearning](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 9 | 🌐 Python | 📅 2026-10-18
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 9 | 🌐 Python | 📅 2026-10-18
   * Author(s): Leonardo Benitez, Carolina Kelsch, Natnael Mola
   * Date: 2025-02
   * Venue: -
@@ -3734,4 +3734,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
