@@ -166,7 +166,7 @@
                     "open_issues": 0,
                     "owner": "smsnobin77",
                     "repo": "Awesome-Multimodal-Unlearning",
-                    "stars": 10,
+                    "stars": 11,
                     "topics": [
                       "ai-safety",
                       "diffusion-models",
@@ -491,7 +491,7 @@
                     "open_issues": 0,
                     "owner": "OPTML-Group",
                     "repo": "SIFT",
-                    "stars": 8,
+                    "stars": 9,
                     "topics": [
                       "hallucination",
                       "machine-unlearning",
@@ -3156,7 +3156,7 @@
                     "open_issues": 1,
                     "owner": "flamewei123",
                     "repo": "DEPN",
-                    "stars": 24,
+                    "stars": 25,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3380,7 +3380,7 @@
                     "open_issues": 5,
                     "owner": "EleutherAI",
                     "repo": "concept-erasure",
-                    "stars": 269,
+                    "stars": 270,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3664,7 +3664,7 @@
                 "id": 954931404,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-21T02:18:36Z",
+                "last_commit": "2026-10-22T18:50:03Z",
                 "open_issues": 9,
                 "owner": "LeonardoSanBenitez",
                 "repo": "vision-unlearning",
@@ -3681,7 +3681,7 @@
             "id": 954931404,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T02:18:36Z",
+            "last_commit": "2026-10-22T18:50:03Z",
             "open_issues": 9,
             "owner": "LeonardoSanBenitez",
             "repo": "vision-unlearning",
@@ -3730,7 +3730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T18:58:30.691Z",
+    "last_updated": "2026-10-22T18:52:54.741Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
@@ -3742,7 +3742,7 @@
       "open_issues": 1,
       "owner": "chrisliu298",
       "repo": "awesome-llm-unlearning",
-      "stars": 632,
+      "stars": 633,
       "topics": [
         "ai-safety",
         "alignment",
