@@ -2864,7 +2864,7 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
   * Date: 2024-11
   * Venue: -
 * [Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench](https://arxiv.org/abs/2410.22108)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/franciscoliu/MLLMU-Bench) ⭐ 57 | 🐛 6 | 🌐 Python | 📅 2025-03-13
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/franciscoliu/MLLMU-Bench) ⭐ 58 | 🐛 7 | 🌐 Python | 📅 2025-03-13
   * Author(s): Zheyuan Liu, Guangyao Dou, Mengzhao Jia, Zhaoxuan Tan, Qingkai Zeng, Yongle Yuan, Meng Jiang
   * Date: 2024-10
   * Venue: -
@@ -2904,7 +2904,7 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
   * Venue: -
   * Code: -
 * [Does your LLM truly unlearn? An embarrassingly simple approach to recover unlearned knowledge](https://arxiv.org/abs/2410.16454)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/zzwjames/FailureLLMUnlearning) ⭐ 40 | 🐛 0 | 🌐 Python | 📅 2025-02-22
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/zzwjames/FailureLLMUnlearning) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2025-02-22
   * Author(s): Zhiwei Zhang, Fali Wang, Xiaomin Li, Zongyu Wu, Xianfeng Tang, Hui Liu, Qi He, Wenpeng Yin, Suhang Wang
   * Date: 2024-10
   * Venue: -
@@ -3734,4 +3734,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
