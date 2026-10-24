@@ -2473,7 +2473,7 @@
                     "open_issues": 1,
                     "owner": "zjunlp",
                     "repo": "KnowUnDo",
-                    "stars": 48,
+                    "stars": 49,
                     "topics": [
                       "artificial-intelligence",
                       "benchmark",
@@ -3562,7 +3562,7 @@
                     "open_issues": 2,
                     "owner": "alisawuffles",
                     "repo": "DExperts",
-                    "stars": 119,
+                    "stars": 120,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3601,7 +3601,7 @@
                 "open_issues": 22,
                 "owner": "locuslab",
                 "repo": "open-unlearning",
-                "stars": 616,
+                "stars": 618,
                 "topics": [
                   "benchmarks",
                   "llm-evaluation-metrics",
@@ -3630,7 +3630,7 @@
             "open_issues": 22,
             "owner": "locuslab",
             "repo": "open-unlearning",
-            "stars": 616,
+            "stars": 618,
             "topics": [
               "benchmarks",
               "llm-evaluation-metrics",
@@ -3664,7 +3664,7 @@
                 "id": 954931404,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T18:59:11Z",
+                "last_commit": "2026-10-24T13:57:00Z",
                 "open_issues": 9,
                 "owner": "LeonardoSanBenitez",
                 "repo": "vision-unlearning",
@@ -3681,7 +3681,7 @@
             "id": 954931404,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T18:59:11Z",
+            "last_commit": "2026-10-24T13:57:00Z",
             "open_issues": 9,
             "owner": "LeonardoSanBenitez",
             "repo": "vision-unlearning",
@@ -3730,7 +3730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T18:44:53.499Z",
+    "last_updated": "2026-10-24T17:38:08.949Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
