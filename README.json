@@ -3597,8 +3597,8 @@
                 "id": 741543947,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-17T18:18:02Z",
-                "open_issues": 22,
+                "last_commit": "2026-10-25T17:10:21Z",
+                "open_issues": 17,
                 "owner": "locuslab",
                 "repo": "open-unlearning",
                 "stars": 618,
@@ -3626,8 +3626,8 @@
             "id": 741543947,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-17T18:18:02Z",
-            "open_issues": 22,
+            "last_commit": "2026-10-25T17:10:21Z",
+            "open_issues": 17,
             "owner": "locuslab",
             "repo": "open-unlearning",
             "stars": 618,
@@ -3730,7 +3730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:38:08.949Z",
+    "last_updated": "2026-10-25T17:53:16.320Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
@@ -3742,7 +3742,7 @@
       "open_issues": 1,
       "owner": "chrisliu298",
       "repo": "awesome-llm-unlearning",
-      "stars": 634,
+      "stars": 635,
       "topics": [
         "ai-safety",
         "alignment",
