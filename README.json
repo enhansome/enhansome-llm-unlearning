@@ -2946,7 +2946,7 @@
                     "open_issues": 14,
                     "owner": "centerforaisafety",
                     "repo": "wmdp",
-                    "stars": 189,
+                    "stars": 190,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3240,7 +3240,7 @@
                     "open_issues": 10,
                     "owner": "kevinyaobytedance",
                     "repo": "llm_unlearn",
-                    "stars": 188,
+                    "stars": 189,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3499,7 +3499,7 @@
                     "open_issues": 4,
                     "owner": "joeljang",
                     "repo": "knowledge-unlearning",
-                    "stars": 87,
+                    "stars": 88,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3597,11 +3597,11 @@
                 "id": 741543947,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-25T17:10:21Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-26T03:58:49Z",
+                "open_issues": 18,
                 "owner": "locuslab",
                 "repo": "open-unlearning",
-                "stars": 618,
+                "stars": 620,
                 "topics": [
                   "benchmarks",
                   "llm-evaluation-metrics",
@@ -3626,11 +3626,11 @@
             "id": 741543947,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-25T17:10:21Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-26T03:58:49Z",
+            "open_issues": 18,
             "owner": "locuslab",
             "repo": "open-unlearning",
-            "stars": 618,
+            "stars": 620,
             "topics": [
               "benchmarks",
               "llm-evaluation-metrics",
@@ -3664,7 +3664,7 @@
                 "id": 954931404,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T13:57:00Z",
+                "last_commit": "2026-10-26T01:39:57Z",
                 "open_issues": 9,
                 "owner": "LeonardoSanBenitez",
                 "repo": "vision-unlearning",
@@ -3681,7 +3681,7 @@
             "id": 954931404,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T13:57:00Z",
+            "last_commit": "2026-10-26T01:39:57Z",
             "open_issues": 9,
             "owner": "LeonardoSanBenitez",
             "repo": "vision-unlearning",
@@ -3730,7 +3730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T17:53:16.320Z",
+    "last_updated": "2026-10-26T20:10:59.865Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
@@ -3742,7 +3742,7 @@
       "open_issues": 1,
       "owner": "chrisliu298",
       "repo": "awesome-llm-unlearning",
-      "stars": 635,
+      "stars": 637,
       "topics": [
         "ai-safety",
         "alignment",
