@@ -128,7 +128,7 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
   * Venue: -
   * Code: -
 * [GUARD: Natural Forgetting in Large Reasoning Models via Guided Answer-Reasoning Distillation](https://arxiv.org/abs/2609.21677)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/zeyu-Yan/GUARD) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-05-25
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/zeyu-Yan/GUARD) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-05-25
   * Author(s): Zeyu Yan, Guanghao Zhou, Minghui Qiu, Ming Gao, Cen Chen
   * Date: 2026-09
   * Venue: -
@@ -3678,13 +3678,13 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
 
 ## Frameworks
 
-* [Open Unlearning](https://github.com/locuslab/open-unlearning) ⭐ 620 | 🐛 18 | 🌐 Python | 📅 2026-10-26
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/locuslab/open-unlearning) ⭐ 620 | 🐛 18 | 🌐 Python | 📅 2026-10-26
+* [Open Unlearning](https://github.com/locuslab/open-unlearning) ⭐ 622 | 🐛 18 | 🌐 Python | 📅 2026-10-26
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/locuslab/open-unlearning) ⭐ 622 | 🐛 18 | 🌐 Python | 📅 2026-10-26
   * Author(s): Vineeth Dorna, Anmol Mekala, Wenlong Zhao, Andrew McCallum, J Zico Kolter, Pratyush Maini
   * Date: 2025-02
   * Venue: -
-* [Vision Unlearning](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 9 | 🌐 Python | 📅 2026-10-27
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 9 | 🌐 Python | 📅 2026-10-27
+* [Vision Unlearning](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 9 | 🌐 Python | 📅 2026-10-28
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 9 | 🌐 Python | 📅 2026-10-28
   * Author(s): Leonardo Benitez, Carolina Kelsch, Natnael Mola
   * Date: 2025-02
   * Venue: -
@@ -3734,4 +3734,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._

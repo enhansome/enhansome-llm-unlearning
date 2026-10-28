@@ -54,7 +54,7 @@
                     "open_issues": 0,
                     "owner": "zeyu-Yan",
                     "repo": "GUARD",
-                    "stars": 0,
+                    "stars": 1,
                     "topics": []
                   },
                   "first_seen": "2026-10-06T10:51:51.249Z"
@@ -3601,7 +3601,7 @@
                 "open_issues": 18,
                 "owner": "locuslab",
                 "repo": "open-unlearning",
-                "stars": 620,
+                "stars": 622,
                 "topics": [
                   "benchmarks",
                   "llm-evaluation-metrics",
@@ -3630,7 +3630,7 @@
             "open_issues": 18,
             "owner": "locuslab",
             "repo": "open-unlearning",
-            "stars": 620,
+            "stars": 622,
             "topics": [
               "benchmarks",
               "llm-evaluation-metrics",
@@ -3664,7 +3664,7 @@
                 "id": 954931404,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T17:54:47Z",
+                "last_commit": "2026-10-28T07:49:13Z",
                 "open_issues": 9,
                 "owner": "LeonardoSanBenitez",
                 "repo": "vision-unlearning",
@@ -3681,7 +3681,7 @@
             "id": 954931404,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T17:54:47Z",
+            "last_commit": "2026-10-28T07:49:13Z",
             "open_issues": 9,
             "owner": "LeonardoSanBenitez",
             "repo": "vision-unlearning",
@@ -3730,7 +3730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T19:40:57.037Z",
+    "last_updated": "2026-10-28T19:54:28.707Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
