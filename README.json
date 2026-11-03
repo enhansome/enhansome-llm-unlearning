@@ -2361,7 +2361,7 @@
                     "open_issues": 3,
                     "owner": "aengusl",
                     "repo": "latent-adversarial-training",
-                    "stars": 50,
+                    "stars": 51,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3730,7 +3730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:54:35.354Z",
+    "last_updated": "2026-11-03T20:39:54.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
