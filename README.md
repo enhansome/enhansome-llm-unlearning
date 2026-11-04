@@ -293,7 +293,7 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
   * Venue: -
   * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://amitpeleg.github.io/forget-narrowly-retain-broadly)
 * [Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks](https://arxiv.org/abs/2607.07907)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/smsnobin77/Awesome-Multimodal-Unlearning) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-10-12
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/smsnobin77/Awesome-Multimodal-Unlearning) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-10-12
   * Author(s): Nobin Sarwar, Shubhashis Roy Dipta, Zheyuan Liu, Vaidehi Patil
   * Date: 2026-07
   * Venue: -
@@ -793,7 +793,7 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
   * Venue: -
   * Code: -
 * [Can VLMs Truly Forget? Benchmarking Training-Free Visual Concept Unlearning](https://arxiv.org/abs/2604.03114)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/zhangyun04/ULBench) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-13
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/zhangyun04/ULBench) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-10-13
   * Author(s): Zhangyun Tan, Zeliang Zhang, Susan Liang, Yolo Yunlong Tang, Lisha Chen, Chenliang Xu
   * Date: 2026-04
   * Venue: -
@@ -3512,7 +3512,7 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
   * Venue: -
   * Code: -
 * [LEACE: Perfect linear concept erasure in closed form](https://arxiv.org/abs/2306.03819)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/EleutherAI/concept-erasure) ⭐ 271 | 🐛 5 | 🌐 Python | 📅 2025-01-27
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/EleutherAI/concept-erasure) ⭐ 272 | 🐛 5 | 🌐 Python | 📅 2025-01-27
   * Author(s): Nora Belrose, David Schneider-Joseph, Shauli Ravfogel, Ryan Cotterell, Edward Raff, Stella Biderman
   * Date: 2023-06
   * Venue: NeurIPS 2023
@@ -3535,7 +3535,7 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
 ### 2022
 
 * [Editing Models with Task Arithmetic](https://arxiv.org/abs/2212.04089)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/mlfoundations/task_vectors) ⭐ 552 | 🐛 10 | 🌐 Python | 📅 2024-01-11
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/mlfoundations/task_vectors) ⭐ 551 | 🐛 10 | 🌐 Python | 📅 2024-01-11
   * Author(s): Gabriel Ilharco, Marco Tulio Ribeiro, Mitchell Wortsman, Suchin Gururangan, Ludwig Schmidt, Hannaneh Hajishirzi, Ali Farhadi
   * Date: 2022-12
   * Venue: ICLR 2023
@@ -3678,8 +3678,8 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
 
 ## Frameworks
 
-* [Open Unlearning](https://github.com/locuslab/open-unlearning) ⭐ 625 | 🐛 16 | 🌐 Python | 📅 2026-10-31
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/locuslab/open-unlearning) ⭐ 625 | 🐛 16 | 🌐 Python | 📅 2026-10-31
+* [Open Unlearning](https://github.com/locuslab/open-unlearning) ⭐ 626 | 🐛 18 | 🌐 Python | 📅 2026-10-31
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/locuslab/open-unlearning) ⭐ 626 | 🐛 18 | 🌐 Python | 📅 2026-10-31
   * Author(s): Vineeth Dorna, Anmol Mekala, Wenlong Zhao, Andrew McCallum, J Zico Kolter, Pratyush Maini
   * Date: 2025-02
   * Venue: -
@@ -3734,4 +3734,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._

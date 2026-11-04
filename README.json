@@ -166,7 +166,7 @@
                     "open_issues": 0,
                     "owner": "smsnobin77",
                     "repo": "Awesome-Multimodal-Unlearning",
-                    "stars": 11,
+                    "stars": 12,
                     "topics": [
                       "ai-safety",
                       "diffusion-models",
@@ -527,7 +527,7 @@
                     "open_issues": 0,
                     "owner": "zhangyun04",
                     "repo": "ULBench",
-                    "stars": 0,
+                    "stars": 1,
                     "topics": []
                   },
                   "first_seen": "2026-09-24T18:41:53.730Z"
@@ -3380,7 +3380,7 @@
                     "open_issues": 5,
                     "owner": "EleutherAI",
                     "repo": "concept-erasure",
-                    "stars": 271,
+                    "stars": 272,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3471,7 +3471,7 @@
                     "open_issues": 10,
                     "owner": "mlfoundations",
                     "repo": "task_vectors",
-                    "stars": 552,
+                    "stars": 551,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3598,10 +3598,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-31T18:20:40Z",
-                "open_issues": 16,
+                "open_issues": 18,
                 "owner": "locuslab",
                 "repo": "open-unlearning",
-                "stars": 625,
+                "stars": 626,
                 "topics": [
                   "benchmarks",
                   "llm-evaluation-metrics",
@@ -3627,10 +3627,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-31T18:20:40Z",
-            "open_issues": 16,
+            "open_issues": 18,
             "owner": "locuslab",
             "repo": "open-unlearning",
-            "stars": 625,
+            "stars": 626,
             "topics": [
               "benchmarks",
               "llm-evaluation-metrics",
@@ -3730,7 +3730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:39:54.595Z",
+    "last_updated": "2026-11-04T20:57:23.790Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
