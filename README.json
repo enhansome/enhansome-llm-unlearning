@@ -3601,7 +3601,7 @@
                 "open_issues": 20,
                 "owner": "locuslab",
                 "repo": "open-unlearning",
-                "stars": 626,
+                "stars": 627,
                 "topics": [
                   "benchmarks",
                   "llm-evaluation-metrics",
@@ -3630,7 +3630,7 @@
             "open_issues": 20,
             "owner": "locuslab",
             "repo": "open-unlearning",
-            "stars": 626,
+            "stars": 627,
             "topics": [
               "benchmarks",
               "llm-evaluation-metrics",
@@ -3730,7 +3730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:37:33.950Z",
+    "last_updated": "2026-11-07T19:04:24.886Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
