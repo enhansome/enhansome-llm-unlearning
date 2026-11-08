@@ -926,7 +926,7 @@
                     "open_issues": 2,
                     "owner": "EleutherAI",
                     "repo": "deep-ignorance",
-                    "stars": 30,
+                    "stars": 31,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -1234,7 +1234,7 @@
                     "open_issues": 0,
                     "owner": "chentong0",
                     "repo": "ParaPO",
-                    "stars": 6,
+                    "stars": 7,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3730,7 +3730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:04:24.886Z",
+    "last_updated": "2026-11-08T19:11:25.568Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",

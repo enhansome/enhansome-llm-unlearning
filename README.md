@@ -1788,7 +1788,7 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
   * Code: -
 
 * [Deep Ignorance: Filtering Pretraining Data Builds Tamper-Resistant Safeguards into Open-Weight LLMs](https://arxiv.org/abs/2508.06601)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/EleutherAI/deep-ignorance) ⭐ 30 | 🐛 2 | 🌐 Python | 📅 2026-01-07
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/EleutherAI/deep-ignorance) ⭐ 31 | 🐛 2 | 🌐 Python | 📅 2026-01-07
   * Author(s): Kyle O'Brien, Stephen Casper, Quentin Anthony, Tomek Korbak, Robert Kirk, Xander Davies, Ishan Mishra, Geoffrey Irving, Yarin Gal, Stella Biderman
   * Date: 2025-08
   * Venue: -
@@ -2268,7 +2268,7 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
   * Code: -
 
 * [ParaPO: Aligning Language Models to Reduce Verbatim Reproduction of Pre-training Data](https://arxiv.org/abs/2504.14452)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/chentong0/ParaPO) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2025-05-06
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/chentong0/ParaPO) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2025-05-06
   * Author(s): Tong Chen, Faeze Brahman, Jiacheng Liu, Niloofar Mireshghallah, Weijia Shi, Pang Wei Koh, Luke Zettlemoyer, Hannaneh Hajishirzi
   * Date: 2025-04
   * Venue: -
@@ -3734,4 +3734,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
