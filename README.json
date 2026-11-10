@@ -3597,8 +3597,8 @@
                 "id": 741543947,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-31T18:20:40Z",
-                "open_issues": 20,
+                "last_commit": "2026-11-10T17:15:18Z",
+                "open_issues": 19,
                 "owner": "locuslab",
                 "repo": "open-unlearning",
                 "stars": 627,
@@ -3626,8 +3626,8 @@
             "id": 741543947,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-31T18:20:40Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-10T17:15:18Z",
+            "open_issues": 19,
             "owner": "locuslab",
             "repo": "open-unlearning",
             "stars": 627,
@@ -3730,7 +3730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:36:04.070Z",
+    "last_updated": "2026-11-10T21:02:03.879Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
