@@ -2864,7 +2864,7 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
   * Date: 2024-11
   * Venue: -
 * [Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench](https://arxiv.org/abs/2410.22108)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/franciscoliu/MLLMU-Bench) ⭐ 60 | 🐛 7 | 🌐 Python | 📅 2025-03-13
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/franciscoliu/MLLMU-Bench) ⭐ 60 | 🐛 8 | 🌐 Python | 📅 2025-03-13
   * Author(s): Zheyuan Liu, Guangyao Dou, Mengzhao Jia, Zhaoxuan Tan, Qingkai Zeng, Yongle Yuan, Meng Jiang
   * Date: 2024-10
   * Venue: -
@@ -3284,7 +3284,7 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
   * Venue: -
   * Code: -
 * [Large Scale Knowledge Washing](https://arxiv.org/abs/2405.16720)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/wangyu-ustc/LargeScaleWashing) ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2024-06-12
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/wangyu-ustc/LargeScaleWashing) ⭐ 11 | 🐛 2 | 🌐 Python | 📅 2024-06-12
   * Author(s): Yu Wang, Ruihan Wu, Zexue He, Xiusi Chen, Julian McAuley
   * Date: 2024-05
   * Venue: -
@@ -3467,7 +3467,7 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
   * Date: 2023-10
   * Venue: ICML 2024
 * [Large Language Model Unlearning](https://arxiv.org/abs/2310.10683)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/kevinyaobytedance/llm_unlearn) ⭐ 189 | 🐛 10 | 🌐 Python | 📅 2023-10-20
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/kevinyaobytedance/llm_unlearn) ⭐ 190 | 🐛 10 | 🌐 Python | 📅 2023-10-20
   * Author(s): Yuanshun Yao, Xiaojun Xu, Yang Liu
   * Date: 2023-10
   * Venue: NeurIPS 2023 SoLaR Workshop
@@ -3734,4 +3734,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
