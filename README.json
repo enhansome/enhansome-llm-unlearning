@@ -1609,7 +1609,7 @@
                     "open_issues": 0,
                     "owner": "OPTML-Group",
                     "repo": "Unlearn-Smooth",
-                    "stars": 25,
+                    "stars": 26,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -2946,7 +2946,7 @@
                     "open_issues": 14,
                     "owner": "centerforaisafety",
                     "repo": "wmdp",
-                    "stars": 191,
+                    "stars": 192,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3121,7 +3121,7 @@
                     "open_issues": 2,
                     "owner": "locuslab",
                     "repo": "tofu",
-                    "stars": 29,
+                    "stars": 30,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3240,7 +3240,7 @@
                     "open_issues": 10,
                     "owner": "kevinyaobytedance",
                     "repo": "llm_unlearn",
-                    "stars": 190,
+                    "stars": 191,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3730,7 +3730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:58:33.587Z",
+    "last_updated": "2026-11-16T23:31:58.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
