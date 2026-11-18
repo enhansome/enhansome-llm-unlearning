@@ -2864,7 +2864,7 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
   * Date: 2024-11
   * Venue: -
 * [Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench](https://arxiv.org/abs/2410.22108)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/franciscoliu/MLLMU-Bench) ⭐ 60 | 🐛 8 | 🌐 Python | 📅 2025-03-13
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/franciscoliu/MLLMU-Bench) ⭐ 61 | 🐛 8 | 🌐 Python | 📅 2025-03-13
   * Author(s): Zheyuan Liu, Guangyao Dou, Mengzhao Jia, Zhaoxuan Tan, Qingkai Zeng, Yongle Yuan, Meng Jiang
   * Date: 2024-10
   * Venue: -
@@ -3678,8 +3678,8 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
 
 ## Frameworks
 
-* [Open Unlearning](https://github.com/locuslab/open-unlearning) ⭐ 628 | 🐛 18 | 🌐 Python | 📅 2026-11-11
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/locuslab/open-unlearning) ⭐ 628 | 🐛 18 | 🌐 Python | 📅 2026-11-11
+* [Open Unlearning](https://github.com/locuslab/open-unlearning) ⭐ 629 | 🐛 18 | 🌐 Python | 📅 2026-11-11
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/locuslab/open-unlearning) ⭐ 629 | 🐛 18 | 🌐 Python | 📅 2026-11-11
   * Author(s): Vineeth Dorna, Anmol Mekala, Wenlong Zhao, Andrew McCallum, J Zico Kolter, Pratyush Maini
   * Date: 2025-02
   * Venue: -
@@ -3734,4 +3734,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
