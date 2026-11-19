@@ -3730,7 +3730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:22:43.303Z",
+    "last_updated": "2026-11-19T22:28:30.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
@@ -3742,7 +3742,7 @@
       "open_issues": 1,
       "owner": "chrisliu298",
       "repo": "awesome-llm-unlearning",
-      "stars": 638,
+      "stars": 639,
       "topics": [
         "ai-safety",
         "alignment",
