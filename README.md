@@ -3678,8 +3678,8 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
 
 ## Frameworks
 
-* [Open Unlearning](https://github.com/locuslab/open-unlearning) ⭐ 629 | 🐛 18 | 🌐 Python | 📅 2026-11-11
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/locuslab/open-unlearning) ⭐ 629 | 🐛 18 | 🌐 Python | 📅 2026-11-11
+* [Open Unlearning](https://github.com/locuslab/open-unlearning) ⭐ 630 | 🐛 18 | 🌐 Python | 📅 2026-11-11
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/locuslab/open-unlearning) ⭐ 630 | 🐛 18 | 🌐 Python | 📅 2026-11-11
   * Author(s): Vineeth Dorna, Anmol Mekala, Wenlong Zhao, Andrew McCallum, J Zico Kolter, Pratyush Maini
   * Date: 2025-02
   * Venue: -
@@ -3734,4 +3734,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
