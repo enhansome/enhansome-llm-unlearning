@@ -293,7 +293,7 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
   * Venue: -
   * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://amitpeleg.github.io/forget-narrowly-retain-broadly)
 * [Multimodal Unlearning Across Vision, Language, Video, and Audio: Survey of Methods, Datasets, and Benchmarks](https://arxiv.org/abs/2607.07907)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/smsnobin77/Awesome-Multimodal-Unlearning) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-10-12
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/smsnobin77/Awesome-Multimodal-Unlearning) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-10-12
   * Author(s): Nobin Sarwar, Shubhashis Roy Dipta, Zheyuan Liu, Vaidehi Patil
   * Date: 2026-07
   * Venue: -
@@ -3678,13 +3678,13 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
 
 ## Frameworks
 
-* [Open Unlearning](https://github.com/locuslab/open-unlearning) ⭐ 631 | 🐛 18 | 🌐 Python | 📅 2026-11-11
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/locuslab/open-unlearning) ⭐ 631 | 🐛 18 | 🌐 Python | 📅 2026-11-11
+* [Open Unlearning](https://github.com/locuslab/open-unlearning) ⭐ 631 | 🐛 18 | 🌐 Python | 📅 2026-11-24
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/locuslab/open-unlearning) ⭐ 631 | 🐛 18 | 🌐 Python | 📅 2026-11-24
   * Author(s): Vineeth Dorna, Anmol Mekala, Wenlong Zhao, Andrew McCallum, J Zico Kolter, Pratyush Maini
   * Date: 2025-02
   * Venue: -
-* [Vision Unlearning](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 9 | 🌐 Python | 📅 2026-11-15
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 9 | 🌐 Python | 📅 2026-11-15
+* [Vision Unlearning](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 9 | 🌐 Python | 📅 2026-11-24
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/LeonardoSanBenitez/vision-unlearning) ⭐ 4 | 🐛 9 | 🌐 Python | 📅 2026-11-24
   * Author(s): Leonardo Benitez, Carolina Kelsch, Natnael Mola
   * Date: 2025-02
   * Venue: -
