@@ -926,7 +926,7 @@
                     "open_issues": 2,
                     "owner": "EleutherAI",
                     "repo": "deep-ignorance",
-                    "stars": 31,
+                    "stars": 30,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3597,8 +3597,8 @@
                 "id": 741543947,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-24T23:14:15Z",
-                "open_issues": 18,
+                "last_commit": "2026-11-25T18:11:28Z",
+                "open_issues": 17,
                 "owner": "locuslab",
                 "repo": "open-unlearning",
                 "stars": 631,
@@ -3626,8 +3626,8 @@
             "id": 741543947,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-24T23:14:15Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-25T18:11:28Z",
+            "open_issues": 17,
             "owner": "locuslab",
             "repo": "open-unlearning",
             "stars": 631,
@@ -3730,7 +3730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T23:39:26.348Z",
+    "last_updated": "2026-11-25T23:22:17.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
