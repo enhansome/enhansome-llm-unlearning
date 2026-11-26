@@ -3512,7 +3512,7 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
   * Venue: -
   * Code: -
 * [LEACE: Perfect linear concept erasure in closed form](https://arxiv.org/abs/2306.03819)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/EleutherAI/concept-erasure) ⭐ 273 | 🐛 5 | 🌐 Python | 📅 2025-01-27
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/EleutherAI/concept-erasure) ⭐ 274 | 🐛 5 | 🌐 Python | 📅 2025-01-27
   * Author(s): Nora Belrose, David Schneider-Joseph, Shauli Ravfogel, Ryan Cotterell, Edward Raff, Stella Biderman
   * Date: 2023-06
   * Venue: NeurIPS 2023
@@ -3678,8 +3678,8 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
 
 ## Frameworks
 
-* [Open Unlearning](https://github.com/locuslab/open-unlearning) ⭐ 631 | 🐛 17 | 🌐 Python | 📅 2026-11-25
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/locuslab/open-unlearning) ⭐ 631 | 🐛 17 | 🌐 Python | 📅 2026-11-25
+* [Open Unlearning](https://github.com/locuslab/open-unlearning) ⭐ 631 | 🐛 15 | 🌐 Python | 📅 2026-11-26
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/locuslab/open-unlearning) ⭐ 631 | 🐛 15 | 🌐 Python | 📅 2026-11-26
   * Author(s): Vineeth Dorna, Anmol Mekala, Wenlong Zhao, Andrew McCallum, J Zico Kolter, Pratyush Maini
   * Date: 2025-02
   * Venue: -
@@ -3734,4 +3734,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
