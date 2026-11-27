@@ -2268,7 +2268,7 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
   * Code: -
 
 * [ParaPO: Aligning Language Models to Reduce Verbatim Reproduction of Pre-training Data](https://arxiv.org/abs/2504.14452)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/chentong0/ParaPO) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2025-05-06
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/chentong0/ParaPO) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2025-05-06
   * Author(s): Tong Chen, Faeze Brahman, Jiacheng Liu, Niloofar Mireshghallah, Weijia Shi, Pang Wei Koh, Luke Zettlemoyer, Hannaneh Hajishirzi
   * Date: 2025-04
   * Venue: -
@@ -2839,7 +2839,7 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
   * Venue: -
   * Code: -
 * [Does Unlearning Truly Unlearn? A Black Box Evaluation of LLM Unlearning Methods](https://arxiv.org/abs/2411.12103)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/JaiDoshi/Knowledge-Erasure) ⭐ 2 | 🐛 2 | 🌐 Python | 📅 2025-03-12
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/JaiDoshi/Knowledge-Erasure) ⭐ 1 | 🐛 2 | 🌐 Python | 📅 2025-03-12
   * Author(s): Jai Doshi, Asa Cooper Stickland
   * Date: 2024-11
   * Venue: -
@@ -3452,7 +3452,7 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
   * Venue: -
   * Code: -
 * [DEPN: Detecting and Editing Privacy Neurons in Pretrained Language Models](https://arxiv.org/abs/2310.20138)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/flamewei123/DEPN) ⭐ 25 | 🐛 1 | 🌐 Python | 📅 2024-04-20
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/flamewei123/DEPN) ⭐ 24 | 🐛 1 | 🌐 Python | 📅 2024-04-20
   * Author(s): Xinwei Wu, Junzhuo Li, Minghui Xu, Weilong Dong, Shuangzhi Wu, Chao Bian, Deyi Xiong
   * Date: 2023-10
   * Venue: EMNLP 2023
@@ -3535,7 +3535,7 @@ As of the last commit, there are **651** papers, **19** surveys and position pap
 ### 2022
 
 * [Editing Models with Task Arithmetic](https://arxiv.org/abs/2212.04089)
-  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/mlfoundations/task_vectors) ⭐ 551 | 🐛 10 | 🌐 Python | 📅 2024-01-11
+  * Code: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/mlfoundations/task_vectors) ⭐ 549 | 🐛 10 | 🌐 Python | 📅 2024-01-11
   * Author(s): Gabriel Ilharco, Marco Tulio Ribeiro, Mitchell Wortsman, Suchin Gururangan, Ludwig Schmidt, Hannaneh Hajishirzi, Ali Farhadi
   * Date: 2022-12
   * Venue: ICLR 2023
@@ -3734,4 +3734,4 @@ If you find this repository useful, please consider citing it:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._

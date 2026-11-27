@@ -1234,7 +1234,7 @@
                     "open_issues": 0,
                     "owner": "chentong0",
                     "repo": "ParaPO",
-                    "stars": 7,
+                    "stars": 6,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -1784,7 +1784,7 @@
                     "open_issues": 2,
                     "owner": "JaiDoshi",
                     "repo": "Knowledge-Erasure",
-                    "stars": 2,
+                    "stars": 1,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3156,7 +3156,7 @@
                     "open_issues": 1,
                     "owner": "flamewei123",
                     "repo": "DEPN",
-                    "stars": 25,
+                    "stars": 24,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3471,7 +3471,7 @@
                     "open_issues": 10,
                     "owner": "mlfoundations",
                     "repo": "task_vectors",
-                    "stars": 551,
+                    "stars": 549,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:43:12.438Z"
@@ -3730,7 +3730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T23:21:17.482Z",
+    "last_updated": "2026-11-27T22:59:30.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "A resource repository for machine unlearning in large language models",
